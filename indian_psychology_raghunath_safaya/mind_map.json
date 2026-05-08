@@ -1,0 +1,178 @@
+{
+  "name": "Indian Psychology",
+  "children": [
+    {
+      "name": "Foundations",
+      "children": [
+        {
+          "name": "Philosophical Basis",
+          "children": [
+            {
+              "name": "Vedas"
+            },
+            {
+              "name": "Upanisads"
+            },
+            {
+              "name": "Bhagavad Gita"
+            }
+          ]
+        },
+        {
+          "name": "Core Assumptions",
+          "children": [
+            {
+              "name": "Purusa (Self)"
+            },
+            {
+              "name": "Prakrti (Matter)"
+            },
+            {
+              "name": "Law of Karma"
+            },
+            {
+              "name": "Reincarnation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Historical Periods",
+      "children": [
+        {
+          "name": "Pre-Upanisadic (Vedic)"
+        },
+        {
+          "name": "Epic Period"
+        },
+        {
+          "name": "Sutra Period"
+        },
+        {
+          "name": "Scholastic Period"
+        }
+      ]
+    },
+    {
+      "name": "Psychology in Upanisads",
+      "children": [
+        {
+          "name": "Nature of Reality",
+          "children": [
+            {
+              "name": "Brahman (Universal)"
+            },
+            {
+              "name": "Atman (Individual)"
+            }
+          ]
+        },
+        {
+          "name": "States of Consciousness",
+          "children": [
+            {
+              "name": "Jagrat (Waking)"
+            },
+            {
+              "name": "Svapna (Dreaming)"
+            },
+            {
+              "name": "Susupti (Deep Sleep)"
+            },
+            {
+              "name": "Turiya (Fourth State)"
+            }
+          ]
+        },
+        {
+          "name": "Structure of Personality",
+          "children": [
+            {
+              "name": "Pancakosa (Five Sheaths)"
+            },
+            {
+              "name": "Gross Body"
+            },
+            {
+              "name": "Subtle Body"
+            },
+            {
+              "name": "Causal Body"
+            }
+          ]
+        },
+        {
+          "name": "Mental Functions",
+          "children": [
+            {
+              "name": "Manas (Perception)"
+            },
+            {
+              "name": "Buddhi (Intellect)"
+            },
+            {
+              "name": "Ahamkara (Ego)"
+            },
+            {
+              "name": "Citta (Consciousness)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Comparison with West",
+      "children": [
+        {
+          "name": "Western Limitations",
+          "children": [
+            {
+              "name": "Materialistic Bias"
+            },
+            {
+              "name": "Limited Methods"
+            },
+            {
+              "name": "Ignore Super-conscious"
+            }
+          ]
+        },
+        {
+          "name": "Indian Strengths",
+          "children": [
+            {
+              "name": "Spiritual Foundation"
+            },
+            {
+              "name": "Introspective Depth"
+            },
+            {
+              "name": "Practical Yoga"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Major Systems",
+      "children": [
+        {
+          "name": "Samkhya Psychology"
+        },
+        {
+          "name": "Yoga Psychology"
+        },
+        {
+          "name": "Nyaya-Vaisesika"
+        },
+        {
+          "name": "Buddhism"
+        },
+        {
+          "name": "Jainism"
+        }
+      ]
+    }
+  ]
+}

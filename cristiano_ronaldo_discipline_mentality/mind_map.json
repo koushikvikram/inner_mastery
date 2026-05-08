@@ -1,0 +1,166 @@
+{
+  "name": "Cristiano Ronaldo's Philosophy of Success",
+  "children": [
+    {
+      "name": "The Power of Mindset",
+      "children": [
+        {
+          "name": "Self-Belief",
+          "children": [
+            {
+              "name": "Thinking I am the best"
+            },
+            {
+              "name": "Mental strength as main strength"
+            },
+            {
+              "name": "Ignoring critics"
+            }
+          ]
+        },
+        {
+          "name": "Overcoming the Mind",
+          "children": [
+            {
+              "name": "Fighting against bad moods"
+            },
+            {
+              "name": "Doing it when you don't want to"
+            },
+            {
+              "name": "Challenging yourself"
+            }
+          ]
+        },
+        {
+          "name": "Handling Adversity",
+          "children": [
+            {
+              "name": "Learning from being down"
+            },
+            {
+              "name": "Resilience in personal tragedy"
+            },
+            {
+              "name": "Turning criticism into motivation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Consistency and Discipline",
+      "children": [
+        {
+          "name": "Daily Routine",
+          "children": [
+            {
+              "name": "First to arrive, last to leave"
+            },
+            {
+              "name": "Every single day nonstop"
+            },
+            {
+              "name": "Consistency is non-negotiable"
+            }
+          ]
+        },
+        {
+          "name": "Body Maintenance",
+          "children": [
+            {
+              "name": "Programmed sleep and recovery"
+            },
+            {
+              "name": "Strict nutrition and diet"
+            },
+            {
+              "name": "Extra gym sessions"
+            }
+          ]
+        },
+        {
+          "name": "Longevity",
+          "children": [
+            {
+              "name": "15+ years at top level"
+            },
+            {
+              "name": "Preparation and recovery"
+            },
+            {
+              "name": "Leading by example"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Work Ethic vs. Talent",
+      "children": [
+        {
+          "name": "Talent without work is nothing"
+        },
+        {
+          "name": "100% dedication"
+        },
+        {
+          "name": "Obsession with improvement"
+        },
+        {
+          "name": "The map to success is hard"
+        }
+      ]
+    },
+    {
+      "name": "Motivation and Goals",
+      "children": [
+        {
+          "name": "Winning Obsession",
+          "children": [
+            {
+              "name": "Addicted to success"
+            },
+            {
+              "name": "Records follow me"
+            },
+            {
+              "name": "Always wanting more"
+            }
+          ]
+        },
+        {
+          "name": "Healthy Competition",
+          "children": [
+            {
+              "name": "Pushing boundaries with rivals"
+            },
+            {
+              "name": "Yearly challenges"
+            },
+            {
+              "name": "Being number one"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Life Perspective",
+      "children": [
+        {
+          "name": "Living in the present"
+        },
+        {
+          "name": "Sacrifice as a happy choice"
+        },
+        {
+          "name": "Being yourself regardless of opinion"
+        },
+        {
+          "name": "Football as a business"
+        }
+      ]
+    }
+  ]
+}

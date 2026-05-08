@@ -1,0 +1,173 @@
+{
+  "name": "The Barefoot Coach: Paddy Upton",
+  "children": [
+    {
+      "name": "Coaching Philosophies",
+      "children": [
+        {
+          "name": "Personal Mastery",
+          "children": [
+            {
+              "name": "Character over skill"
+            },
+            {
+              "name": "Self-awareness & growth"
+            },
+            {
+              "name": "Integrity & values"
+            }
+          ]
+        },
+        {
+          "name": "Servant Leadership",
+          "children": [
+            {
+              "name": "Humble service"
+            },
+            {
+              "name": "Empowering others"
+            },
+            {
+              "name": "Stewardship"
+            }
+          ]
+        },
+        {
+          "name": "Athlete-Centered Coaching",
+          "children": [
+            {
+              "name": "Collaboration over instruction"
+            },
+            {
+              "name": "Creating thinking players"
+            },
+            {
+              "name": "Internal mental focus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The India Journey",
+      "children": [
+        {
+          "name": "World Cup Strategy",
+          "children": [
+            {
+              "name": "Number 1 Test ranking"
+            },
+            {
+              "name": "Happy team environment"
+            },
+            {
+              "name": "Will to win vs. Fear of failure"
+            }
+          ]
+        },
+        {
+          "name": "Playing to Strengths",
+          "children": [
+            {
+              "name": "Sehwag: Eliminating bouncer hook"
+            },
+            {
+              "name": "Tailender batting contributions"
+            },
+            {
+              "name": "Innovation via old habits"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mental Conditioning",
+      "children": [
+        {
+          "name": "Managing Ego",
+          "children": [
+            {
+              "name": "Looking good vs. Substantive truth"
+            },
+            {
+              "name": "Admitting fallibility"
+            },
+            {
+              "name": "The 'Sex Dossier' error"
+            }
+          ]
+        },
+        {
+          "name": "Mental Toughness Myth",
+          "children": [
+            {
+              "name": "Authenticity over bravado"
+            },
+            {
+              "name": "Embracing insecurity"
+            },
+            {
+              "name": "Gautam Gambhir case study"
+            }
+          ]
+        },
+        {
+          "name": "The Zone (Flow)",
+          "children": [
+            {
+              "name": "Present moment awareness"
+            },
+            {
+              "name": "External task focus"
+            },
+            {
+              "name": "Intrinsic motivation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Key Influences",
+      "children": [
+        {
+          "name": "Gary Kirsten",
+          "children": [
+            {
+              "name": "Authentic leadership"
+            },
+            {
+              "name": "Work ethic (throwing balls)"
+            }
+          ]
+        },
+        {
+          "name": "Mike Horn",
+          "children": [
+            {
+              "name": "Climbing without oxygen"
+            },
+            {
+              "name": "Survival instinct"
+            },
+            {
+              "name": "Insignificance of self"
+            }
+          ]
+        },
+        {
+          "name": "Street Universe",
+          "children": [
+            {
+              "name": "Lessons from gang leaders"
+            },
+            {
+              "name": "Human survival vs. Performance"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

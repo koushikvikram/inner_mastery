@@ -1,0 +1,195 @@
+{
+  "name": "Better: A Surgeon's Notes on Performance",
+  "children": [
+    {
+      "name": "Part I: Diligence",
+      "children": [
+        {
+          "name": "Hand Washing",
+          "children": [
+            {
+              "name": "Infection Control Units"
+            },
+            {
+              "name": "Compliance Barriers"
+            },
+            {
+              "name": "Ignac Semmelweis History"
+            },
+            {
+              "name": "Positive Deviance Approach"
+            }
+          ]
+        },
+        {
+          "name": "Polio Eradication",
+          "children": [
+            {
+              "name": "India Mop-Up Campaign"
+            },
+            {
+              "name": "Logistical Complexity"
+            },
+            {
+              "name": "Door-to-Door Vaccination"
+            },
+            {
+              "name": "WHO Surveillance"
+            }
+          ]
+        },
+        {
+          "name": "War Casualties",
+          "children": [
+            {
+              "name": "Forward Surgical Teams"
+            },
+            {
+              "name": "Lethality Reduction"
+            },
+            {
+              "name": "Damage Control Surgery"
+            },
+            {
+              "name": "Vigilant Data Tracking"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Part II: Doing Right",
+      "children": [
+        {
+          "name": "Professional Boundaries",
+          "children": [
+            {
+              "name": "Etiquette of Examination"
+            },
+            {
+              "name": "Chaperone Use"
+            },
+            {
+              "name": "Trust and Modesty"
+            }
+          ]
+        },
+        {
+          "name": "Malpractice and Ethics",
+          "children": [
+            {
+              "name": "Lawsuits vs. Errors"
+            },
+            {
+              "name": "Compensation Systems"
+            },
+            {
+              "name": "Disclosure of Mistakes"
+            }
+          ]
+        },
+        {
+          "name": "Execution Participation",
+          "children": [
+            {
+              "name": "Lethal Injection Protocols"
+            },
+            {
+              "name": "Medical Ethics Codes"
+            },
+            {
+              "name": "Physician Roles in Death Chambers"
+            }
+          ]
+        },
+        {
+          "name": "The Struggle of Fighting",
+          "children": [
+            {
+              "name": "Power over Life and Death"
+            },
+            {
+              "name": "Knowing When to Stop"
+            },
+            {
+              "name": "Patient vs. Physician Ego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Part III: Ingenuity",
+      "children": [
+        {
+          "name": "Standardization",
+          "children": [
+            {
+              "name": "The Apgar Score"
+            },
+            {
+              "name": "History of Forceps"
+            },
+            {
+              "name": "Rise of Cesarean Sections"
+            },
+            {
+              "name": "Industrial Reliability"
+            }
+          ]
+        },
+        {
+          "name": "The Bell Curve",
+          "children": [
+            {
+              "name": "Cystic Fibrosis Care"
+            },
+            {
+              "name": "Variability in Performance"
+            },
+            {
+              "name": "Data Transparency"
+            },
+            {
+              "name": "Warren Warwick's Methods"
+            }
+          ]
+        },
+        {
+          "name": "Global Performance",
+          "children": [
+            {
+              "name": "Resource Scarcity in India"
+            },
+            {
+              "name": "Adaptability and Innovation"
+            },
+            {
+              "name": "Implementing Know-how"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Becoming a Positive Deviant",
+      "children": [
+        {
+          "name": "Ask Unscripted Questions"
+        },
+        {
+          "name": "Don't Complain"
+        },
+        {
+          "name": "Count Something"
+        },
+        {
+          "name": "Write Something"
+        },
+        {
+          "name": "Embrace Change"
+        }
+      ]
+    }
+  ]
+}

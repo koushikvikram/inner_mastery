@@ -1,0 +1,260 @@
+{
+  "name": "Life's Amazing Secrets",
+  "children": [
+    {
+      "name": "Wheel 1: Personal Life",
+      "children": [
+        {
+          "name": "Growing through Gratitude",
+          "children": [
+            {
+              "name": "See the Positive"
+            },
+            {
+              "name": "Focus on blessings"
+            },
+            {
+              "name": "Combat negativity"
+            }
+          ]
+        },
+        {
+          "name": "Press Pause",
+          "children": [
+            {
+              "name": "Reflect regularly"
+            },
+            {
+              "name": "Recognize, Remember, Reciprocate"
+            },
+            {
+              "name": "Gratitude log"
+            }
+          ]
+        },
+        {
+          "name": "Why Worry",
+          "children": [
+            {
+              "name": "Accept uncontrollable situations"
+            },
+            {
+              "name": "Detachment"
+            },
+            {
+              "name": "Transform difficulties into opportunities"
+            }
+          ]
+        },
+        {
+          "name": "Spiritual Practice",
+          "children": [
+            {
+              "name": "Sadhana (Discipline)"
+            },
+            {
+              "name": "Mantra Meditation"
+            },
+            {
+              "name": "Connecting with Divine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wheel 2: Relationships",
+      "children": [
+        {
+          "name": "Speaking Sensitively",
+          "children": [
+            {
+              "name": "Avoid harsh words"
+            },
+            {
+              "name": "Respect inanimate objects"
+            },
+            {
+              "name": "Integrated attitude"
+            }
+          ]
+        },
+        {
+          "name": "A Virtuous Vision",
+          "children": [
+            {
+              "name": "Bee-like mentality"
+            },
+            {
+              "name": "Focus on the good"
+            },
+            {
+              "name": "Avoid fault-finding"
+            }
+          ]
+        },
+        {
+          "name": "Correcting Cautiously",
+          "children": [
+            {
+              "name": "Invest before withdrawal"
+            },
+            {
+              "name": "Right motive and time"
+            },
+            {
+              "name": "Art of feedback"
+            }
+          ]
+        },
+        {
+          "name": "Forgiveness",
+          "children": [
+            {
+              "name": "Look beyond the situation"
+            },
+            {
+              "name": "Separate episode from person"
+            },
+            {
+              "name": "Higher purpose"
+            }
+          ]
+        },
+        {
+          "name": "Association Matters",
+          "children": [
+            {
+              "name": "Sanga (Company)"
+            },
+            {
+              "name": "Sharing things, food, and thoughts"
+            },
+            {
+              "name": "Subconscious influence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wheel 3: Work Life",
+      "children": [
+        {
+          "name": "Competition Crossroads",
+          "children": [
+            {
+              "name": "Compete with self"
+            },
+            {
+              "name": "Avoid envy"
+            },
+            {
+              "name": "Healthy growth"
+            }
+          ]
+        },
+        {
+          "name": "Self-Discovery",
+          "children": [
+            {
+              "name": "Unwrap potential"
+            },
+            {
+              "name": "Ikigai"
+            },
+            {
+              "name": "Find passion"
+            }
+          ]
+        },
+        {
+          "name": "Decoding Spirituality at Work",
+          "children": [
+            {
+              "name": "Contentment vs. Ambition"
+            },
+            {
+              "name": "Redirected ambition"
+            },
+            {
+              "name": "Assertive values"
+            }
+          ]
+        },
+        {
+          "name": "Integrity and Character",
+          "children": [
+            {
+              "name": "Sadachar (Conduct)"
+            },
+            {
+              "name": "Vichaar, Aachaar, Prachaar"
+            },
+            {
+              "name": "Honesty in business"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wheel 4: Social Contribution",
+      "children": [
+        {
+          "name": "Selfless Sacrifice",
+          "children": [
+            {
+              "name": "Ice cream vs. Candle"
+            },
+            {
+              "name": "Selfishly selfless"
+            },
+            {
+              "name": "Avoid compassion fatigue"
+            }
+          ]
+        },
+        {
+          "name": "Family First",
+          "children": [
+            {
+              "name": "Service at home"
+            },
+            {
+              "name": "Low expectations of others"
+            }
+          ]
+        },
+        {
+          "name": "Nation Narrative",
+          "children": [
+            {
+              "name": "Wider circle of influence"
+            },
+            {
+              "name": "Military inspiration"
+            },
+            {
+              "name": "Community service"
+            }
+          ]
+        },
+        {
+          "name": "Service Brings Joy",
+          "children": [
+            {
+              "name": "Seva"
+            },
+            {
+              "name": "Right action, intention, and mood"
+            },
+            {
+              "name": "Para dukha dukhi (Empathy)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

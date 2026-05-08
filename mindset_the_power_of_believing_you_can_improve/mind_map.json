@@ -1,0 +1,147 @@
+{
+  "name": "Mindset: The New Psychology of Success",
+  "children": [
+    {
+      "name": "The Two Mindsets",
+      "children": [
+        {
+          "name": "Fixed Mindset",
+          "children": [
+            {
+              "name": "Belief that qualities are carved in stone"
+            },
+            {
+              "name": "Urgency to prove intelligence and character"
+            },
+            {
+              "name": "Avoidance of challenges to protect ego"
+            },
+            {
+              "name": "Effort seen as sign of low ability"
+            },
+            {
+              "name": "Failure defined as a permanent identity"
+            }
+          ]
+        },
+        {
+          "name": "Growth Mindset",
+          "children": [
+            {
+              "name": "Belief that qualities can be cultivated"
+            },
+            {
+              "name": "Passion for learning and stretching oneself"
+            },
+            {
+              "name": "Thriving on challenges and setbacks"
+            },
+            {
+              "name": "Effort seen as the path to mastery"
+            },
+            {
+              "name": "Failure defined as information for growth"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Impact in Different Domains",
+      "children": [
+        {
+          "name": "Sports",
+          "children": [
+            {
+              "name": "The 'Natural' vs. the hard worker"
+            },
+            {
+              "name": "Character: digging deep under pressure"
+            },
+            {
+              "name": "Case studies: Michael Jordan and Tiger Woods"
+            }
+          ]
+        },
+        {
+          "name": "Business",
+          "children": [
+            {
+              "name": "CEO Disease: worshiping talent over process"
+            },
+            {
+              "name": "Fixed mindset failures: Enron and Lee Iacocca"
+            },
+            {
+              "name": "Growth mindset leaders: Jack Welch and Lou Gerstner"
+            },
+            {
+              "name": "Organizational cultures of development"
+            }
+          ]
+        },
+        {
+          "name": "Education",
+          "children": [
+            {
+              "name": "Teachers' mindsets affecting student potential"
+            },
+            {
+              "name": "High standards combined with nurturing"
+            },
+            {
+              "name": "The danger of praising intelligence vs. process"
+            }
+          ]
+        },
+        {
+          "name": "Relationships",
+          "children": [
+            {
+              "name": "Rejection as a judgment vs. learning experience"
+            },
+            {
+              "name": "Belief that relationships require work"
+            },
+            {
+              "name": "Fostering the partner's development"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Origin and Change",
+      "children": [
+        {
+          "name": "Messages from Authority Figures",
+          "children": [
+            {
+              "name": "Praising process, effort, and strategy"
+            },
+            {
+              "name": "Constructive criticism as a teaching tool"
+            },
+            {
+              "name": "Avoidance of labels and fixed judgments"
+            }
+          ]
+        },
+        {
+          "name": "The Journey to Change",
+          "children": [
+            {
+              "name": "Mindsets as powerful but changeable beliefs"
+            },
+            {
+              "name": "Awareness of the fixed mindset voice"
+            },
+            {
+              "name": "Taking the growth-minded path to new challenges"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

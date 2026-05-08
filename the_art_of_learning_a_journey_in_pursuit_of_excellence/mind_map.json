@@ -1,0 +1,148 @@
+{
+  "name": "The Art of Learning",
+  "children": [
+    {
+      "name": "Part I: The Foundation",
+      "children": [
+        {
+          "name": "Innocent Moves",
+          "children": [
+            {
+              "name": "Early Chess in Washington Square Park"
+            },
+            {
+              "name": "Street Hustlers vs. Classical Education"
+            },
+            {
+              "name": "Bruce Pandolfini's Mentorship"
+            },
+            {
+              "name": "Nurturing Love for the Game"
+            }
+          ]
+        },
+        {
+          "name": "Losing to Win",
+          "children": [
+            {
+              "name": "National Championship Failure"
+            },
+            {
+              "name": "Resilience and Recovery via Nature"
+            },
+            {
+              "name": "Reconnecting with Family and Self"
+            },
+            {
+              "name": "Turning Heartbreak into Hard Work"
+            }
+          ]
+        },
+        {
+          "name": "Two Approaches to Learning",
+          "children": [
+            {
+              "name": "Entity vs. Incremental Intelligence"
+            },
+            {
+              "name": "Learned Helplessness vs. Mastery Orientation"
+            },
+            {
+              "name": "The Hermit Crab Growth Process"
+            },
+            {
+              "name": "Foundation vs. Opening Variations"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Part II: My Second Art",
+      "children": [
+        {
+          "name": "Beginner's Mind"
+        },
+        {
+          "name": "Investment in Loss"
+        },
+        {
+          "name": "Making Smaller Circles"
+        },
+        {
+          "name": "Using Adversity"
+        },
+        {
+          "name": "Slowing Down Time"
+        },
+        {
+          "name": "Illusion of the Mystical"
+        }
+      ]
+    },
+    {
+      "name": "Key Psychological Concepts",
+      "children": [
+        {
+          "name": "The Soft Zone",
+          "children": [
+            {
+              "name": "Resilience to Distraction"
+            },
+            {
+              "name": "Internal Solution (Making Sandals)"
+            },
+            {
+              "name": "Flowing with Noise and Chaos"
+            }
+          ]
+        },
+        {
+          "name": "The Downward Spiral",
+          "children": [
+            {
+              "name": "Error Begetting Error"
+            },
+            {
+              "name": "Regaining Presence after Mistakes"
+            },
+            {
+              "name": "Breaking the Chain Reaction"
+            }
+          ]
+        },
+        {
+          "name": "The Power of Presence",
+          "children": [
+            {
+              "name": "Deep Internalization of Principles"
+            },
+            {
+              "name": "Form to Leave Form"
+            },
+            {
+              "name": "Presence Under Fire"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Performance Methodology",
+      "children": [
+        {
+          "name": "Translating Knowledge Across Disciplines"
+        },
+        {
+          "name": "Study of Numbers to Leave Numbers"
+        },
+        {
+          "name": "Complete Immersion and Barrierlessness"
+        },
+        {
+          "name": "Incremental Learning Steps"
+        }
+      ]
+    }
+  ]
+}

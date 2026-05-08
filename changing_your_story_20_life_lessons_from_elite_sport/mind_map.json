@@ -1,0 +1,193 @@
+{
+  "name": "Changing Your Story (Bill Beswick)",
+  "children": [
+    {
+      "name": "Foundations of Mindset",
+      "children": [
+        {
+          "name": "Take Responsibility",
+          "children": [
+            {
+              "name": "Cross the line"
+            },
+            {
+              "name": "Choose your response"
+            },
+            {
+              "name": "Avoid blaming/excuses"
+            }
+          ]
+        },
+        {
+          "name": "Find Your Why",
+          "children": [
+            {
+              "name": "Clarity of passion"
+            },
+            {
+              "name": "Choose an 'A' grade life"
+            },
+            {
+              "name": "Commit to the highest standards"
+            }
+          ]
+        },
+        {
+          "name": "Believe in Yourself",
+          "children": [
+            {
+              "name": "Set no limits"
+            },
+            {
+              "name": "Picture of perfection"
+            },
+            {
+              "name": "Overcome self-fulfilling prophecies"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Performance Mastery",
+      "children": [
+        {
+          "name": "Attitude & Process",
+          "children": [
+            {
+              "name": "Performance follows attitude"
+            },
+            {
+              "name": "Focus on daily process"
+            },
+            {
+              "name": "Build a tick stepladder"
+            }
+          ]
+        },
+        {
+          "name": "Mastery vs. Perfection",
+          "children": [
+            {
+              "name": "Raise your bottom line"
+            },
+            {
+              "name": "Realistic standards"
+            },
+            {
+              "name": "Learn from mistakes"
+            }
+          ]
+        },
+        {
+          "name": "Define the Moment",
+          "children": [
+            {
+              "name": "Seize opportunities"
+            },
+            {
+              "name": "Bravery under pressure"
+            },
+            {
+              "name": "Accept occasional failure"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Emotional & Mental Control",
+      "children": [
+        {
+          "name": "Self-Control",
+          "children": [
+            {
+              "name": "Don't be captive to emotions"
+            },
+            {
+              "name": "Stay in the 'Green'"
+            },
+            {
+              "name": "Check HATED factors"
+            }
+          ]
+        },
+        {
+          "name": "Overcoming Anxiety",
+          "children": [
+            {
+              "name": "Threat vs. Challenge"
+            },
+            {
+              "name": "Check facts not feelings"
+            },
+            {
+              "name": "SOCS framework"
+            }
+          ]
+        },
+        {
+          "name": "Resilience",
+          "children": [
+            {
+              "name": "Refuse to be a victim"
+            },
+            {
+              "name": "Fighter mentality"
+            },
+            {
+              "name": "Develop from setbacks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Self-Management Strategies",
+      "children": [
+        {
+          "name": "Practical Tools",
+          "children": [
+            {
+              "name": "Keep a journal"
+            },
+            {
+              "name": "Use trigger cards"
+            },
+            {
+              "name": "Model hero behavior"
+            }
+          ]
+        },
+        {
+          "name": "Managing Resources",
+          "children": [
+            {
+              "name": "Control bandwidth"
+            },
+            {
+              "name": "Prioritize what counts"
+            },
+            {
+              "name": "Value rest and recovery"
+            }
+          ]
+        },
+        {
+          "name": "Social Support",
+          "children": [
+            {
+              "name": "Build a support team"
+            },
+            {
+              "name": "Find belief partners"
+            },
+            {
+              "name": "Increase communication"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

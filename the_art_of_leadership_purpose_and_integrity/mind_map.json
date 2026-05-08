@@ -1,0 +1,149 @@
+{
+  "name": "The Art of Leadership",
+  "children": [
+    {
+      "name": "Central Philosophy",
+      "children": [
+        {
+          "name": "Tao Te Ching interpretation"
+        },
+        {
+          "name": "Purpose and Integrity"
+        },
+        {
+          "name": "Sustainable Success"
+        }
+      ]
+    },
+    {
+      "name": "Leadership Capabilities",
+      "children": [
+        {
+          "name": "Effective",
+          "children": [
+            {
+              "name": "Maximum outcomes"
+            },
+            {
+              "name": "Minimum efforts"
+            }
+          ]
+        },
+        {
+          "name": "Facilitative",
+          "children": [
+            {
+              "name": "Self-organisation"
+            },
+            {
+              "name": "No pressure or control"
+            }
+          ]
+        },
+        {
+          "name": "Purposive",
+          "children": [
+            {
+              "name": "Co-creating purpose"
+            },
+            {
+              "name": "Higher meaning"
+            }
+          ]
+        },
+        {
+          "name": "Wholistic",
+          "children": [
+            {
+              "name": "Harmonising the system"
+            },
+            {
+              "name": "Grasping the whole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Core Principles",
+      "children": [
+        {
+          "name": "Action (Wuwei)",
+          "children": [
+            {
+              "name": "Action without coercion"
+            },
+            {
+              "name": "Leading by serving"
+            },
+            {
+              "name": "Timing and momentum"
+            }
+          ]
+        },
+        {
+          "name": "Water Metaphor",
+          "children": [
+            {
+              "name": "Flowing around obstacles"
+            },
+            {
+              "name": "Soft overcomes hard"
+            },
+            {
+              "name": "Persistence over force"
+            }
+          ]
+        },
+        {
+          "name": "Simplicity",
+          "children": [
+            {
+              "name": "Uncarved wood (Pu)"
+            },
+            {
+              "name": "Daring to unlearn"
+            },
+            {
+              "name": "Beyond labels"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Key Mindsets",
+      "children": [
+        {
+          "name": "Integrity as Compassion"
+        },
+        {
+          "name": "Trusting others"
+        },
+        {
+          "name": "Self-knowledge"
+        },
+        {
+          "name": "Modesty and Humility"
+        }
+      ]
+    },
+    {
+      "name": "Strategic Concepts",
+      "children": [
+        {
+          "name": "Correlative pairs (Yin-Yang)"
+        },
+        {
+          "name": "Expected and Surprise"
+        },
+        {
+          "name": "Conditions and Consequences"
+        },
+        {
+          "name": "Situational Awareness"
+        }
+      ]
+    }
+  ]
+}

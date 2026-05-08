@@ -1,0 +1,192 @@
+{
+  "name": "Kautilya's Arthashastra",
+  "children": [
+    {
+      "name": "Nature of the Treatise",
+      "children": [
+        {
+          "name": "Science of Wealth and Welfare"
+        },
+        {
+          "name": "Art of Government"
+        },
+        {
+          "name": "Guide to Statecraft"
+        },
+        {
+          "name": "Upholding Dharma"
+        }
+      ]
+    },
+    {
+      "name": "The Ideal King (Rajarishi)",
+      "children": [
+        {
+          "name": "Personal Qualities",
+          "children": [
+            {
+              "name": "Noble Birth"
+            },
+            {
+              "name": "Self-discipline"
+            },
+            {
+              "name": "Sharp Intellect"
+            },
+            {
+              "name": "Energy and Prowess"
+            }
+          ]
+        },
+        {
+          "name": "Duties",
+          "children": [
+            {
+              "name": "Protection of Subjects"
+            },
+            {
+              "name": "Justice and Law Enforcement"
+            },
+            {
+              "name": "Economic Management"
+            },
+            {
+              "name": "Timely Decision Making"
+            }
+          ]
+        },
+        {
+          "name": "Daily Routine (Timetable)"
+        }
+      ]
+    },
+    {
+      "name": "Constituent Elements (Prakritis)",
+      "children": [
+        {
+          "name": "The King (Swami)"
+        },
+        {
+          "name": "Ministers (Amatya)"
+        },
+        {
+          "name": "Territory/Population (Janapada)"
+        },
+        {
+          "name": "Fortified City (Durga)"
+        },
+        {
+          "name": "Treasury (Kosa)"
+        },
+        {
+          "name": "Army (Danda)"
+        },
+        {
+          "name": "Ally (Mitra)"
+        }
+      ]
+    },
+    {
+      "name": "Kautilyan Society",
+      "children": [
+        {
+          "name": "Varna System",
+          "children": [
+            {
+              "name": "Brahmins (Priests)"
+            },
+            {
+              "name": "Kshatriyas (Protectors)"
+            },
+            {
+              "name": "Vaishyas (Traders)"
+            },
+            {
+              "name": "Sudras (Artisans)"
+            }
+          ]
+        },
+        {
+          "name": "Status of Women"
+        },
+        {
+          "name": "Slavery and Bonded Labor"
+        },
+        {
+          "name": "Outcasts (Chandalas)"
+        }
+      ]
+    },
+    {
+      "name": "State Economy",
+      "children": [
+        {
+          "name": "Agriculture (Primary Wealth)"
+        },
+        {
+          "name": "Mining and Manufacturing"
+        },
+        {
+          "name": "Trade and Commerce"
+        },
+        {
+          "name": "Revenue and Taxation"
+        },
+        {
+          "name": "State Monopolies (Salt, Liquor)"
+        }
+      ]
+    },
+    {
+      "name": "Security and Foreign Policy",
+      "children": [
+        {
+          "name": "Secret Service and Spies"
+        },
+        {
+          "name": "Circle of States (Mandala Theory)"
+        },
+        {
+          "name": "Six Methods of Policy"
+        },
+        {
+          "name": "War and Defense"
+        }
+      ]
+    },
+    {
+      "name": "Law and Justice",
+      "children": [
+        {
+          "name": "Civil and Criminal Codes"
+        },
+        {
+          "name": "Standard Penalties"
+        },
+        {
+          "name": "Suppression of Crime"
+        },
+        {
+          "name": "Consumer Protection"
+        }
+      ]
+    },
+    {
+      "name": "Succession and Crisis",
+      "children": [
+        {
+          "name": "Training of Princes"
+        },
+        {
+          "name": "Management of Rebellions"
+        },
+        {
+          "name": "Orderly Succession"
+        },
+        {
+          "name": "Regency Procedures"
+        }
+      ]
+    }
+  ]
+}

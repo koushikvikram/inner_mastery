@@ -1,0 +1,153 @@
+{
+  "name": "The Art of Strategy",
+  "children": [
+    {
+      "name": "Foundational Thinkers",
+      "children": [
+        {
+          "name": "Sun Tzu"
+        },
+        {
+          "name": "John Boyd"
+        },
+        {
+          "name": "Simon Wardley"
+        }
+      ]
+    },
+    {
+      "name": "Strategy Cycle",
+      "children": [
+        {
+          "name": "Observation",
+          "children": [
+            {
+              "name": "Gathering data"
+            },
+            {
+              "name": "Landscape mapping"
+            }
+          ]
+        },
+        {
+          "name": "Orientation",
+          "children": [
+            {
+              "name": "Genetic heritage"
+            },
+            {
+              "name": "Cultural tradition"
+            },
+            {
+              "name": "Previous experience"
+            },
+            {
+              "name": "Universal doctrine"
+            }
+          ]
+        },
+        {
+          "name": "Decision",
+          "children": [
+            {
+              "name": "Choosing conditions"
+            },
+            {
+              "name": "Gameplays"
+            }
+          ]
+        },
+        {
+          "name": "Action",
+          "children": [
+            {
+              "name": "Rapid execution"
+            },
+            {
+              "name": "Testing hypotheses"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Five Strategic Factors",
+      "children": [
+        {
+          "name": "Purpose (Unifying vision)"
+        },
+        {
+          "name": "Landscape (Environment/Positions)"
+        },
+        {
+          "name": "Climate (Economic patterns/Rules)"
+        },
+        {
+          "name": "Doctrine (Universal principles)"
+        },
+        {
+          "name": "Leadership (Decisions/Wisdom)"
+        }
+      ]
+    },
+    {
+      "name": "Wardley Mapping Concepts",
+      "children": [
+        {
+          "name": "Evolution Stages",
+          "children": [
+            {
+              "name": "Genesis (Uncharted)"
+            },
+            {
+              "name": "Custom Built"
+            },
+            {
+              "name": "Product (+ rental)"
+            },
+            {
+              "name": "Commodity (+ utility)"
+            }
+          ]
+        },
+        {
+          "name": "Anchor (User Needs)"
+        },
+        {
+          "name": "Value Chain"
+        }
+      ]
+    },
+    {
+      "name": "Strategic Goals",
+      "children": [
+        {
+          "name": "Business Agility"
+        },
+        {
+          "name": "Ecological Resilience"
+        },
+        {
+          "name": "Advantageous Momentum"
+        },
+        {
+          "name": "Harmony among stakeholders"
+        }
+      ]
+    },
+    {
+      "name": "Disruption Patterns",
+      "children": [
+        {
+          "name": "Wonder (Genesis)"
+        },
+        {
+          "name": "Peace (Product competition)"
+        },
+        {
+          "name": "War (Transition to Utility)"
+        }
+      ]
+    }
+  ]
+}

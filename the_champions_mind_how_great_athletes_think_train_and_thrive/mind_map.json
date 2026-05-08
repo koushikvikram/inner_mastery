@@ -1,0 +1,142 @@
+{
+  "name": "The Champion's Mind",
+  "children": [
+    {
+      "name": "Be Your Own Champion",
+      "children": [
+        {
+          "name": "Mentality over Physicality"
+        },
+        {
+          "name": "Personal Best vs. Others"
+        },
+        {
+          "name": "Win the Day Philosophy"
+        },
+        {
+          "name": "The Champion Question"
+        }
+      ]
+    },
+    {
+      "name": "Master the Mental Skills",
+      "children": [
+        {
+          "name": "Goal Setting",
+          "children": [
+            {
+              "name": "Think it Ink it"
+            },
+            {
+              "name": "Specific and Measurable"
+            },
+            {
+              "name": "Bronze Silver Gold System"
+            }
+          ]
+        },
+        {
+          "name": "Mental Imagery",
+          "children": [
+            {
+              "name": "Visualize to Actualize"
+            },
+            {
+              "name": "See Feel Enjoy"
+            }
+          ]
+        },
+        {
+          "name": "Self-Talk",
+          "children": [
+            {
+              "name": "Feed the Good Wolf"
+            },
+            {
+              "name": "Next Play Mentality"
+            }
+          ]
+        },
+        {
+          "name": "Focus",
+          "children": [
+            {
+              "name": "Be a Now-ist"
+            },
+            {
+              "name": "Ignore Internal Fog"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Be In It to Win It",
+      "children": [
+        {
+          "name": "Play to Win vs. Not Lose"
+        },
+        {
+          "name": "Process Orientation"
+        },
+        {
+          "name": "Pressure is a Privilege"
+        },
+        {
+          "name": "Trust Your Talent"
+        }
+      ]
+    },
+    {
+      "name": "Wisdom of a Champion",
+      "children": [
+        {
+          "name": "Mastery Approach"
+        },
+        {
+          "name": "Failure as a Teacher"
+        },
+        {
+          "name": "Smash Idols"
+        },
+        {
+          "name": "Control the Controllables"
+        }
+      ]
+    },
+    {
+      "name": "Physical and Recovery",
+      "children": [
+        {
+          "name": "Exercise Adherence"
+        },
+        {
+          "name": "Mindful Nutrition"
+        },
+        {
+          "name": "Pain Management"
+        },
+        {
+          "name": "Rehab as a Sport"
+        },
+        {
+          "name": "Regeneration and Sleep"
+        }
+      ]
+    },
+    {
+      "name": "Teamwork and Leadership",
+      "children": [
+        {
+          "name": "Social Loafing Awareness"
+        },
+        {
+          "name": "Lead by Example"
+        },
+        {
+          "name": "Communication Skills"
+        }
+      ]
+    }
+  ]
+}

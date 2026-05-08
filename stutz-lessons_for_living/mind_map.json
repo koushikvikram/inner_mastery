@@ -1,0 +1,164 @@
+{
+  "name": "Lessons for Living",
+  "children": [
+    {
+      "name": "Nature of Reality",
+      "children": [
+        {
+          "name": "Pain and Adversity"
+        },
+        {
+          "name": "Uncertain Future"
+        },
+        {
+          "name": "Discipline Requirement"
+        },
+        {
+          "name": "No One Is Special"
+        }
+      ]
+    },
+    {
+      "name": "The Tools Therapy",
+      "children": [
+        {
+          "name": "Daily Homework"
+        },
+        {
+          "name": "Forward Motion"
+        },
+        {
+          "name": "Higher Forces"
+        },
+        {
+          "name": "Transmutational Motivation"
+        }
+      ]
+    },
+    {
+      "name": "Internal Adversary (Part X)",
+      "children": [
+        {
+          "name": "Primitive Comfort"
+        },
+        {
+          "name": "Magical Reward"
+        },
+        {
+          "name": "Hoarding Injuries"
+        },
+        {
+          "name": "Impulsive Musts"
+        }
+      ]
+    },
+    {
+      "name": "Core Principles",
+      "children": [
+        {
+          "name": "The Grateful Flow",
+          "children": [
+            {
+              "name": "Overcoming Negativity"
+            },
+            {
+              "name": "Connection to Universe"
+            }
+          ]
+        },
+        {
+          "name": "Sacred Time",
+          "children": [
+            {
+              "name": "Submission"
+            },
+            {
+              "name": "Commitment"
+            },
+            {
+              "name": "Patience"
+            }
+          ]
+        },
+        {
+          "name": "Active Love",
+          "children": [
+            {
+              "name": "Concentration"
+            },
+            {
+              "name": "Transmission"
+            },
+            {
+              "name": "Penetration"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Life Domains",
+      "children": [
+        {
+          "name": "Success & Decisions",
+          "children": [
+            {
+              "name": "Creative Action Cycle"
+            },
+            {
+              "name": "Trusting Instincts"
+            },
+            {
+              "name": "Tolerating Loss"
+            }
+          ]
+        },
+        {
+          "name": "Relationships",
+          "children": [
+            {
+              "name": "Higher Bond"
+            },
+            {
+              "name": "Emotional Independence"
+            },
+            {
+              "name": "Empathy"
+            }
+          ]
+        },
+        {
+          "name": "Family & Parenting",
+          "children": [
+            {
+              "name": "Inner Authority"
+            },
+            {
+              "name": "Wisdom of Elders"
+            },
+            {
+              "name": "Setting Limits"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spiritual Skills",
+      "children": [
+        {
+          "name": "Self-Acceptance"
+        },
+        {
+          "name": "The Shadow"
+        },
+        {
+          "name": "Individuation"
+        },
+        {
+          "name": "Knowing by Doing"
+        }
+      ]
+    }
+  ]
+}

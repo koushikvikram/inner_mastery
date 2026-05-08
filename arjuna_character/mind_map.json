@@ -1,0 +1,161 @@
+{
+  "name": "Arjuna: The Central Hero of Mahabharata",
+  "children": [
+    {
+      "name": "Identity and Names",
+      "children": [
+        {
+          "name": "Arjuna (Spotless/Silver)"
+        },
+        {
+          "name": "Falguni (Born under Falgun star)"
+        },
+        {
+          "name": "Kiriti (Bearer of Celestial Diadem)"
+        },
+        {
+          "name": "Savyasachi (Ambidextrous Archer)"
+        },
+        {
+          "name": "Gudakesha (Conqueror of Sleep)"
+        },
+        {
+          "name": "Partha (Son of Pritha/Kunti)"
+        },
+        {
+          "name": "Dhananjaya (Winner of Wealth)"
+        }
+      ]
+    },
+    {
+      "name": "Origins and Training",
+      "children": [
+        {
+          "name": "Son of Indra and Kunti"
+        },
+        {
+          "name": "Disciple of Dronacharya"
+        },
+        {
+          "name": "Extraordinary Diligence"
+        },
+        {
+          "name": "Practice in Darkness"
+        },
+        {
+          "name": "Unparalleled Archery Skills"
+        }
+      ]
+    },
+    {
+      "name": "Major Relationships",
+      "children": [
+        {
+          "name": "Lord Krishna",
+          "children": [
+            {
+              "name": "Intimate Friend and Cousin"
+            },
+            {
+              "name": "Charioteer (Parthasarathi)"
+            },
+            {
+              "name": "Spiritual Guru"
+            },
+            {
+              "name": "Recipient of Bhagavad Gita"
+            }
+          ]
+        },
+        {
+          "name": "Wives and Progeny",
+          "children": [
+            {
+              "name": "Draupadi (Won at Swayamvar)"
+            },
+            {
+              "name": "Subhadra (Mother of Abhimanyu)"
+            },
+            {
+              "name": "Ulupi (Naga Princess; Mother of Iravan)"
+            },
+            {
+              "name": "Chitrangada (Mother of Babruvahana)"
+            }
+          ]
+        },
+        {
+          "name": "Enemies",
+          "children": [
+            {
+              "name": "Karna (Defining Rivalry)"
+            },
+            {
+              "name": "Jayadratha (Target for Revenge)"
+            },
+            {
+              "name": "Duryodhana (Core Adversary)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heroic Feats and Quests",
+      "children": [
+        {
+          "name": "Khandava Forest Fire (Besting Gods)"
+        },
+        {
+          "name": "Celestial Quest (Obtaining Pashupatastra)"
+        },
+        {
+          "name": "Defeating Nivatkavachas and Kalakanyas"
+        },
+        {
+          "name": "Incognito Year (Brihannala in Virat)"
+        },
+        {
+          "name": "Single-handedly Routing Kuru Army"
+        }
+      ]
+    },
+    {
+      "name": "Kurukshetra War Highlights",
+      "children": [
+        {
+          "name": "Initial Crisis (Gita Dialogue)"
+        },
+        {
+          "name": "Fall of Bhishma (Using Shikhandi)"
+        },
+        {
+          "name": "Slaying Jayadratha (Race against Time)"
+        },
+        {
+          "name": "Final Duel with Karna"
+        },
+        {
+          "name": "Countering Ashwatthama's Brahmashira"
+        }
+      ]
+    },
+    {
+      "name": "Post-War Role",
+      "children": [
+        {
+          "name": "Ashvamedha Yajna World Conquest"
+        },
+        {
+          "name": "Retrieving Gold for Sacrifice"
+        },
+        {
+          "name": "Defeat and Revival by Babruvahana"
+        },
+        {
+          "name": "Establishment of Dharma Rajya"
+        }
+      ]
+    }
+  ]
+}

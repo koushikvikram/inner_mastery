@@ -1,0 +1,181 @@
+{
+  "name": "Give and Take by Adam Grant",
+  "children": [
+    {
+      "name": "Reciprocity Styles",
+      "children": [
+        {
+          "name": "Takers",
+          "children": [
+            {
+              "name": "Self-focused"
+            },
+            {
+              "name": "Get more than give"
+            },
+            {
+              "name": "Kiss up, kick down"
+            }
+          ]
+        },
+        {
+          "name": "Matchers",
+          "children": [
+            {
+              "name": "Fairness and tit-for-tat"
+            },
+            {
+              "name": "Equal balance"
+            }
+          ]
+        },
+        {
+          "name": "Givers",
+          "children": [
+            {
+              "name": "Other-focused"
+            },
+            {
+              "name": "Contribute value"
+            },
+            {
+              "name": "Success at top and bottom"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dynamics of Success",
+      "children": [
+        {
+          "name": "Networking",
+          "children": [
+            {
+              "name": "Five-minute favors"
+            },
+            {
+              "name": "Dormant ties"
+            },
+            {
+              "name": "Strength of weak ties"
+            }
+          ]
+        },
+        {
+          "name": "Collaboration",
+          "children": [
+            {
+              "name": "Expedition behavior"
+            },
+            {
+              "name": "Responsibility bias"
+            },
+            {
+              "name": "Psychological safety"
+            }
+          ]
+        },
+        {
+          "name": "Evaluating Talent",
+          "children": [
+            {
+              "name": "Self-fulfilling prophecies"
+            },
+            {
+              "name": "Grit over talent"
+            },
+            {
+              "name": "De-escalating commitment"
+            }
+          ]
+        },
+        {
+          "name": "Influence",
+          "children": [
+            {
+              "name": "Powerless communication"
+            },
+            {
+              "name": "Asking questions"
+            },
+            {
+              "name": "Advice seeking"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Motivation and Burnout",
+      "children": [
+        {
+          "name": "Otherish vs Selfless",
+          "children": [
+            {
+              "name": "Otherish: High self and other interest"
+            },
+            {
+              "name": "Selfless: Low self interest"
+            }
+          ]
+        },
+        {
+          "name": "Avoiding Burnout",
+          "children": [
+            {
+              "name": "Seeing impact"
+            },
+            {
+              "name": "Chunking vs sprinkling"
+            },
+            {
+              "name": "100-hour rule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Overcoming Pitfalls",
+      "children": [
+        {
+          "name": "Sincerity screening",
+          "children": [
+            {
+              "name": "Identifying fakers"
+            },
+            {
+              "name": "Disagreeable givers"
+            }
+          ]
+        },
+        {
+          "name": "Relational accounts",
+          "children": [
+            {
+              "name": "Advocating for others"
+            },
+            {
+              "name": "Assertive giving"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Collective Impact",
+      "children": [
+        {
+          "name": "Reciprocity Ring"
+        },
+        {
+          "name": "Common identity"
+        },
+        {
+          "name": "Optimal distinctiveness"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "name": "The Score Takes Care of Itsellf - Bill Walsh's Philosophy of Leadership",
+  "children": [
+    {
+      "name": "The Standard of Performance",
+      "children": [
+        {
+          "name": "Core Values",
+          "children": [
+            {
+              "name": "Ferocious work ethic"
+            },
+            {
+              "name": "Attention to detail"
+            },
+            {
+              "name": "Personal accountability"
+            },
+            {
+              "name": "Respect for every role"
+            },
+            {
+              "name": "Poise under pressure"
+            }
+          ]
+        },
+        {
+          "name": "Professionalism",
+          "children": [
+            {
+              "name": "Act like winners before winning"
+            },
+            {
+              "name": "Impeccable appearance"
+            },
+            {
+              "name": "Promptness and demeanor"
+            }
+          ]
+        },
+        {
+          "name": "Teaching over Winning",
+          "children": [
+            {
+              "name": "Leader as teacher"
+            },
+            {
+              "name": "Focus on process, not results"
+            },
+            {
+              "name": "Establishment of 'assembly line'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Strategic Leadership",
+      "children": [
+        {
+          "name": "Innovation",
+          "children": [
+            {
+              "name": "The West Coast Offense"
+            },
+            {
+              "name": "Maximizing limited assets"
+            },
+            {
+              "name": "Turning lemons to lemonade"
+            }
+          ]
+        },
+        {
+          "name": "Planning",
+          "children": [
+            {
+              "name": "Scripting plays/contingencies"
+            },
+            {
+              "name": "The 80/20 rule of control"
+            },
+            {
+              "name": "Flying by the seat of pants leads to crashing"
+            }
+          ]
+        },
+        {
+          "name": "Decision Making",
+          "children": [
+            {
+              "name": "Countering the 'blind side'"
+            },
+            {
+              "name": "Archeology of leadership"
+            },
+            {
+              "name": "Standing ground/protecting turf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Team Dynamics",
+      "children": [
+        {
+          "name": "People Management",
+          "children": [
+            {
+              "name": "Connection and extension"
+            },
+            {
+              "name": "The 'Bottom 20 Percent'"
+            },
+            {
+              "name": "Unleashing mentors"
+            },
+            {
+              "name": "Treating people right over money"
+            }
+          ]
+        },
+        {
+          "name": "Communication",
+          "children": [
+            {
+              "name": "Big ears (listening) over big egos"
+            },
+            {
+              "name": "Direct and unambiguous"
+            },
+            {
+              "name": "Percolation of leadership"
+            }
+          ]
+        },
+        {
+          "name": "Character",
+          "children": [
+            {
+              "name": "Commitment and sacrifice"
+            },
+            {
+              "name": "Seek character, beware characters"
+            },
+            {
+              "name": "The 'hard edge' for discipline"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Managing Success and Failure",
+      "children": [
+        {
+          "name": "Overcoming Failure",
+          "children": [
+            {
+              "name": "Grieving time followed by fight"
+            },
+            {
+              "name": "Surviving one minute at a time"
+            },
+            {
+              "name": "Recovering from 'train wrecks'"
+            }
+          ]
+        },
+        {
+          "name": "Success Disease",
+          "children": [
+            {
+              "name": "Overconfidence and complacency"
+            },
+            {
+              "name": "One-point-underdog mentality"
+            },
+            {
+              "name": "Zero points for winning"
+            }
+          ]
+        },
+        {
+          "name": "Psychological Resilience",
+          "children": [
+            {
+              "name": "Thin skin and criticism"
+            },
+            {
+              "name": "Mastery as a continuous process"
+            },
+            {
+              "name": "Using humor as a safety valve"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

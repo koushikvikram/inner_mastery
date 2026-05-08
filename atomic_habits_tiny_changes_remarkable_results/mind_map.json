@@ -1,0 +1,151 @@
+{
+  "name": "Atomic Habits",
+  "children": [
+    {
+      "name": "The Fundamentals",
+      "children": [
+        {
+          "name": "1% Better Every Day",
+          "children": [
+            {
+              "name": "Compound interest of self-improvement"
+            },
+            {
+              "name": "Small wins accumulate over time"
+            },
+            {
+              "name": "Plateau of Latent Potential"
+            }
+          ]
+        },
+        {
+          "name": "Focus on Systems",
+          "children": [
+            {
+              "name": "Goals are about results"
+            },
+            {
+              "name": "Systems are about processes"
+            },
+            {
+              "name": "Winners and losers have same goals"
+            }
+          ]
+        },
+        {
+          "name": "Identity-Based Habits",
+          "children": [
+            {
+              "name": "Change who you wish to become"
+            },
+            {
+              "name": "Every action is a vote"
+            },
+            {
+              "name": "Three layers: Outcomes, Processes, Identity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The 4 Steps of Habit Loop",
+      "children": [
+        {
+          "name": "Cue"
+        },
+        {
+          "name": "Craving"
+        },
+        {
+          "name": "Response"
+        },
+        {
+          "name": "Reward"
+        }
+      ]
+    },
+    {
+      "name": "The 4 Laws of Behavior Change",
+      "children": [
+        {
+          "name": "1st Law: Make It Obvious",
+          "children": [
+            {
+              "name": "Habits Scorecard"
+            },
+            {
+              "name": "Implementation Intentions"
+            },
+            {
+              "name": "Habit Stacking"
+            },
+            {
+              "name": "Environment Design"
+            },
+            {
+              "name": "Inversion: Make it invisible"
+            }
+          ]
+        },
+        {
+          "name": "2nd Law: Make It Attractive",
+          "children": [
+            {
+              "name": "Temptation Bundling"
+            },
+            {
+              "name": "Dopamine-driven feedback loops"
+            },
+            {
+              "name": "Join a culture (Friends and Family)"
+            },
+            {
+              "name": "Motivation Rituals"
+            },
+            {
+              "name": "Inversion: Make it unattractive"
+            }
+          ]
+        },
+        {
+          "name": "3rd Law: Make It Easy",
+          "children": [
+            {
+              "name": "Law of Least Effort"
+            },
+            {
+              "name": "Prime the environment"
+            },
+            {
+              "name": "Two-Minute Rule"
+            },
+            {
+              "name": "Commitment Devices"
+            },
+            {
+              "name": "Inversion: Make it difficult"
+            }
+          ]
+        },
+        {
+          "name": "4th Law: Make It Satisfying",
+          "children": [
+            {
+              "name": "Cardinal Rule of Behavior Change"
+            },
+            {
+              "name": "Habit Tracking"
+            },
+            {
+              "name": "Accountability Partners"
+            },
+            {
+              "name": "Inversion: Make it unsatisfying"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

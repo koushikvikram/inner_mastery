@@ -1,0 +1,184 @@
+{
+  "name": "Chanakya in Daily Life",
+  "children": [
+    {
+      "name": "Personal Life",
+      "children": [
+        {
+          "name": "Morning Routine",
+          "children": [
+            {
+              "name": "Wake to music"
+            },
+            {
+              "name": "Express gratitude"
+            },
+            {
+              "name": "Ponder politics and tasks"
+            }
+          ]
+        },
+        {
+          "name": "Self-Development",
+          "children": [
+            {
+              "name": "Daily study (Swa-adhyaya)"
+            },
+            {
+              "name": "Meditation and focus"
+            },
+            {
+              "name": "Finding Swadharma (calling)"
+            },
+            {
+              "name": "Creative hobbies"
+            }
+          ]
+        },
+        {
+          "name": "Health & Habits",
+          "children": [
+            {
+              "name": "Quality sleep"
+            },
+            {
+              "name": "Nutritional food"
+            },
+            {
+              "name": "Self-discipline"
+            },
+            {
+              "name": "90-minute patterns"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Professional Life",
+      "children": [
+        {
+          "name": "Workplace Management",
+          "children": [
+            {
+              "name": "Daily planning and review"
+            },
+            {
+              "name": "Documentation habit"
+            },
+            {
+              "name": "Open-door meetings"
+            },
+            {
+              "name": "Surprise checks (Walk around)"
+            }
+          ]
+        },
+        {
+          "name": "Leadership & Strategy",
+          "children": [
+            {
+              "name": "Decision-making (no delay)"
+            },
+            {
+              "name": "Training successors"
+            },
+            {
+              "name": "Delegation and role clarity"
+            },
+            {
+              "name": "Consulting experts"
+            }
+          ]
+        },
+        {
+          "name": "Financial Mastery",
+          "children": [
+            {
+              "name": "Track income and expenditure"
+            },
+            {
+              "name": "Managing the treasury"
+            },
+            {
+              "name": "Increasing profit/Reducing cost"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Family Life",
+      "children": [
+        {
+          "name": "Relationships",
+          "children": [
+            {
+              "name": "Mutual respect"
+            },
+            {
+              "name": "Duties of householder"
+            },
+            {
+              "name": "Caring for dependents"
+            },
+            {
+              "name": "Private space/Individuality"
+            }
+          ]
+        },
+        {
+          "name": "Parenting & Education",
+          "children": [
+            {
+              "name": "Unconditional love (ages 0-5)"
+            },
+            {
+              "name": "Discipline (ages 5-15)"
+            },
+            {
+              "name": "Friendship (ages 16+)"
+            },
+            {
+              "name": "Grooming children for learning"
+            }
+          ]
+        },
+        {
+          "name": "Home Environment",
+          "children": [
+            {
+              "name": "Family prayer/Study"
+            },
+            {
+              "name": "Managing household help"
+            },
+            {
+              "name": "Shared property consensus"
+            },
+            {
+              "name": "Charity (Danam)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ultimate Goals",
+      "children": [
+        {
+          "name": "Practical Philosophy"
+        },
+        {
+          "name": "Fulfilling Desires (Kama)"
+        },
+        {
+          "name": "Spiritual Bliss (Moksha)"
+        },
+        {
+          "name": "Leaving a legacy"
+        }
+      ]
+    }
+  ]
+}

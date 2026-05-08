@@ -1,0 +1,154 @@
+{
+  "name": "The Art of Change",
+  "children": [
+    {
+      "name": "Core Philosophy",
+      "children": [
+        {
+          "name": "Modern I Ching Interpretation"
+        },
+        {
+          "name": "Pragmatic Guidance"
+        },
+        {
+          "name": "Sustainable Success"
+        },
+        {
+          "name": "Mindful Action"
+        }
+      ]
+    },
+    {
+      "name": "Key Capabilities",
+      "children": [
+        {
+          "name": "Effectiveness",
+          "children": [
+            {
+              "name": "Maximum Outcomes"
+            },
+            {
+              "name": "Minimum Effort"
+            }
+          ]
+        },
+        {
+          "name": "Timely Balance"
+        },
+        {
+          "name": "Harmony"
+        },
+        {
+          "name": "Integrity"
+        },
+        {
+          "name": "Flexibility"
+        },
+        {
+          "name": "Observation"
+        }
+      ]
+    },
+    {
+      "name": "Principles of Change",
+      "children": [
+        {
+          "name": "Constant Transformation"
+        },
+        {
+          "name": "Line of Least Resistance"
+        },
+        {
+          "name": "Cyclic Nature"
+        },
+        {
+          "name": "Going with the Flow"
+        }
+      ]
+    },
+    {
+      "name": "Practical Steps",
+      "children": [
+        {
+          "name": "Pick Relevant Sections"
+        },
+        {
+          "name": "Ponder Change Patterns"
+        },
+        {
+          "name": "Apply Actions and Decisions"
+        },
+        {
+          "name": "Learn from Consequences"
+        },
+        {
+          "name": "Repeat Cycle"
+        }
+      ]
+    },
+    {
+      "name": "Strategic Contexts",
+      "children": [
+        {
+          "name": "In Turbulence",
+          "children": [
+            {
+              "name": "Self-Development"
+            },
+            {
+              "name": "Seek Wisdom"
+            },
+            {
+              "name": "Prepare Before Storm"
+            }
+          ]
+        },
+        {
+          "name": "In Conflict",
+          "children": [
+            {
+              "name": "Caution"
+            },
+            {
+              "name": "Common Ground"
+            },
+            {
+              "name": "Short Duration"
+            }
+          ]
+        },
+        {
+          "name": "In Growth",
+          "children": [
+            {
+              "name": "Commitment"
+            },
+            {
+              "name": "Stepwise Progress"
+            },
+            {
+              "name": "Collaborative Effort"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Stakeholders",
+      "children": [
+        {
+          "name": "Societies"
+        },
+        {
+          "name": "Organisations"
+        },
+        {
+          "name": "Families"
+        },
+        {
+          "name": "Individuals"
+        }
+      ]
+    }
+  ]
+}

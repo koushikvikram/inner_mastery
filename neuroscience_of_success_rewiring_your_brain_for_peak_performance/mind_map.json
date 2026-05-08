@@ -1,0 +1,177 @@
+{
+  "name": "Limitless Brain & Success",
+  "children": [
+    {
+      "name": "Morning Routine (MOVERS)",
+      "children": [
+        {
+          "name": "M - Meditation"
+        },
+        {
+          "name": "O - Oxygenation (Breathwork)"
+        },
+        {
+          "name": "V - Visualization"
+        },
+        {
+          "name": "E - Exercise"
+        },
+        {
+          "name": "R - Reading Positive/Affirmations"
+        },
+        {
+          "name": "S - Scribing (Writing/Releasing)"
+        }
+      ]
+    },
+    {
+      "name": "Brain Waves",
+      "children": [
+        {
+          "name": "Beta",
+          "children": [
+            {
+              "name": "Active problem solving"
+            },
+            {
+              "name": "Enhanced by Tratak (focus)"
+            }
+          ]
+        },
+        {
+          "name": "Alpha",
+          "children": [
+            {
+              "name": "Relaxed awareness"
+            },
+            {
+              "name": "Built by grounding/closed eyes"
+            }
+          ]
+        },
+        {
+          "name": "Theta",
+          "children": [
+            {
+              "name": "Deep creativity/vision"
+            },
+            {
+              "name": "Accessed via deep meditation"
+            }
+          ]
+        },
+        {
+          "name": "Delta",
+          "children": [
+            {
+              "name": "Deep sleep/recovery"
+            }
+          ]
+        },
+        {
+          "name": "Gamma",
+          "children": [
+            {
+              "name": "Peak efficiency/hyper-focus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Neuroscience Hacks",
+      "children": [
+        {
+          "name": "Neuroplasticity",
+          "children": [
+            {
+              "name": "Rewiring via awareness"
+            },
+            {
+              "name": "Breaking the Limbic Loop"
+            }
+          ]
+        },
+        {
+          "name": "Neurobics",
+          "children": [
+            {
+              "name": "Multi-sensory challenges"
+            },
+            {
+              "name": "Non-dominant hand tasks"
+            },
+            {
+              "name": "Mirror writing"
+            }
+          ]
+        },
+        {
+          "name": "Vagus Nerve",
+          "children": [
+            {
+              "name": "Cyclic sighing for anger"
+            },
+            {
+              "name": "4-7-8 breathing for anxiety"
+            },
+            {
+              "name": "Humming Bee (Brahmari)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sleep Chronotypes",
+      "children": [
+        {
+          "name": "Lions (Early risers)"
+        },
+        {
+          "name": "Bears (Standard day cycle)"
+        },
+        {
+          "name": "Wolves (Night owls)"
+        },
+        {
+          "name": "Dolphins (Irregular/Insomniac)"
+        }
+      ]
+    },
+    {
+      "name": "Key Success Pillars",
+      "children": [
+        {
+          "name": "Health"
+        },
+        {
+          "name": "Wealth/Work"
+        },
+        {
+          "name": "Relationships"
+        },
+        {
+          "name": "Spiritual Evolution"
+        }
+      ]
+    },
+    {
+      "name": "Frontal Cortex Functions",
+      "children": [
+        {
+          "name": "Emotional Control"
+        },
+        {
+          "name": "Commitment"
+        },
+        {
+          "name": "Strategic Choice"
+        },
+        {
+          "name": "Resilience"
+        }
+      ]
+    }
+  ]
+}

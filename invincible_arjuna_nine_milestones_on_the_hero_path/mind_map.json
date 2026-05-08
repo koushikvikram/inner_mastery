@@ -1,0 +1,134 @@
+{
+  "name": "Invincible Arjuna",
+  "children": [
+    {
+      "name": "Identity and Origins",
+      "children": [
+        {
+          "name": "Born of Indra"
+        },
+        {
+          "name": "Swadharma and Duty"
+        },
+        {
+          "name": "Many Names (Partha, Vijaya, Sabyasachi)"
+        },
+        {
+          "name": "Talent + Temperament"
+        }
+      ]
+    },
+    {
+      "name": "Milestones of Mastery",
+      "children": [
+        {
+          "name": "Clarity",
+          "children": [
+            {
+              "name": "Situational Intelligence"
+            },
+            {
+              "name": "Spotless Vision"
+            }
+          ]
+        },
+        {
+          "name": "Concentration (Ekagrata)",
+          "children": [
+            {
+              "name": "The Bird's Eye"
+            },
+            {
+              "name": "Form, Focus, and Flow"
+            },
+            {
+              "name": "Intellect over Mind"
+            }
+          ]
+        },
+        {
+          "name": "Commitment",
+          "children": [
+            {
+              "name": "Penance for Pasupata"
+            },
+            {
+              "name": "Avenging Abhimanyu"
+            },
+            {
+              "name": "Mental Muscle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Relationships and Love",
+      "children": [
+        {
+          "name": "Desire and Detachment"
+        },
+        {
+          "name": "Draupadi and Sahadharma"
+        },
+        {
+          "name": "Resisting Urvashi's Lust"
+        },
+        {
+          "name": "Mentorship of Krishna"
+        }
+      ]
+    },
+    {
+      "name": "Yoga in Action",
+      "children": [
+        {
+          "name": "Conscious Action vs. Activity"
+        },
+        {
+          "name": "The Seeker's Humility"
+        },
+        {
+          "name": "Work as Worship"
+        },
+        {
+          "name": "Becoming an Instrument (Nimitta)"
+        }
+      ]
+    },
+    {
+      "name": "The Great War (Kurukshetra)",
+      "children": [
+        {
+          "name": "Conflict of Identity"
+        },
+        {
+          "name": "The Duel with Karna"
+        },
+        {
+          "name": "Victory of Dharma"
+        },
+        {
+          "name": "Universal Will"
+        }
+      ]
+    },
+    {
+      "name": "The Final Awakening",
+      "children": [
+        {
+          "name": "Vision of the Whole"
+        },
+        {
+          "name": "Renunciation and Detachment"
+        },
+        {
+          "name": "The Last Journey"
+        },
+        {
+          "name": "Deathless Life"
+        }
+      ]
+    }
+  ]
+}

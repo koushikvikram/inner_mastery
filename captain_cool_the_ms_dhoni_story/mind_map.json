@@ -1,0 +1,197 @@
+{
+  "name": "Captain Cool: The MS Dhoni Story",
+  "children": [
+    {
+      "name": "Early Life and Roots",
+      "children": [
+        {
+          "name": "Background",
+          "children": [
+            {
+              "name": "Born 1981, Ranchi"
+            },
+            {
+              "name": "Family from Almora"
+            },
+            {
+              "name": "Father Paan Singh"
+            }
+          ]
+        },
+        {
+          "name": "Early Sports",
+          "children": [
+            {
+              "name": "Football Goalkeeper"
+            },
+            {
+              "name": "Badminton"
+            },
+            {
+              "name": "Hockey"
+            }
+          ]
+        },
+        {
+          "name": "Cricket Transition",
+          "children": [
+            {
+              "name": "Coach Keshab Ranjan Banerjee"
+            },
+            {
+              "name": "Switched from Football to Wicket-keeping"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "First-Class Career",
+      "children": [
+        {
+          "name": "Employment",
+          "children": [
+            {
+              "name": "Railway Ticket Collector"
+            },
+            {
+              "name": "Indian Airlines Manager"
+            }
+          ]
+        },
+        {
+          "name": "Domestic Teams",
+          "children": [
+            {
+              "name": "Bihar Under-19"
+            },
+            {
+              "name": "Bihar/Jharkhand Ranji Team"
+            },
+            {
+              "name": "East Zone"
+            }
+          ]
+        },
+        {
+          "name": "Style",
+          "children": [
+            {
+              "name": "Tennis Ball Cricket influence"
+            },
+            {
+              "name": "Helicopter shot"
+            },
+            {
+              "name": "Aggressive Hitting"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "International Breakthrough",
+      "children": [
+        {
+          "name": "India A Tour",
+          "children": [
+            {
+              "name": "Kenya Tri-series"
+            },
+            {
+              "name": "Centuries against Pakistan A"
+            }
+          ]
+        },
+        {
+          "name": "ODI Debut",
+          "children": [
+            {
+              "name": "Bangladesh 2004"
+            },
+            {
+              "name": "Promoted to Number 3"
+            }
+          ]
+        },
+        {
+          "name": "Key Innings",
+          "children": [
+            {
+              "name": "148 vs Pakistan, Visakhapatnam"
+            },
+            {
+              "name": "183* vs Sri Lanka, Jaipur"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Captaincy and Success",
+      "children": [
+        {
+          "name": "Major Triumphs",
+          "children": [
+            {
+              "name": "2007 T20 World Cup"
+            },
+            {
+              "name": "2011 50-over World Cup"
+            },
+            {
+              "name": "IPL Titles with CSK"
+            }
+          ]
+        },
+        {
+          "name": "Leadership Traits",
+          "children": [
+            {
+              "name": "Instinctive/Gut feeling"
+            },
+            {
+              "name": "Calm under pressure"
+            },
+            {
+              "name": "Leads by example"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Off-field Persona",
+      "children": [
+        {
+          "name": "Interests",
+          "children": [
+            {
+              "name": "Motorbike obsession"
+            },
+            {
+              "name": "Computer Games"
+            },
+            {
+              "name": "Love for Dogs"
+            }
+          ]
+        },
+        {
+          "name": "Cultural Impact",
+          "children": [
+            {
+              "name": "MTV Youth Icon"
+            },
+            {
+              "name": "Small-town Hero"
+            },
+            {
+              "name": "Brand Ambassador"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

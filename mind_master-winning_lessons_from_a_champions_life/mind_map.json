@@ -1,0 +1,139 @@
+{
+  "name": "Mind Master: Winning Lessons from Viswanathan Anand",
+  "children": [
+    {
+      "name": "Career Milestones",
+      "children": [
+        {
+          "name": "World Junior Champion 1987"
+        },
+        {
+          "name": "India's First Grandmaster 1988"
+        },
+        {
+          "name": "Five-time World Champion"
+        },
+        {
+          "name": "World Rapid Champion 2017"
+        }
+      ]
+    },
+    {
+      "name": "Strategic Mindset",
+      "children": [
+        {
+          "name": "Preparation & Tactics",
+          "children": [
+            {
+              "name": "Ditching the ladder technique"
+            },
+            {
+              "name": "Horizontal vs Vertical approaches"
+            },
+            {
+              "name": "Managing unpredictability"
+            }
+          ]
+        },
+        {
+          "name": "Decision Making",
+          "children": [
+            {
+              "name": "Objectivity under pressure"
+            },
+            {
+              "name": "Trusting intuition vs calculation"
+            },
+            {
+              "name": "Risk-taking as an antidote to indecision"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cognitive Techniques",
+      "children": [
+        {
+          "name": "Memory Systems",
+          "children": [
+            {
+              "name": "Contextual & pattern recognition"
+            },
+            {
+              "name": "The art of periodic revision"
+            },
+            {
+              "name": "Using emotional hooks"
+            }
+          ]
+        },
+        {
+          "name": "Learning Evolution",
+          "children": [
+            {
+              "name": "Importance of unlearning"
+            },
+            {
+              "name": "Constant curiosity"
+            },
+            {
+              "name": "Adapting to AI and technology"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Emotional Intelligence",
+      "children": [
+        {
+          "name": "Handling 'Learned Helplessness'"
+        },
+        {
+          "name": "Mining the adversity advantage"
+        },
+        {
+          "name": "Staying inscrutable at the board"
+        },
+        {
+          "name": "Replacing bad memories with new wins"
+        }
+      ]
+    },
+    {
+      "name": "Major Match Experiences",
+      "children": [
+        {
+          "name": "New York 1995 (v Kasparov)"
+        },
+        {
+          "name": "Bonn 2008 (v Kramnik)"
+        },
+        {
+          "name": "Sofia 2010 (v Topalov)"
+        },
+        {
+          "name": "Moscow 2012 (v Gelfand)"
+        },
+        {
+          "name": "Chennai 2013 (v Carlsen)"
+        }
+      ]
+    },
+    {
+      "name": "Support Systems",
+      "children": [
+        {
+          "name": "Family (Mother & Wife Aruna)"
+        },
+        {
+          "name": "The 'Human Cluster' of trainers"
+        },
+        {
+          "name": "Routine and discipline"
+        }
+      ]
+    }
+  ]
+}

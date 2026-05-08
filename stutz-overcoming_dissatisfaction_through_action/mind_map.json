@@ -1,0 +1,129 @@
+{
+  "name": "Stutz's Tools for Life and Therapy",
+  "children": [
+    {
+      "name": "Problems with Modern Culture",
+      "children": [
+        {
+          "name": "Institutional Cracking"
+        },
+        {
+          "name": "Epidemic of Dissatisfaction"
+        },
+        {
+          "name": "Rugged Individualism"
+        },
+        {
+          "name": "Materialism and Metrics"
+        },
+        {
+          "name": "Isolation vs Collective"
+        }
+      ]
+    },
+    {
+      "name": "The Three Unavoidables",
+      "children": [
+        {
+          "name": "Pain"
+        },
+        {
+          "name": "Uncertainty"
+        },
+        {
+          "name": "Constant Work"
+        }
+      ]
+    },
+    {
+      "name": "The Confidence Pyramid",
+      "children": [
+        {
+          "name": "Faith (Base)"
+        },
+        {
+          "name": "Action (Middle)"
+        },
+        {
+          "name": "Confidence (Top)"
+        }
+      ]
+    },
+    {
+      "name": "Psychological Concepts",
+      "children": [
+        {
+          "name": "Part X",
+          "children": [
+            {
+              "name": "Internal Obstacle"
+            },
+            {
+              "name": "Voice of Impossibility"
+            },
+            {
+              "name": "Ego Defense"
+            }
+          ]
+        },
+        {
+          "name": "Universe One",
+          "children": [
+            {
+              "name": "World of Numbers"
+            },
+            {
+              "name": "Scientific Materialism"
+            },
+            {
+              "name": "Competitive Metrics"
+            }
+          ]
+        },
+        {
+          "name": "The Higher Bond"
+        },
+        {
+          "name": "Reverse Indicators"
+        }
+      ]
+    },
+    {
+      "name": "Tools for Change",
+      "children": [
+        {
+          "name": "Active Love"
+        },
+        {
+          "name": "The Turnaround"
+        },
+        {
+          "name": "World of Small Things"
+        },
+        {
+          "name": "Banner of Ignorance"
+        },
+        {
+          "name": "Sacrifice and Service"
+        }
+      ]
+    },
+    {
+      "name": "Phil Stutz's Methodology",
+      "children": [
+        {
+          "name": "Action-Oriented"
+        },
+        {
+          "name": "Immediate Relief/Tools"
+        },
+        {
+          "name": "Co-creating with Higher Forces"
+        },
+        {
+          "name": "Facing Vulnerability"
+        }
+      ]
+    }
+  ]
+}

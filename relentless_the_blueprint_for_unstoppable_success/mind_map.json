@@ -1,0 +1,166 @@
+{
+  "name": "Relentless: From Good to Great to Unstoppable",
+  "children": [
+    {
+      "name": "The Three Levels of Competitors",
+      "children": [
+        {
+          "name": "Cooler (Good)",
+          "children": [
+            {
+              "name": "Waits to be told what to do"
+            },
+            {
+              "name": "Follows the leader"
+            },
+            {
+              "name": "Mediator not decision-maker"
+            },
+            {
+              "name": "Avoids the winning shot"
+            }
+          ]
+        },
+        {
+          "name": "Closer (Great)",
+          "children": [
+            {
+              "name": "Handles pressure well"
+            },
+            {
+              "name": "Studies the competition"
+            },
+            {
+              "name": "Seeks credit and rewards"
+            },
+            {
+              "name": "Overthinks under unexpected stress"
+            }
+          ]
+        },
+        {
+          "name": "Cleaner (Unstoppable)",
+          "children": [
+            {
+              "name": "Rarely understood and solitary"
+            },
+            {
+              "name": "Addicted to success and results"
+            },
+            {
+              "name": "Controls the uncontrollable"
+            },
+            {
+              "name": "Owns every situation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Relentless 13 Traits",
+      "children": [
+        {
+          "name": "Keep pushing when others quit"
+        },
+        {
+          "name": "Enter the Zone and shut out noise"
+        },
+        {
+          "name": "Know exactly who you are"
+        },
+        {
+          "name": "Harness a dark side"
+        },
+        {
+          "name": "Thrive on pressure"
+        },
+        {
+          "name": "Be the one people look for in emergencies"
+        },
+        {
+          "name": "Attack opponent weaknesses"
+        },
+        {
+          "name": "Make decisions not suggestions"
+        },
+        {
+          "name": "Fear over being liked"
+        },
+        {
+          "name": "Trust very few people"
+        },
+        {
+          "name": "Do not recognize failure"
+        },
+        {
+          "name": "Always want more achievements"
+        }
+      ]
+    },
+    {
+      "name": "Key Concepts",
+      "children": [
+        {
+          "name": "Don't Think",
+          "children": [
+            {
+              "name": "Trust natural instincts"
+            },
+            {
+              "name": "Avoid overanalyzing"
+            },
+            {
+              "name": "Action over visualization"
+            }
+          ]
+        },
+        {
+          "name": "The Zone",
+          "children": [
+            {
+              "name": "Icy calm and intense focus"
+            },
+            {
+              "name": "Detachment from external stress"
+            },
+            {
+              "name": "No wasted motion"
+            }
+          ]
+        },
+        {
+          "name": "The Dark Side",
+          "children": [
+            {
+              "name": "Raw animal instinct"
+            },
+            {
+              "name": "Internal fuel for dominance"
+            },
+            {
+              "name": "Private and untamed drive"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Physical and Mental Mastery",
+      "children": [
+        {
+          "name": "Get comfortable being uncomfortable"
+        },
+        {
+          "name": "Teach the mind to train the body"
+        },
+        {
+          "name": "Sweat the details"
+        },
+        {
+          "name": "No shortcuts or excuses"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "name": "The Heart of the Buddha's Teaching",
+  "children": [
+    {
+      "name": "The Four Noble Truths",
+      "children": [
+        {
+          "name": "Suffering (Dukkha)",
+          "children": [
+            {
+              "name": "Recognize presence"
+            },
+            {
+              "name": "Embrace with kindness"
+            }
+          ]
+        },
+        {
+          "name": "Origin of Suffering (Samudaya)",
+          "children": [
+            {
+              "name": "Identify deep roots"
+            },
+            {
+              "name": "Four Nutriments"
+            }
+          ]
+        },
+        {
+          "name": "Cessation of Suffering (Nirodha)",
+          "children": [
+            {
+              "name": "Healing is possible"
+            },
+            {
+              "name": "Restore well-being"
+            }
+          ]
+        },
+        {
+          "name": "Path to Well-being (Marga)",
+          "children": [
+            {
+              "name": "Noble Eightfold Path"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Noble Eightfold Path",
+      "children": [
+        {
+          "name": "Right View",
+          "children": [
+            {
+              "name": "Understanding Interbeing"
+            },
+            {
+              "name": "Beyond all views"
+            }
+          ]
+        },
+        {
+          "name": "Right Thinking",
+          "children": [
+            {
+              "name": "Unifying body and mind"
+            },
+            {
+              "name": "Mind of love"
+            }
+          ]
+        },
+        {
+          "name": "Right Mindfulness",
+          "children": [
+            {
+              "name": "Being present"
+            },
+            {
+              "name": "Looking deeply"
+            }
+          ]
+        },
+        {
+          "name": "Right Speech",
+          "children": [
+            {
+              "name": "Deep listening"
+            },
+            {
+              "name": "Loving speech"
+            }
+          ]
+        },
+        {
+          "name": "Right Action",
+          "children": [
+            {
+              "name": "Five Mindfulness Trainings"
+            },
+            {
+              "name": "Non-violence"
+            }
+          ]
+        },
+        {
+          "name": "Right Diligence",
+          "children": [
+            {
+              "name": "Watering wholesome seeds"
+            },
+            {
+              "name": "Middle Way energy"
+            }
+          ]
+        },
+        {
+          "name": "Right Concentration",
+          "children": [
+            {
+              "name": "One-pointed mind"
+            },
+            {
+              "name": "Active and selective"
+            }
+          ]
+        },
+        {
+          "name": "Right Livelihood",
+          "children": [
+            {
+              "name": "Compassionate vocation"
+            },
+            {
+              "name": "Mindful consumption"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Basic Buddhist Teachings",
+      "children": [
+        {
+          "name": "The Three Dharma Seals",
+          "children": [
+            {
+              "name": "Impermanence"
+            },
+            {
+              "name": "Nonself"
+            },
+            {
+              "name": "Nirvana"
+            }
+          ]
+        },
+        {
+          "name": "Three Doors of Liberation",
+          "children": [
+            {
+              "name": "Emptiness"
+            },
+            {
+              "name": "Signlessness"
+            },
+            {
+              "name": "Aimlessness"
+            }
+          ]
+        },
+        {
+          "name": "Four Immeasurable Minds",
+          "children": [
+            {
+              "name": "Love (Maitri)"
+            },
+            {
+              "name": "Compassion (Karuna)"
+            },
+            {
+              "name": "Joy (Mudita)"
+            },
+            {
+              "name": "Equanimity (Upeksha)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Transformation Practices",
+      "children": [
+        {
+          "name": "Shamatha (Stopping)",
+          "children": [
+            {
+              "name": "Calming"
+            },
+            {
+              "name": "Resting"
+            },
+            {
+              "name": "Healing"
+            }
+          ]
+        },
+        {
+          "name": "Vipashyana",
+          "children": [
+            {
+              "name": "Deep looking"
+            },
+            {
+              "name": "Insight"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

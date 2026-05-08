@@ -1,0 +1,147 @@
+{
+  "name": "The Grit Factor",
+  "children": [
+    {
+      "name": "Part One: COMMIT",
+      "children": [
+        {
+          "name": "Know Your Story",
+          "children": [
+            {
+              "name": "Narrative Identity"
+            },
+            {
+              "name": "Reframing Past Events"
+            },
+            {
+              "name": "Claiming the Narrative Arc"
+            }
+          ]
+        },
+        {
+          "name": "Drill Down to Core Purpose",
+          "children": [
+            {
+              "name": "The Five Whys Exercise"
+            },
+            {
+              "name": "Connecting Head and Heart"
+            },
+            {
+              "name": "Caring for People"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Part Two: LEARN",
+      "children": [
+        {
+          "name": "Draw Your Circle",
+          "children": [
+            {
+              "name": "Mentors (Master and Champion)"
+            },
+            {
+              "name": "Dream Team (Copilot and Anchor)"
+            },
+            {
+              "name": "Role Models"
+            },
+            {
+              "name": "Setting Boundaries"
+            }
+          ]
+        },
+        {
+          "name": "Listen Like a Leader",
+          "children": [
+            {
+              "name": "Ask: Openness and Vulnerability"
+            },
+            {
+              "name": "Listen: Undivided Attention"
+            },
+            {
+              "name": "Pause: The Three-Second Rule"
+            },
+            {
+              "name": "Muddy-Boots Leadership (MBWA)"
+            }
+          ]
+        },
+        {
+          "name": "Build Your Resilience",
+          "children": [
+            {
+              "name": "Optimism: Realistic Mindset"
+            },
+            {
+              "name": "Mental Agility: Battlemind"
+            },
+            {
+              "name": "Self-Regulation: Compartmentalization"
+            },
+            {
+              "name": "Checklists and Rituals"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Part Three: LAUNCH",
+      "children": [
+        {
+          "name": "Turn Your Nose to Face the Wind",
+          "children": [
+            {
+              "name": "Facing Fear Head-On"
+            },
+            {
+              "name": "Exceeding Expectations (Arete)"
+            },
+            {
+              "name": "Risk Tolerance and Confidence"
+            },
+            {
+              "name": "Growth Mindset"
+            }
+          ]
+        },
+        {
+          "name": "Audacity to Be Yourself",
+          "children": [
+            {
+              "name": "Authenticity vs. Adaptability"
+            },
+            {
+              "name": "Bridging the Confidence Gap"
+            },
+            {
+              "name": "Turning Down the Noise"
+            },
+            {
+              "name": "Taking Ownership"
+            }
+          ]
+        },
+        {
+          "name": "Above All, Be Adaptable",
+          "children": [
+            {
+              "name": "Navigating Big Change"
+            },
+            {
+              "name": "Power of Momentum"
+            },
+            {
+              "name": "Grit for the Greater Good"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
