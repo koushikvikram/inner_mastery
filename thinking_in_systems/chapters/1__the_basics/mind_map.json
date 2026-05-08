@@ -1,0 +1,166 @@
+{
+  "name": "Systems Basics",
+  "children": [
+    {
+      "name": "Definition of a System",
+      "children": [
+        {
+          "name": "Elements",
+          "children": [
+            {
+              "name": "Physical/Tangible"
+            },
+            {
+              "name": "Intangibles"
+            }
+          ]
+        },
+        {
+          "name": "Interconnections",
+          "children": [
+            {
+              "name": "Physical flows"
+            },
+            {
+              "name": "Information flows"
+            }
+          ]
+        },
+        {
+          "name": "Function or Purpose",
+          "children": [
+            {
+              "name": "Function (nonhuman)"
+            },
+            {
+              "name": "Purpose (human)"
+            },
+            {
+              "name": "Duced from behavior"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "System Characteristics",
+      "children": [
+        {
+          "name": "Wholeness/Integrity"
+        },
+        {
+          "name": "Adaptive and Dynamic"
+        },
+        {
+          "name": "Self-organizing/Repairing"
+        },
+        {
+          "name": "Resilient and Evolutionary"
+        },
+        {
+          "name": "Nested Hierarchies"
+        }
+      ]
+    },
+    {
+      "name": "Stocks and Flows",
+      "children": [
+        {
+          "name": "Stocks",
+          "children": [
+            {
+              "name": "Foundation of systems"
+            },
+            {
+              "name": "Memory of history"
+            },
+            {
+              "name": "Act as buffers/delays"
+            },
+            {
+              "name": "Change slowly"
+            }
+          ]
+        },
+        {
+          "name": "Flows",
+          "children": [
+            {
+              "name": "Inflows (filling)"
+            },
+            {
+              "name": "Outflows (draining)"
+            },
+            {
+              "name": "Decoupled by stocks"
+            }
+          ]
+        },
+        {
+          "name": "Dynamic Equilibrium",
+          "children": [
+            {
+              "name": "Inflow equals Outflow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Feedback Loops",
+      "children": [
+        {
+          "name": "Balancing (B)",
+          "children": [
+            {
+              "name": "Stabilizing"
+            },
+            {
+              "name": "Goal-seeking"
+            },
+            {
+              "name": "Resistance to change"
+            },
+            {
+              "name": "Example: Cooling coffee"
+            }
+          ]
+        },
+        {
+          "name": "Reinforcing (R)",
+          "children": [
+            {
+              "name": "Amplifying"
+            },
+            {
+              "name": "Exponential growth"
+            },
+            {
+              "name": "Runaway collapse"
+            },
+            {
+              "name": "Example: Interest account"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Systems Thinking Insights",
+      "children": [
+        {
+          "name": "Look beyond events to trends"
+        },
+        {
+          "name": "Identify the 'and' (relationships)"
+        },
+        {
+          "name": "Understand doubling time"
+        },
+        {
+          "name": "Purpose over rhetoric"
+        }
+      ]
+    }
+  ]
+}

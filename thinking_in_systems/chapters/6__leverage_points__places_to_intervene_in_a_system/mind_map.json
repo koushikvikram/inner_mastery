@@ -1,0 +1,187 @@
+{
+  "name": "Leverage Points: Places to Intervene in a System",
+  "children": [
+    {
+      "name": "Concept of Leverage Points",
+      "children": [
+        {
+          "name": "Definition",
+          "children": [
+            {
+              "name": "Small change leading to large shift"
+            }
+          ]
+        },
+        {
+          "name": "Counterintuitive Nature",
+          "children": [
+            {
+              "name": "Often pushed in wrong direction"
+            }
+          ]
+        },
+        {
+          "name": "Resistance",
+          "children": [
+            {
+              "name": "Higher leverage points face more resistance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Physical and Parameter Levers (Low Leverage)",
+      "children": [
+        {
+          "name": "12. Numbers",
+          "children": [
+            {
+              "name": "Constants and parameters"
+            },
+            {
+              "name": "Subsidies, taxes, standards"
+            },
+            {
+              "name": "Least powerful intervention"
+            }
+          ]
+        },
+        {
+          "name": "11. Buffers",
+          "children": [
+            {
+              "name": "Size of stabilizing stocks"
+            },
+            {
+              "name": "Increases stability vs. flexibility"
+            }
+          ]
+        },
+        {
+          "name": "10. Stock-and-Flow Structures",
+          "children": [
+            {
+              "name": "Physical systems and nodes"
+            },
+            {
+              "name": "Hard and expensive to rebuild"
+            }
+          ]
+        },
+        {
+          "name": "9. Delays",
+          "children": [
+            {
+              "name": "Lengths of time relative to change"
+            },
+            {
+              "name": "Causes of oscillations"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Information and Control Levers (Medium Leverage)",
+      "children": [
+        {
+          "name": "8. Balancing Feedback Loops",
+          "children": [
+            {
+              "name": "Self-correcting mechanisms"
+            },
+            {
+              "name": "Strength of feedback vs. impact"
+            }
+          ]
+        },
+        {
+          "name": "7. Reinforcing Feedback Loops",
+          "children": [
+            {
+              "name": "Driving loops of growth/collapse"
+            },
+            {
+              "name": "Slowing the gain is powerful leverage"
+            }
+          ]
+        },
+        {
+          "name": "6. Information Flows",
+          "children": [
+            {
+              "name": "Access to information"
+            },
+            {
+              "name": "Adding new feedback loops"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Structural and Mental Levers (High Leverage)",
+      "children": [
+        {
+          "name": "5. Rules",
+          "children": [
+            {
+              "name": "Incentives and punishments"
+            },
+            {
+              "name": "Constraints and boundaries"
+            }
+          ]
+        },
+        {
+          "name": "4. Self-Organization",
+          "children": [
+            {
+              "name": "Power to evolve structure"
+            },
+            {
+              "name": "Diversity and experimentation"
+            }
+          ]
+        },
+        {
+          "name": "3. Goals",
+          "children": [
+            {
+              "name": "Purpose or function of system"
+            },
+            {
+              "name": "Defining the game's point"
+            }
+          ]
+        },
+        {
+          "name": "2. Paradigms",
+          "children": [
+            {
+              "name": "Deepest set of beliefs"
+            },
+            {
+              "name": "Mind-set creating system structure"
+            }
+          ]
+        },
+        {
+          "name": "1. Transcending Paradigms",
+          "children": [
+            {
+              "name": "Staying flexible and unattached"
+            },
+            {
+              "name": "Realizing no paradigm is 'true'"
+            },
+            {
+              "name": "Ultimate mastery and letting go"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "name": "Getting Things Done (GTD)",
+  "children": [
+    {
+      "name": "Five Steps of Mastering Workflow",
+      "children": [
+        {
+          "name": "Capture",
+          "children": [
+            {
+              "name": "Gather 100% of incompletes"
+            },
+            {
+              "name": "Use physical in-trays"
+            },
+            {
+              "name": "Digital & paper note-taking"
+            },
+            {
+              "name": "Get it all out of your head"
+            }
+          ]
+        },
+        {
+          "name": "Clarify",
+          "children": [
+            {
+              "name": "Is it actionable?"
+            },
+            {
+              "name": "Two-minute rule"
+            },
+            {
+              "name": "Delegate if appropriate"
+            },
+            {
+              "name": "Identify next physical action"
+            }
+          ]
+        },
+        {
+          "name": "Organize",
+          "children": [
+            {
+              "name": "Projects list"
+            },
+            {
+              "name": "Calendar for hard landscape"
+            },
+            {
+              "name": "Next Actions by context"
+            },
+            {
+              "name": "Waiting For list"
+            },
+            {
+              "name": "Reference filing"
+            },
+            {
+              "name": "Someday/Maybe list"
+            }
+          ]
+        },
+        {
+          "name": "Reflect",
+          "children": [
+            {
+              "name": "Daily calendar review"
+            },
+            {
+              "name": "Weekly Review"
+            },
+            {
+              "name": "Update and purge lists"
+            },
+            {
+              "name": "Get creative"
+            }
+          ]
+        },
+        {
+          "name": "Engage",
+          "children": [
+            {
+              "name": "Four-criteria model"
+            },
+            {
+              "name": "Threefold model of work"
+            },
+            {
+              "name": "Six-level horizon model"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Natural Planning Model",
+      "children": [
+        {
+          "name": "Defining purpose and principles"
+        },
+        {
+          "name": "Outcome visioning"
+        },
+        {
+          "name": "Brainstorming"
+        },
+        {
+          "name": "Organizing"
+        },
+        {
+          "name": "Identifying next actions"
+        }
+      ]
+    },
+    {
+      "name": "Guiding Principles",
+      "children": [
+        {
+          "name": "Mind like water"
+        },
+        {
+          "name": "Managing actions, not time"
+        },
+        {
+          "name": "Bottom-up approach"
+        },
+        {
+          "name": "Horizontal vs Vertical control"
+        },
+        {
+          "name": "Decision fatigue reduction"
+        }
+      ]
+    },
+    {
+      "name": "Essential Tools",
+      "children": [
+        {
+          "name": "Physical in-trays"
+        },
+        {
+          "name": "Labeler"
+        },
+        {
+          "name": "File folders"
+        },
+        {
+          "name": "Tickler file (43 folders)"
+        },
+        {
+          "name": "Digital task managers"
+        }
+      ]
+    }
+  ]
+}

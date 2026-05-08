@@ -1,0 +1,120 @@
+{
+  "name": "Why Systems Surprise Us",
+  "children": [
+    {
+      "name": "The Role of Models",
+      "children": [
+        {
+          "name": "Mental Models vs. Reality"
+        },
+        {
+          "name": "Model Congruence"
+        },
+        {
+          "name": "Model Fallibility"
+        }
+      ]
+    },
+    {
+      "name": "Event-Oriented Thinking",
+      "children": [
+        {
+          "name": "Levels of Understanding",
+          "children": [
+            {
+              "name": "Events: Visible Outputs"
+            },
+            {
+              "name": "Behavior: Patterns Over Time"
+            },
+            {
+              "name": "Structure: Stocks and Flows"
+            }
+          ]
+        },
+        {
+          "name": "Predictive Limitations"
+        }
+      ]
+    },
+    {
+      "name": "Nonlinear Relationships",
+      "children": [
+        {
+          "name": "Disproportionate Cause and Effect"
+        },
+        {
+          "name": "Shifting Loop Dominance"
+        },
+        {
+          "name": "Case Study: Spruce Budworm"
+        }
+      ]
+    },
+    {
+      "name": "Artificial Boundaries",
+      "children": [
+        {
+          "name": "The 'Side-Effect' Fallacy"
+        },
+        {
+          "name": "Clouds: Simplified Sources/Sinks"
+        },
+        {
+          "name": "Boundary Rigidity"
+        },
+        {
+          "name": "Appropriate Scope Selection"
+        }
+      ]
+    },
+    {
+      "name": "Layers of Limits",
+      "children": [
+        {
+          "name": "Law of the Minimum"
+        },
+        {
+          "name": "Shifting Limiting Factors"
+        },
+        {
+          "name": "Limits to Growth"
+        },
+        {
+          "name": "Self-Imposed vs. System-Imposed"
+        }
+      ]
+    },
+    {
+      "name": "Ubiquitous Delays",
+      "children": [
+        {
+          "name": "Perception and Action Delays"
+        },
+        {
+          "name": "Impact on Stability"
+        },
+        {
+          "name": "Overshoots and Oscillations"
+        }
+      ]
+    },
+    {
+      "name": "Bounded Rationality",
+      "children": [
+        {
+          "name": "Imperfect Information"
+        },
+        {
+          "name": "Local vs. Global Optimum"
+        },
+        {
+          "name": "Information Flow Design"
+        },
+        {
+          "name": "The 'Invisible Foot'"
+        }
+      ]
+    }
+  ]
+}

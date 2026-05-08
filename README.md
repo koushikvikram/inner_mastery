@@ -6,6 +6,12 @@
 
 [![Achieving Consistency](./achieving_consistency/infographic.png)](./achieving_consistency/slide_deck.pdf)
 
+[![Getting Things Done Flowchart](./getting_things_done-the_art_of_stress_free_productivity/gtd-flowchart.png)](./getting_things_done-the_art_of_stress_free_productivity/slide_deck.pdf)
+
+[![Mind Master - Winning Lessons from the Life of Viswanathan Anand](./mind_master-winning_lessons_from_a_champions_life/infographic.png)](./mind_master-winning_lessons_from_a_champions_life/slide_deck.pdf)
+
+[![Thinking in Systems](./thinking_in_systems/infographic.png)](./thinking_in_systems/slide_deck.pdf)
+
 ## Study folders
 
 - [A Century Is Not Enough](./a_century_is_not_enough/README.md)
@@ -23,6 +29,7 @@
 - [Ekagrata aur Divyashakti](./ekagrata_aur_divyashakti/README.md)
 - [Enchiridion](./enchiridion/README.md)
 - [Essence of Karma Yoga](./karma_yoga/essence_of_karma_yoga/README.md)
+- [Getting Things Done: The Art of Stress-Free Productivity](./getting_things_done-the_art_of_stress_free_productivity/README.md)
 - [Give and Take: The Social Dynamics of Success](./give_and_take_the_social_dynamics_of_success/README.md)
 - [I Have the Streets: A Kutti Cricket Story](./i_have_the_streets_a_kutti_cricket_story/README.md)
 - [Indian Psychology by Raghunath Safaya](./indian_psychology_raghunath_safaya/README.md)
@@ -60,6 +67,7 @@
 - [The Heart of the Buddha's Teaching](./the_heart_of_the_buddhas_teaching/README.md)
 - [The Psychology of Success: Why High Performers are Broken](./the_psychology_of_success_why_high_performers_are_broken/README.md)
 - [The Score Takes Care of Itself](./the_score_takes_care_of_itself/README.md)
+- [Thinking in Systems](./thinking_in_systems/README.md)
 - [Thirukkural & Tamil Classics](./thirukkural/README.md)
 - [Thoughts of Power by Swami Vivekananda](./thoughts_of_power/README.md)
 - [Viswanathan Anand - Mind Master](./viswanathan_anand_mind_master/README.md)
@@ -152,6 +160,15 @@ These directories currently contain only a `README` file and no additional files
   3. Recovery after errors and setbacks
   4. Productive self-talk patterns
   5. Healthy ambition without perfectionism
+
+### [getting_things_done-the_art_of_stress_free_productivity](./getting_things_done-the_art_of_stress_free_productivity/README.md)
+- **About:** David Allen’s five-step workflow — capture, clarify, organize, reflect, engage — for moving every open loop out of the head into a trusted external system, so attention is freed from "ambient angst" and given fully to the work in front of you.
+- **5 categories:**
+  1. 100% capture of open loops into trusted inboxes
+  2. Clarifying outcomes and the next physical action
+  3. Organizing with calendar, next-actions, waiting-for, someday/maybe
+  4. Weekly review to keep the system clean and current
+  5. Engaging by context, time, energy, and priority
 
 ### [give_and_take_the_social_dynamics_of_success](./give_and_take_the_social_dynamics_of_success/README.md)
 - **About:** How social behavior patterns (giving, taking, matching) influence long-term success and reputation.
@@ -341,6 +358,15 @@ These directories currently contain only a `README` file and no additional files
   3. Fear-to-purpose conversion
   4. Burnout risk identification
   5. Sustainable performance identity
+
+### [thinking_in_systems](./thinking_in_systems/README.md)
+- **About:** Donella Meadows’ primer on seeing the world as stocks, flows, and feedback loops whose behavior is latent in their own structure — a lens for diagnosing recurring "messes," recognizing system traps, and finding the leverage points where small redesigns produce large change.
+- **5 categories:**
+  1. Reading reality as stocks, flows, and feedback loops
+  2. Distinguishing reinforcing vs balancing loops and delays
+  3. Resilience, self-organization, and hierarchy
+  4. Recognizing system traps and bounded-rationality pitfalls
+  5. Intervening at high-leverage points (paradigms, goals, rules)
 
 ### [winning_the_unforgiving_race_to_greatness](./winning_the_unforgiving_race_to_greatness/README.md)
 - **About:** Competitive intensity and disciplined commitment for elite outcomes.

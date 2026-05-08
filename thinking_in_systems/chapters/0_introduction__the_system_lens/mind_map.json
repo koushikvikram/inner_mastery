@@ -1,0 +1,135 @@
+{
+  "name": "The System Lens",
+  "children": [
+    {
+      "name": "Definition of a System",
+      "children": [
+        {
+          "name": "Set of interconnected things"
+        },
+        {
+          "name": "Produces own pattern of behavior"
+        },
+        {
+          "name": "Response to outside forces is characteristic"
+        }
+      ]
+    },
+    {
+      "name": "Core Insights",
+      "children": [
+        {
+          "name": "Structure determines behavior"
+        },
+        {
+          "name": "Systems cause their own behavior"
+        },
+        {
+          "name": "Behavioral latency within structure"
+        },
+        {
+          "name": "Relationship between structure and behavior"
+        }
+      ]
+    },
+    {
+      "name": "Examples of System Behavior",
+      "children": [
+        {
+          "name": "Slinky's bounce"
+        },
+        {
+          "name": "Market economy cycles"
+        },
+        {
+          "name": "Company market share losses"
+        },
+        {
+          "name": "Oil price vulnerability"
+        },
+        {
+          "name": "Flu virus conditions"
+        },
+        {
+          "name": "Societal drug addiction"
+        }
+      ]
+    },
+    {
+      "name": "Ways of Thinking",
+      "children": [
+        {
+          "name": "Rational Analysis",
+          "children": [
+            {
+              "name": "Linear cause and effect"
+            },
+            {
+              "name": "Small pieces"
+            },
+            {
+              "name": "External blame"
+            },
+            {
+              "name": "Reductionism"
+            }
+          ]
+        },
+        {
+          "name": "Systems Thinking",
+          "children": [
+            {
+              "name": "Holistic intuition"
+            },
+            {
+              "name": "Interconnectedness"
+            },
+            {
+              "name": "Internal structure focus"
+            },
+            {
+              "name": "Non-linear relationships"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "System Archetypes (Traps)",
+      "children": [
+        {
+          "name": "Tragedy of the commons"
+        },
+        {
+          "name": "Eroding goals"
+        },
+        {
+          "name": "Policy resistance"
+        },
+        {
+          "name": "Addiction"
+        },
+        {
+          "name": "Competitive exclusion"
+        }
+      ]
+    },
+    {
+      "name": "Benefits of the System Lens",
+      "children": [
+        {
+          "name": "Identifying root causes"
+        },
+        {
+          "name": "Finding leverage points"
+        },
+        {
+          "name": "System redesign"
+        },
+        {
+          "name": "Managing complex messes"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "name": "Living in a World of Systems",
+  "children": [
+    {
+      "name": "Systems Wisdoms & Practices",
+      "children": [
+        {
+          "name": "Get the Beat",
+          "children": [
+            {
+              "name": "Watch behavior before disturbing"
+            },
+            {
+              "name": "Focus on facts and history"
+            },
+            {
+              "name": "Avoid wrong causal hypotheses"
+            }
+          ]
+        },
+        {
+          "name": "Expose Mental Models",
+          "children": [
+            {
+              "name": "Make assumptions visible"
+            },
+            {
+              "name": "Test models against evidence"
+            },
+            {
+              "name": "Maintain mental flexibility"
+            }
+          ]
+        },
+        {
+          "name": "Honor Information",
+          "children": [
+            {
+              "name": "Avoid distortion or delay"
+            },
+            {
+              "name": "Information as power"
+            },
+            {
+              "name": "Public record impact"
+            }
+          ]
+        },
+        {
+          "name": "Use Language with Care",
+          "children": [
+            {
+              "name": "Enrich with systems concepts"
+            },
+            {
+              "name": "Avoid meaningless 'tyrannese'"
+            },
+            {
+              "name": "Concrete and truthful designations"
+            }
+          ]
+        },
+        {
+          "name": "Value the Non-Quantifiable",
+          "children": [
+            {
+              "name": "Quality over quantity"
+            },
+            {
+              "name": "Be a quality detector"
+            },
+            {
+              "name": "Don't ignore hard-to-measure values"
+            }
+          ]
+        },
+        {
+          "name": "Feedback Policies",
+          "children": [
+            {
+              "name": "Design for learning"
+            },
+            {
+              "name": "Dynamic vs static policy"
+            },
+            {
+              "name": "Meta-feedback loops"
+            }
+          ]
+        },
+        {
+          "name": "Good of the Whole",
+          "children": [
+            {
+              "name": "Hierarchies serve the bottom"
+            },
+            {
+              "name": "Enhance total system properties"
+            },
+            {
+              "name": "Resilience and sustainability"
+            }
+          ]
+        },
+        {
+          "name": "Locate Responsibility",
+          "children": [
+            {
+              "name": "Intrinsic responsibility"
+            },
+            {
+              "name": "Feedback to decision makers"
+            },
+            {
+              "name": "Experience consequences directly"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "System Challenges & Traps",
+      "children": [
+        {
+          "name": "Illusion of Control",
+          "children": [
+            {
+              "name": "Unpredictability of nonlinear systems"
+            },
+            {
+              "name": "Dance vs control"
+            },
+            {
+              "name": "Accepting uncertainty"
+            }
+          ]
+        },
+        {
+          "name": "Common Traps",
+          "children": [
+            {
+              "name": "Policy Resistance"
+            },
+            {
+              "name": "Tragedy of the Commons"
+            },
+            {
+              "name": "Drift to Low Performance"
+            },
+            {
+              "name": "Escalation"
+            },
+            {
+              "name": "Success to the Successful"
+            },
+            {
+              "name": "Shifting the Burden"
+            },
+            {
+              "name": "Rule Beating"
+            },
+            {
+              "name": "Seeking the Wrong Goal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Human Elements",
+      "children": [
+        {
+          "name": "Stay a Learner",
+          "children": [
+            {
+              "name": "Error-embracing"
+            },
+            {
+              "name": "Trust intuition and rationality"
+            },
+            {
+              "name": "Small steps and monitoring"
+            }
+          ]
+        },
+        {
+          "name": "Expand Horizons",
+          "children": [
+            {
+              "name": "Celebrate complexity"
+            },
+            {
+              "name": "Long-term time horizons"
+            },
+            {
+              "name": "Expand boundary of caring"
+            },
+            {
+              "name": "Defy disciplinary lines"
+            }
+          ]
+        },
+        {
+          "name": "Goal of Goodness",
+          "children": [
+            {
+              "name": "Keep standards absolute"
+            },
+            {
+              "name": "Acknowledge human spirit"
+            },
+            {
+              "name": "Focus on human strengths"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

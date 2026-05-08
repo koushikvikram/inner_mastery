@@ -1,0 +1,244 @@
+{
+  "name": "System Traps and Opportunities",
+  "children": [
+    {
+      "name": "Policy Resistance",
+      "children": [
+        {
+          "name": "Symptoms",
+          "children": [
+            {
+              "name": "Intractable problems"
+            },
+            {
+              "name": "Non-results from effort"
+            }
+          ]
+        },
+        {
+          "name": "Causes",
+          "children": [
+            {
+              "name": "Bounded rationality"
+            },
+            {
+              "name": "Conflicting subsystem goals"
+            }
+          ]
+        },
+        {
+          "name": "The Way Out",
+          "children": [
+            {
+              "name": "Let go of ineffective policies"
+            },
+            {
+              "name": "Align goals through overarching purpose"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tragedy of the Commons",
+      "children": [
+        {
+          "name": "Structure",
+          "children": [
+            {
+              "name": "Shared erodable resource"
+            },
+            {
+              "name": "Missing feedback to users"
+            }
+          ]
+        },
+        {
+          "name": "The Way Out",
+          "children": [
+            {
+              "name": "Educate and exhort"
+            },
+            {
+              "name": "Privatize the resource"
+            },
+            {
+              "name": "Regulate through mutual coercion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Drift to Low Performance",
+      "children": [
+        {
+          "name": "Mechanism",
+          "children": [
+            {
+              "name": "Eroding goals"
+            },
+            {
+              "name": "Negative bias in perception"
+            },
+            {
+              "name": "Boiled frog syndrome"
+            }
+          ]
+        },
+        {
+          "name": "The Way Out",
+          "children": [
+            {
+              "name": "Keep standards absolute"
+            },
+            {
+              "name": "Bias goals toward best performance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Escalation",
+      "children": [
+        {
+          "name": "Examples",
+          "children": [
+            {
+              "name": "Arms races"
+            },
+            {
+              "name": "Price wars"
+            },
+            {
+              "name": "Negative campaigning"
+            }
+          ]
+        },
+        {
+          "name": "The Way Out",
+          "children": [
+            {
+              "name": "Unilateral disarmament"
+            },
+            {
+              "name": "Negotiated structural limits"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Success to the Successful",
+      "children": [
+        {
+          "name": "Mechanism",
+          "children": [
+            {
+              "name": "Competitive exclusion"
+            },
+            {
+              "name": "Reinforcing winners' advantage"
+            }
+          ]
+        },
+        {
+          "name": "The Way Out",
+          "children": [
+            {
+              "name": "Diversification"
+            },
+            {
+              "name": "Antitrust laws"
+            },
+            {
+              "name": "Leveling the playing field"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shifting the Burden (Addiction)",
+      "children": [
+        {
+          "name": "Problem",
+          "children": [
+            {
+              "name": "Symptomatic relief"
+            },
+            {
+              "name": "Atrophy of system capability"
+            }
+          ]
+        },
+        {
+          "name": "The Way Out",
+          "children": [
+            {
+              "name": "Focus on long-term restructuring"
+            },
+            {
+              "name": "Strengthen internal correction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rule Beating",
+      "children": [
+        {
+          "name": "Definition",
+          "children": [
+            {
+              "name": "Following letter, not spirit"
+            },
+            {
+              "name": "Evasive self-organization"
+            }
+          ]
+        },
+        {
+          "name": "The Way Out",
+          "children": [
+            {
+              "name": "Redesign rules for positive creativity"
+            },
+            {
+              "name": "Use as feedback for improvement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Seeking the Wrong Goal",
+      "children": [
+        {
+          "name": "Pitfalls",
+          "children": [
+            {
+              "name": "Confusing effort with result"
+            },
+            {
+              "name": "GNP as poor welfare measure"
+            }
+          ]
+        },
+        {
+          "name": "The Way Out",
+          "children": [
+            {
+              "name": "Specify indicators of real welfare"
+            },
+            {
+              "name": "Be careful what you ask for"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

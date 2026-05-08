@@ -1,0 +1,146 @@
+{
+  "name": "Why Systems Work Well",
+  "children": [
+    {
+      "name": "Resilience",
+      "children": [
+        {
+          "name": "Definition",
+          "children": [
+            {
+              "name": "Ability to bounce back"
+            },
+            {
+              "name": "Survival in variable environments"
+            },
+            {
+              "name": "Opposite of brittleness"
+            }
+          ]
+        },
+        {
+          "name": "Sources",
+          "children": [
+            {
+              "name": "Rich feedback loop structure"
+            },
+            {
+              "name": "Redundancy"
+            },
+            {
+              "name": "Meta-resilience through learning"
+            }
+          ]
+        },
+        {
+          "name": "Trade-offs",
+          "children": [
+            {
+              "name": "Static stability vs resilience"
+            },
+            {
+              "name": "Efficiency vs vulnerability"
+            },
+            {
+              "name": "Short-term productivity costs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Self-Organization",
+      "children": [
+        {
+          "name": "Definition",
+          "children": [
+            {
+              "name": "Ability to create structure"
+            },
+            {
+              "name": "Learning and evolution"
+            },
+            {
+              "name": "Increasing complexity"
+            }
+          ]
+        },
+        {
+          "name": "Mechanisms",
+          "children": [
+            {
+              "name": "Simple organizing rules"
+            },
+            {
+              "name": "Fractal geometry"
+            },
+            {
+              "name": "Freedom and experimentation"
+            }
+          ]
+        },
+        {
+          "name": "Threats",
+          "children": [
+            {
+              "name": "Overbearing power structures"
+            },
+            {
+              "name": "Rigid bureaucracies"
+            },
+            {
+              "name": "Requirement for order"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hierarchy",
+      "children": [
+        {
+          "name": "Structure",
+          "children": [
+            {
+              "name": "Systems within subsystems"
+            },
+            {
+              "name": "Bottom-up evolution"
+            },
+            {
+              "name": "Stable intermediate forms"
+            }
+          ]
+        },
+        {
+          "name": "Benefits",
+          "children": [
+            {
+              "name": "Reduced information overload"
+            },
+            {
+              "name": "System stability"
+            },
+            {
+              "name": "Partial decomposability"
+            }
+          ]
+        },
+        {
+          "name": "Malfunctions",
+          "children": [
+            {
+              "name": "Suboptimization"
+            },
+            {
+              "name": "Too much central control"
+            },
+            {
+              "name": "Loss of subsystem autonomy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

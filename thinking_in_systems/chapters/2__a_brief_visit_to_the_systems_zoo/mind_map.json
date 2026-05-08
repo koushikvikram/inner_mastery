@@ -1,0 +1,131 @@
+{
+  "name": "A Brief Visit to the Systems Zoo",
+  "children": [
+    {
+      "name": "One-Stock Systems",
+      "children": [
+        {
+          "name": "Thermostat (Two Competing Balancing Loops)",
+          "children": [
+            {
+              "name": "Heating loop (Furnace)"
+            },
+            {
+              "name": "Cooling loop (Outside leak)"
+            },
+            {
+              "name": "Equilibrium below target"
+            },
+            {
+              "name": "Breakdown point (Extreme cold)"
+            }
+          ]
+        },
+        {
+          "name": "Population and Economy (Reinforcing + Balancing)",
+          "children": [
+            {
+              "name": "Population: Births (R) vs Deaths (B)"
+            },
+            {
+              "name": "Industrial Capital: Investment (R) vs Depreciation (B)"
+            },
+            {
+              "name": "Shifting Dominance"
+            },
+            {
+              "name": "Dynamic Equilibrium"
+            }
+          ]
+        },
+        {
+          "name": "Business Inventory (System with Delays)",
+          "children": [
+            {
+              "name": "Perception delay"
+            },
+            {
+              "name": "Response delay"
+            },
+            {
+              "name": "Delivery delay"
+            },
+            {
+              "name": "Oscillation behavior"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Two-Stock Systems",
+      "children": [
+        {
+          "name": "Nonrenewable Resource (Oil Economy)",
+          "children": [
+            {
+              "name": "Stock-limited constraint"
+            },
+            {
+              "name": "Exponential extraction growth"
+            },
+            {
+              "name": "Peak and collapse dynamics"
+            },
+            {
+              "name": "Price/Technology feedback effects"
+            }
+          ]
+        },
+        {
+          "name": "Renewable Resource (Fishery Economy)",
+          "children": [
+            {
+              "name": "Flow-limited constraint"
+            },
+            {
+              "name": "Regeneration rate nonlinearities"
+            },
+            {
+              "name": "Overshoot and adjustment"
+            },
+            {
+              "name": "Overshoot and collapse"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "General System Principles",
+      "children": [
+        {
+          "name": "Information affects future behavior (Delays)"
+        },
+        {
+          "name": "Structure determines behavior"
+        },
+        {
+          "name": "Limits-to-growth archetype"
+        },
+        {
+          "name": "High-leverage, wrong-direction traps"
+        }
+      ]
+    },
+    {
+      "name": "Model Testing Questions",
+      "children": [
+        {
+          "name": "Are driving factors likely?"
+        },
+        {
+          "name": "Would the system react this way?"
+        },
+        {
+          "name": "What is driving the driving factors?"
+        }
+      ]
+    }
+  ]
+}
