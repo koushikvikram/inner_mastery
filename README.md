@@ -6,6 +6,8 @@
 
 [![Achieving Consistency](./achieving_consistency/infographic.png)](./achieving_consistency/slide_deck.pdf)
 
+[![Faith, Action, Confidence - in that order. Accept Pain, Uncertainty and Constant Work - those are reality.](./stutz-overcoming_dissatisfaction_through_action/infographic.png)](./stutz-overcoming_dissatisfaction_through_action/slide_deck.pdf)
+
 [![Getting Things Done Flowchart](./getting_things_done-the_art_of_stress_free_productivity/gtd-flowchart.png)](./getting_things_done-the_art_of_stress_free_productivity/slide_deck.pdf)
 
 [![Mind Master - Winning Lessons from the Life of Viswanathan Anand](./mind_master-winning_lessons_from_a_champions_life/infographic.png)](./mind_master-winning_lessons_from_a_champions_life/slide_deck.pdf)
