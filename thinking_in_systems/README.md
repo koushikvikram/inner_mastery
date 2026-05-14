@@ -67,3 +67,42 @@
 [![Chapter 7 - Living in a World of Systems](./chapters/7__living_in_a_world_of_systems/infographic.png)](./chapters/7__living_in_a_world_of_systems/slide_deck.pdf)
 
 | [Video](./chapters/7__living_in_a_world_of_systems/video.mp4) | [Flashcards](./chapters/7__living_in_a_world_of_systems/flashcards.html) | [Quiz](./chapters/7__living_in_a_world_of_systems/quiz.html) | [Report](./chapters/7__living_in_a_world_of_systems/report.md) | [Report 2](./chapters/7__living_in_a_world_of_systems/report_2.md) | [Report 3](./chapters/7__living_in_a_world_of_systems/report_3.md) | [Mind Map](./chapters/7__living_in_a_world_of_systems/mind_map.json) | [Source](./chapters/7__living_in_a_world_of_systems/source.pdf) |
+
+## Notes
+
+### System, Architecture, Structure, Behavior
+
+One compact way to relate them:
+
+- **System**: The whole thing in context — elements, relationships, environment, purpose, and observed outcomes.
+- **Architecture**: The high‑level organization and key design decisions intended to achieve certain behaviors and qualities.
+- **Structure**: The concrete arrangement of parts and connections that implements the architecture.
+- **Behavior**: The dynamic patterns of action and response that emerge when the structured system operates (often in an environment).
+
+In other words: architecture shapes structure; structure, in context, produces behavior; behavior determines whether the system fulfills its purpose.
+
+#### Software example
+
+- **System**: An online store as actually used: users, backend, inventory, payments, external services, ops.
+- **Architecture**: Layered or hexagonal design, services for catalog/order/payment, chosen protocols, scalability patterns.
+- **Structure**: Specific services, tables, queues, classes, configs, deployment topology.
+- **Behavior**: How requests flow, latency patterns, failure modes, consistency behaviors, throughput under load, edge‑case handling.
+
+If users see slow checkouts under peak load, that’s a behavior pointing back to architectural or structural issues.
+
+#### Built environment example
+
+- **System**: A subway network in daily operation.
+- **Architecture**: Network layout, line topology, station placement, transfer patterns.
+- **Structure**: Tracks, tunnels, stations, signaling hardware, trains.
+- **Behavior**: Train frequency, congestion patterns, delays propagating, how people move and crowd, resilience to incidents.
+
+Here again, behavior (e.g., recurring crowding at one hub) is the observable outcome of the architecture and structure interacting with real demand.
+
+#### Conceptual chain
+
+You can summarize the causal chain like this:
+
+> Purpose & context → architecture → structure → behavior → (back to) system assessment
+
+We judge the system largely by its behavior; if behavior doesn’t match intent, we reconsider architecture or structure.
