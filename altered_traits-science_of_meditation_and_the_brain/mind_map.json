@@ -1,0 +1,159 @@
+{
+  "name": "Altered Traits: Meditation Science",
+  "children": [
+    {
+      "name": "Five Levels of Practice",
+      "children": [
+        {
+          "name": "Level 1: Deep Path (Ancient Lineages)"
+        },
+        {
+          "name": "Level 2: Adapted Traditions (Western Lifestyle)"
+        },
+        {
+          "name": "Level 3: MBSR and TM (Wide Benefit)"
+        },
+        {
+          "name": "Level 4: Most Accessible (Apps and Desk-Mindfulness)"
+        },
+        {
+          "name": "Level 5: Scientific Innovations (Future Adaptations)"
+        }
+      ]
+    },
+    {
+      "name": "Core Scientific Themes",
+      "children": [
+        {
+          "name": "The Deep Path",
+          "children": [
+            {
+              "name": "Altered Traits vs. States"
+            },
+            {
+              "name": "Neuroplasticity"
+            },
+            {
+              "name": "High-Amplitude Gamma Waves"
+            },
+            {
+              "name": "Effortless Concentration"
+            }
+          ]
+        },
+        {
+          "name": "The Wide Path",
+          "children": [
+            {
+              "name": "MBSR (Stress Reduction)"
+            },
+            {
+              "name": "Palliative Care Benefits"
+            },
+            {
+              "name": "Short-term Attention Gains"
+            },
+            {
+              "name": "Reduced Amygdala Reactivity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Neural Systems Transformed",
+      "children": [
+        {
+          "name": "Stress and Resilience",
+          "children": [
+            {
+              "name": "Amygdala Dampening"
+            },
+            {
+              "name": "Rapid Recovery from Pain"
+            },
+            {
+              "name": "Lower Cortisol Levels"
+            }
+          ]
+        },
+        {
+          "name": "Compassion and Empathy",
+          "children": [
+            {
+              "name": "Empathic Concern Circuitry"
+            },
+            {
+              "name": "Brain-Heart Coupling"
+            },
+            {
+              "name": "Biological Preparedness for Goodness"
+            }
+          ]
+        },
+        {
+          "name": "Attention and Focus",
+          "children": [
+            {
+              "name": "Selective Attention"
+            },
+            {
+              "name": "Reduced Attentional Blink"
+            },
+            {
+              "name": "Enhanced Meta-Awareness"
+            }
+          ]
+        },
+        {
+          "name": "The Self System",
+          "children": [
+            {
+              "name": "Default Mode Network Quieting"
+            },
+            {
+              "name": "Lessening of 'Stickiness'"
+            },
+            {
+              "name": "Shrinkage of Nucleus Accumbens"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scientific Rigor and Caveats",
+      "children": [
+        {
+          "name": "Active Controls (HEP)"
+        },
+        {
+          "name": "Experimenter Bias"
+        },
+        {
+          "name": "Replication Crisis"
+        },
+        {
+          "name": "Lifetime Practice Hours Metric"
+        }
+      ]
+    },
+    {
+      "name": "Biological Impacts",
+      "children": [
+        {
+          "name": "Epigenetics (Gene Expression)"
+        },
+        {
+          "name": "Telomerase and Cellular Aging"
+        },
+        {
+          "name": "Anti-Inflammatory Effects"
+        },
+        {
+          "name": "Slower Brain Atrophy"
+        }
+      ]
+    }
+  ]
+}
