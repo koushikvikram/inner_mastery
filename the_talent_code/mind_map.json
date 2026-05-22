@@ -1,0 +1,152 @@
+{
+  "name": "The Talent Code",
+  "children": [
+    {
+      "name": "Deep Practice",
+      "children": [
+        {
+          "name": "The Sweet Spot",
+          "children": [
+            {
+              "name": "Operating at edges of ability"
+            },
+            {
+              "name": "Targeting mistakes"
+            },
+            {
+              "name": "Slowing down"
+            }
+          ]
+        },
+        {
+          "name": "Myelin",
+          "children": [
+            {
+              "name": "Neural insulator"
+            },
+            {
+              "name": "Increases signal speed"
+            },
+            {
+              "name": "Grows with circuit firing"
+            }
+          ]
+        },
+        {
+          "name": "Rules of Practice",
+          "children": [
+            {
+              "name": "Chunking into small parts"
+            },
+            {
+              "name": "Repetition"
+            },
+            {
+              "name": "Learning to feel the struggle"
+            }
+          ]
+        },
+        {
+          "name": "Case Studies",
+          "children": [
+            {
+              "name": "Brazilian Futsal"
+            },
+            {
+              "name": "Meadowmount Music School"
+            },
+            {
+              "name": "Edwin Link Flight Trainer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ignition",
+      "children": [
+        {
+          "name": "Primal Cues",
+          "children": [
+            {
+              "name": "Future belonging"
+            },
+            {
+              "name": "Scarcity and safety"
+            },
+            {
+              "name": "If they can do it, why can't I?"
+            }
+          ]
+        },
+        {
+          "name": "Hotbeds",
+          "children": [
+            {
+              "name": "Curaçao Little League"
+            },
+            {
+              "name": "KIPP Academies"
+            },
+            {
+              "name": "South Korean Golfers"
+            },
+            {
+              "name": "Russian Tennis"
+            }
+          ]
+        },
+        {
+          "name": "Language of Ignition",
+          "children": [
+            {
+              "name": "Praising effort over intelligence"
+            },
+            {
+              "name": "The Dweck Study"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Master Coaching",
+      "children": [
+        {
+          "name": "The Four Virtues",
+          "children": [
+            {
+              "name": "The Matrix: deep knowledge"
+            },
+            {
+              "name": "Perceptiveness: customized signals"
+            },
+            {
+              "name": "GPS Reflex: concise directives"
+            },
+            {
+              "name": "Theatrical Honesty"
+            }
+          ]
+        },
+        {
+          "name": "The Talent Whisperers",
+          "children": [
+            {
+              "name": "John Wooden: information rich"
+            },
+            {
+              "name": "Hans Jensen: emotional targeting"
+            },
+            {
+              "name": "Linda Septien: pop vocal system"
+            },
+            {
+              "name": "Tom Martinez: quarterback guru"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "name": "Primal Leadership",
+  "children": [
+    {
+      "name": "The Power of Emotional Intelligence",
+      "children": [
+        {
+          "name": "Primal Dimension",
+          "children": [
+            {
+              "name": "Leaders as emotional guides"
+            },
+            {
+              "name": "Driving collective emotions"
+            },
+            {
+              "name": "Resonance vs. Dissonance"
+            }
+          ]
+        },
+        {
+          "name": "Neuroanatomy of Leadership",
+          "children": [
+            {
+              "name": "Open-loop limbic system"
+            },
+            {
+              "name": "Emotional contagion"
+            },
+            {
+              "name": "Amygdala and Prefrontal Cortex"
+            }
+          ]
+        },
+        {
+          "name": "EI Domains",
+          "children": [
+            {
+              "name": "Self-Awareness"
+            },
+            {
+              "name": "Self-Management"
+            },
+            {
+              "name": "Social Awareness"
+            },
+            {
+              "name": "Relationship Management"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Leadership Styles",
+      "children": [
+        {
+          "name": "Resonant Styles",
+          "children": [
+            {
+              "name": "Visionary: Moves people toward dreams"
+            },
+            {
+              "name": "Coaching: Connects goals to personal wants"
+            },
+            {
+              "name": "Affiliative: Creates harmony"
+            },
+            {
+              "name": "Democratic: Values input and buy-in"
+            }
+          ]
+        },
+        {
+          "name": "Dissonant Styles (Apply with Caution)",
+          "children": [
+            {
+              "name": "Pacesetting: High standards, high pressure"
+            },
+            {
+              "name": "Commanding: Immediate compliance in crisis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Making Leaders (The Five Discoveries)",
+      "children": [
+        {
+          "name": "1. My Ideal Self: Who do I want to be?"
+        },
+        {
+          "name": "2. My Real Self: Strengths and gaps"
+        },
+        {
+          "name": "3. My Learning Agenda: Plan for improvement"
+        },
+        {
+          "name": "4. Reconfiguring the Brain: Practice and mastery"
+        },
+        {
+          "name": "5. Supportive Relationships: Power of coaching/mentors"
+        }
+      ]
+    },
+    {
+      "name": "Building EI Organizations",
+      "children": [
+        {
+          "name": "The Emotional Reality of Teams"
+        },
+        {
+          "name": "Team Norms and Culture"
+        },
+        {
+          "name": "Creating Sustainable Change"
+        }
+      ]
+    }
+  ]
+}

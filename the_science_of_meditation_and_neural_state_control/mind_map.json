@@ -1,0 +1,185 @@
+{
+  "name": "Meditation: Science and Practice",
+  "children": [
+    {
+      "name": "Neuroscience Foundations",
+      "children": [
+        {
+          "name": "Key Brain Areas",
+          "children": [
+            {
+              "name": "Left Dorsolateral Prefrontal Cortex (Interpretation)"
+            },
+            {
+              "name": "Anterior Cingulate Cortex (Bodily signals)"
+            },
+            {
+              "name": "Insula (Internal/External integration)"
+            },
+            {
+              "name": "Amygdala (Threat detection)"
+            }
+          ]
+        },
+        {
+          "name": "Default Mode Network",
+          "children": [
+            {
+              "name": "Mind wandering"
+            },
+            {
+              "name": "Unhappiness correlation"
+            },
+            {
+              "name": "Stimulus-independent thought"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Perceptual Continuums",
+      "children": [
+        {
+          "name": "Interoception vs. Exteroception",
+          "children": [
+            {
+              "name": "Interoception: Internal sensations/Skin-in"
+            },
+            {
+              "name": "Exteroception: External world/Skin-out"
+            },
+            {
+              "name": "Choosing the non-default state"
+            }
+          ]
+        },
+        {
+          "name": "Interoception vs. Dissociation",
+          "children": [
+            {
+              "name": "Dissociation: Lack of bodily awareness"
+            },
+            {
+              "name": "Healthy 'U-shape' balance"
+            },
+            {
+              "name": "Pathologic extremes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Breathing Mechanics",
+      "children": [
+        {
+          "name": "Alertness (Inhale-biased)",
+          "children": [
+            {
+              "name": "Longer/Vigorous inhales"
+            },
+            {
+              "name": "Adrenaline release"
+            }
+          ]
+        },
+        {
+          "name": "Relaxation (Exhale-biased)",
+          "children": [
+            {
+              "name": "Longer/Vigorous exhales"
+            },
+            {
+              "name": "Reduced cortisol"
+            }
+          ]
+        },
+        {
+          "name": "Cyclic vs. Non-cyclic",
+          "children": [
+            {
+              "name": "Cyclic: Natural cadence"
+            },
+            {
+              "name": "Non-cyclic: Higher attentional load"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Specific Practices",
+      "children": [
+        {
+          "name": "Traditional Meditation",
+          "children": [
+            {
+              "name": "Focus and Refocus exercise"
+            },
+            {
+              "name": "Third Eye center (Prefrontal Cortex)"
+            },
+            {
+              "name": "Trait vs. State changes"
+            }
+          ]
+        },
+        {
+          "name": "Sleep & Recovery",
+          "children": [
+            {
+              "name": "Yoga Nidra (Yoga sleep)"
+            },
+            {
+              "name": "NSDR (Non-Sleep Deep Rest)"
+            },
+            {
+              "name": "Dopamine replenishment"
+            }
+          ]
+        },
+        {
+          "name": "Space-Time Bridging",
+          "children": [
+            {
+              "name": "Step 1: Internal (3 breaths)"
+            },
+            {
+              "name": "Step 2: Palm of hand (3 breaths)"
+            },
+            {
+              "name": "Step 3: Mid-distance (3 breaths)"
+            },
+            {
+              "name": "Step 4: Horizon (3 breaths)"
+            },
+            {
+              "name": "Step 5: Global/Universe awareness"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Health Benefits",
+      "children": [
+        {
+          "name": "Mood and Depression alleviation"
+        },
+        {
+          "name": "Enhanced Focus and Memory"
+        },
+        {
+          "name": "Reduced Inflammation"
+        },
+        {
+          "name": "Stress and Anxiety management"
+        },
+        {
+          "name": "Improved Sleep quality"
+        }
+      ]
+    }
+  ]
+}

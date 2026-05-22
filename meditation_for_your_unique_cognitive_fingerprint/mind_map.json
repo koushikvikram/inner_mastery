@@ -1,0 +1,143 @@
+{
+  "name": "Dr. K's Approach to Meditation",
+  "children": [
+    {
+      "name": "Core Philosophy",
+      "children": [
+        {
+          "name": "Cognitive Fingerprint",
+          "children": [
+            {
+              "name": "Unique brain aptitudes"
+            },
+            {
+              "name": "Individual preferences"
+            }
+          ]
+        },
+        {
+          "name": "The Problem with Traditional Teaching",
+          "children": [
+            {
+              "name": "One technique fits all fallacy"
+            },
+            {
+              "name": "Lack of referral to other traditions"
+            },
+            {
+              "name": "Persistence over personalization"
+            }
+          ]
+        },
+        {
+          "name": "Clinical Perspective",
+          "children": [
+            {
+              "name": "Medication-like precision"
+            },
+            {
+              "name": "Matching technique to diagnosis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Technique: Physiology-Based",
+      "children": [
+        {
+          "name": "Pranayama (Kapalbhati/Nadi Shuddhi)",
+          "children": [
+            {
+              "name": "Reduces respiratory rate"
+            },
+            {
+              "name": "Activates Vagus nerve"
+            },
+            {
+              "name": "Best for: Anxiety and Panic"
+            }
+          ]
+        },
+        {
+          "name": "Tumo (Himalayan Buddhist)",
+          "children": [
+            {
+              "name": "Increases core temperature"
+            },
+            {
+              "name": "Energizing effect"
+            },
+            {
+              "name": "Best for: Depression and Sluggishness"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Technique: Mental-Based",
+      "children": [
+        {
+          "name": "Shunya Meditation",
+          "children": [
+            {
+              "name": "Ego dissolution"
+            },
+            {
+              "name": "Neutral identity"
+            },
+            {
+              "name": "Best for: Trauma and Narcissism"
+            }
+          ]
+        },
+        {
+          "name": "Yoga Nidra",
+          "children": [
+            {
+              "name": "Autosuggestive state"
+            },
+            {
+              "name": "Sankalpa (Resolve)"
+            },
+            {
+              "name": "Best for: Positive subconscious change"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Traditions Studied",
+      "children": [
+        {
+          "name": "Hindu Tantra (Vigyan Bhairav Tantra)"
+        },
+        {
+          "name": "Buddhist (Zen, Mahayana, Vajrayana)"
+        },
+        {
+          "name": "Yogic Tradition"
+        },
+        {
+          "name": "Devotional Prayer"
+        }
+      ]
+    },
+    {
+      "name": "Healthy Gamer Resources",
+      "children": [
+        {
+          "name": "Dr. K's Guide to Meditation"
+        },
+        {
+          "name": "Coaching Programs"
+        },
+        {
+          "name": "Targeted Guides (ADHD, Trauma, etc.)"
+        }
+      ]
+    }
+  ]
+}

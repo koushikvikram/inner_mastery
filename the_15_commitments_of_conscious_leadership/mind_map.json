@@ -1,0 +1,259 @@
+{
+  "name": "The 15 Commitments of Conscious Leadership",
+  "children": [
+    {
+      "name": "Core Concept: Above vs. Below the Line",
+      "children": [
+        {
+          "name": "Above the Line",
+          "children": [
+            {
+              "name": "Open and Curious"
+            },
+            {
+              "name": "Committed to Learning"
+            },
+            {
+              "name": "Conscious Leadership"
+            }
+          ]
+        },
+        {
+          "name": "Below the Line",
+          "children": [
+            {
+              "name": "Closed and Defensive"
+            },
+            {
+              "name": "Committed to Being Right"
+            },
+            {
+              "name": "Unconscious Reactivity"
+            }
+          ]
+        },
+        {
+          "name": "The Shift",
+          "children": [
+            {
+              "name": "Self-Awareness"
+            },
+            {
+              "name": "Pausing and Breathing"
+            },
+            {
+              "name": "Choosing Curiosity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The 15 Commitments",
+      "children": [
+        {
+          "name": "1. Radical Responsibility",
+          "children": [
+            {
+              "name": "Ending Blame"
+            },
+            {
+              "name": "100% Ownership"
+            }
+          ]
+        },
+        {
+          "name": "2. Learning Through Curiosity",
+          "children": [
+            {
+              "name": "Self-Awareness"
+            },
+            {
+              "name": "Wonder Questions"
+            }
+          ]
+        },
+        {
+          "name": "3. Feeling All Feelings",
+          "children": [
+            {
+              "name": "Emotional Literacy"
+            },
+            {
+              "name": "Locate and Release"
+            }
+          ]
+        },
+        {
+          "name": "4. Speaking Candidly",
+          "children": [
+            {
+              "name": "Revealing vs Concealing"
+            },
+            {
+              "name": "Speaking Unarguably"
+            }
+          ]
+        },
+        {
+          "name": "5. Eliminating Gossip",
+          "children": [
+            {
+              "name": "Direct Communication"
+            },
+            {
+              "name": "Clearing Model"
+            }
+          ]
+        },
+        {
+          "name": "6. Practicing Integrity",
+          "children": [
+            {
+              "name": "Impeccable Agreements"
+            },
+            {
+              "name": "Congruence"
+            }
+          ]
+        },
+        {
+          "name": "7. Generating Appreciation",
+          "children": [
+            {
+              "name": "Speciﬁc Gratitude"
+            },
+            {
+              "name": "Receiving Fully"
+            }
+          ]
+        },
+        {
+          "name": "8. Zone of Genius",
+          "children": [
+            {
+              "name": "Upper Limits"
+            },
+            {
+              "name": "Full Potential"
+            }
+          ]
+        },
+        {
+          "name": "9. Play and Rest",
+          "children": [
+            {
+              "name": "Improvisation"
+            },
+            {
+              "name": "Energy Rhythms"
+            }
+          ]
+        },
+        {
+          "name": "10. Exploring the Opposite",
+          "children": [
+            {
+              "name": "Questioning Beliefs"
+            },
+            {
+              "name": "The Work (Byron Katie)"
+            }
+          ]
+        },
+        {
+          "name": "11. Sourcing Core Wants",
+          "children": [
+            {
+              "name": "Approval, Control, Security"
+            },
+            {
+              "name": "Internal Sourcing"
+            }
+          ]
+        },
+        {
+          "name": "12. Having Enough",
+          "children": [
+            {
+              "name": "Sufﬁciency"
+            },
+            {
+              "name": "Ending Scarcity"
+            }
+          ]
+        },
+        {
+          "name": "13. World as an Ally",
+          "children": [
+            {
+              "name": "Learning from Challenges"
+            },
+            {
+              "name": "Universal Support"
+            }
+          ]
+        },
+        {
+          "name": "14. Win for All Solutions",
+          "children": [
+            {
+              "name": "Collaboration"
+            },
+            {
+              "name": "Non-Zero-Sum"
+            }
+          ]
+        },
+        {
+          "name": "15. Being the Resolution",
+          "children": [
+            {
+              "name": "Whole Body YES"
+            },
+            {
+              "name": "Answering the Call"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Four Ways of Leading",
+      "children": [
+        {
+          "name": "To Me: Victim Consciousness"
+        },
+        {
+          "name": "By Me: Creator Consciousness"
+        },
+        {
+          "name": "Through Me: Surrender"
+        },
+        {
+          "name": "As Me: Oneness"
+        }
+      ]
+    },
+    {
+      "name": "The Change Formula",
+      "children": [
+        {
+          "name": "V: Vision"
+        },
+        {
+          "name": "D: Dissatisfaction"
+        },
+        {
+          "name": "FS: First Steps"
+        },
+        {
+          "name": "R: Resistance"
+        },
+        {
+          "name": "Formula: (VxD)+FS > R"
+        }
+      ]
+    }
+  ]
+}

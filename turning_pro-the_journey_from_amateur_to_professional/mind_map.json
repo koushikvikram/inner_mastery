@@ -1,0 +1,174 @@
+{
+  "name": "Turning Pro by Steven Pressfield",
+  "children": [
+    {
+      "name": "The Amateur Life",
+      "children": [
+        {
+          "name": "Resistance",
+          "children": [
+            {
+              "name": "Fear of failure/success"
+            },
+            {
+              "name": "Self-sabotage"
+            },
+            {
+              "name": "Incapacity as payoff"
+            }
+          ]
+        },
+        {
+          "name": "Shadow Callings",
+          "children": [
+            {
+              "name": "Metaphor for true calling"
+            },
+            {
+              "name": "Avoidance of risk"
+            },
+            {
+              "name": "Addictions and distractions"
+            }
+          ]
+        },
+        {
+          "name": "Amateur Characteristics",
+          "children": [
+            {
+              "name": "Identifies with ego"
+            },
+            {
+              "name": "Seeks validation"
+            },
+            {
+              "name": "Lives in past or future"
+            },
+            {
+              "name": "Fear of exclusion from tribe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Turning Point",
+      "children": [
+        {
+          "name": "The Epiphany",
+          "children": [
+            {
+              "name": "Stripping away self-delusion"
+            },
+            {
+              "name": "Hitting bottom"
+            },
+            {
+              "name": "Choice: Truth or Bullshit"
+            }
+          ]
+        },
+        {
+          "name": "The Decision",
+          "children": [
+            {
+              "name": "Change of mind"
+            },
+            {
+              "name": "Daily re-commitment"
+            },
+            {
+              "name": "Sacrifice of old self"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Professional Mindset",
+      "children": [
+        {
+          "name": "Core Habits",
+          "children": [
+            {
+              "name": "Shows up every day"
+            },
+            {
+              "name": "Mastering technique"
+            },
+            {
+              "name": "Acts in face of fear"
+            },
+            {
+              "name": "Accepts no excuses"
+            }
+          ]
+        },
+        {
+          "name": "Practice",
+          "children": [
+            {
+              "name": "Sacred space"
+            },
+            {
+              "name": "Focused intention"
+            },
+            {
+              "name": "Work for its own sake"
+            },
+            {
+              "name": "Ritual and order"
+            }
+          ]
+        },
+        {
+          "name": "The Mystery",
+          "children": [
+            {
+              "name": "Invoking the Muse"
+            },
+            {
+              "name": "Trusting the box"
+            },
+            {
+              "name": "Working over your head"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Transformation",
+      "children": [
+        {
+          "name": "Interior Shift",
+          "children": [
+            {
+              "name": "Ego to Self"
+            },
+            {
+              "name": "Finding power and voice"
+            },
+            {
+              "name": "Self-respect"
+            }
+          ]
+        },
+        {
+          "name": "Social Impact",
+          "children": [
+            {
+              "name": "New friends"
+            },
+            {
+              "name": "Sabotage from amateurs"
+            },
+            {
+              "name": "Simplification of life"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
