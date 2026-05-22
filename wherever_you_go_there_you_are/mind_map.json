@@ -1,0 +1,132 @@
+{
+  "name": "Wherever You Go, There You Are",
+  "children": [
+    {
+      "name": "Mindfulness Fundamentals",
+      "children": [
+        {
+          "name": "Definition: Paying attention on purpose"
+        },
+        {
+          "name": "Core: Non-judgmental awareness"
+        },
+        {
+          "name": "Goal: Waking up from automaticity"
+        },
+        {
+          "name": "Nature: Simple but not easy"
+        }
+      ]
+    },
+    {
+      "name": "Key Attitudes",
+      "children": [
+        {
+          "name": "Patience: Allowing things to unfold"
+        },
+        {
+          "name": "Acceptance: Acknowledging what is"
+        },
+        {
+          "name": "Non-judging: Observing with discernment"
+        },
+        {
+          "name": "Trust: Confidence in self and process"
+        },
+        {
+          "name": "Generosity: Giving of oneself"
+        },
+        {
+          "name": "Voluntary Simplicity: Reducing distractions"
+        }
+      ]
+    },
+    {
+      "name": "The Heart of Practice",
+      "children": [
+        {
+          "name": "Formal Practice",
+          "children": [
+            {
+              "name": "Sitting Meditation"
+            },
+            {
+              "name": "Walking Meditation"
+            },
+            {
+              "name": "Standing and Lying-down"
+            },
+            {
+              "name": "Mountain and Lake Visualizations"
+            }
+          ]
+        },
+        {
+          "name": "The Breath",
+          "children": [
+            {
+              "name": "Anchor to the present"
+            },
+            {
+              "name": "Inhabiting the moment"
+            },
+            {
+              "name": "Bare-bones awareness"
+            }
+          ]
+        },
+        {
+          "name": "Non-Doing",
+          "children": [
+            {
+              "name": "Being mode vs. Doing mode"
+            },
+            {
+              "name": "Effortless activity"
+            },
+            {
+              "name": "Stopping to be present"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mindfulness in Everyday Life",
+      "children": [
+        {
+          "name": "Life as the real meditation"
+        },
+        {
+          "name": "Parenting as practice"
+        },
+        {
+          "name": "Interconnectedness and Ahimsa"
+        },
+        {
+          "name": "Handling stress and 'waves'"
+        },
+        {
+          "name": "Waking up to others"
+        }
+      ]
+    },
+    {
+      "name": "Common Pitfalls",
+      "children": [
+        {
+          "name": "Searching for special states"
+        },
+        {
+          "name": "Thinking you can't meditate"
+        },
+        {
+          "name": "Using practice as rehearsal"
+        },
+        {
+          "name": "Selfing and ego-attachments"
+        }
+      ]
+    }
+  ]
+}

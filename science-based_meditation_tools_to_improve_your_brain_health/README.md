@@ -2,7 +2,7 @@
 
 [![Science-Based Meditation Tools to Improve Your Brain Health](./infographic.png)](./slide_deck.pdf)
 
-| [Flashcards](./flashcards.html) | [Quiz](./quiz.html) | [Report](./report.md) | [Report 2](./report_2.md) | [Mind Map](./mind_map.json) | [Source](https://www.youtube.com/watch?v=hlOA8ObQJXo) |
+| [Flashcards](./flashcards.html) | [Quiz](./quiz.html) | [Report](./report.md) | [Report 2](./report_2.md) | [Report 3](./report_3.md) | [Mind Map](./mind_map.json) | [Source](https://www.youtube.com/watch?v=hlOA8ObQJXo) |
 
 ## Key Concepts
 
