@@ -1,0 +1,159 @@
+{
+  "name": "Science-Based Meditation Tools",
+  "children": [
+    {
+      "name": "Dr. Richie Davidson",
+      "children": [
+        {
+          "name": "Professor at UW-Madison"
+        },
+        {
+          "name": "Neuroplasticity Pioneer"
+        },
+        {
+          "name": "Author of Born to Flourish"
+        }
+      ]
+    },
+    {
+      "name": "Meditation Basics",
+      "children": [
+        {
+          "name": "Minimum Dose: 5 mins/day"
+        },
+        {
+          "name": "Duration: 30 days for results"
+        },
+        {
+          "name": "Lactate of the Mind: Initial anxiety/discomfort"
+        },
+        {
+          "name": "Goal: Observe thoughts, not clear the mind"
+        }
+      ]
+    },
+    {
+      "name": "Health Benefits",
+      "children": [
+        {
+          "name": "Reduced Anxiety and Depression"
+        },
+        {
+          "name": "Lower Stress (Cortisol/IL-6 reduction)"
+        },
+        {
+          "name": "Increased Well-being"
+        },
+        {
+          "name": "Improved Focus and Sleep"
+        },
+        {
+          "name": "Microbiome Changes"
+        }
+      ]
+    },
+    {
+      "name": "The Four Pillars of Flourishing",
+      "children": [
+        {
+          "name": "Awareness",
+          "children": [
+            {
+              "name": "Meta-awareness (Knowing what mind is doing)"
+            },
+            {
+              "name": "Focused Attention"
+            },
+            {
+              "name": "Open Monitoring"
+            }
+          ]
+        },
+        {
+          "name": "Connection",
+          "children": [
+            {
+              "name": "Appreciation/Gratitude"
+            },
+            {
+              "name": "Kindness and Compassion"
+            },
+            {
+              "name": "Loving Kindness Practice"
+            }
+          ]
+        },
+        {
+          "name": "Insight",
+          "children": [
+            {
+              "name": "Self-Narrative Awareness"
+            },
+            {
+              "name": "De-identification from thoughts"
+            }
+          ]
+        },
+        {
+          "name": "Purpose",
+          "children": [
+            {
+              "name": "Meaning in pedestrian activities"
+            },
+            {
+              "name": "Connecting daily tasks to values"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "States and Traits",
+      "children": [
+        {
+          "name": "State: Temporary brain activity pattern"
+        },
+        {
+          "name": "Trait: Permanent baseline shift"
+        },
+        {
+          "name": "The after is the before for the next during"
+        },
+        {
+          "name": "Gamma Oscillations: High in long-term meditators"
+        }
+      ]
+    },
+    {
+      "name": "Practical Protocols",
+      "children": [
+        {
+          "name": "Formal Seated Practice"
+        },
+        {
+          "name": "Active Practice (Walking/Commuting)"
+        },
+        {
+          "name": "Social Zeitgebers (Tying to eating/chores)"
+        },
+        {
+          "name": "Digital Hygiene (Reducing stimulus capture)"
+        }
+      ]
+    },
+    {
+      "name": "Core Principles",
+      "children": [
+        {
+          "name": "Flourishing is a skill"
+        },
+        {
+          "name": "Flourishing is contagious"
+        },
+        {
+          "name": "Consistency over intensity"
+        }
+      ]
+    }
+  ]
+}
