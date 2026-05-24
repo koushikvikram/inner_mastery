@@ -1,0 +1,206 @@
+{
+  "name": "The Power of Personal Accountability",
+  "children": [
+    {
+      "name": "Personal Accountability Model",
+      "children": [
+        {
+          "name": "Victim Loop",
+          "children": [
+            {
+              "name": "Ignore"
+            },
+            {
+              "name": "Deny"
+            },
+            {
+              "name": "Blame"
+            },
+            {
+              "name": "Rationalize"
+            },
+            {
+              "name": "Resist"
+            },
+            {
+              "name": "Hide"
+            }
+          ]
+        },
+        {
+          "name": "Accountability Loop",
+          "children": [
+            {
+              "name": "Recognize"
+            },
+            {
+              "name": "Own"
+            },
+            {
+              "name": "Forgive"
+            },
+            {
+              "name": "Self-Examine"
+            },
+            {
+              "name": "Learn"
+            },
+            {
+              "name": "Take Action"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Steps to Becoming an Achiever",
+      "children": [
+        {
+          "name": "Step 1: Create Clear Intention",
+          "children": [
+            {
+              "name": "Set Goals"
+            },
+            {
+              "name": "Commitment"
+            }
+          ]
+        },
+        {
+          "name": "Step 2: Picture Success",
+          "children": [
+            {
+              "name": "Reverse Engineering"
+            },
+            {
+              "name": "Clarity of Vision"
+            }
+          ]
+        },
+        {
+          "name": "Step 3: Take Action",
+          "children": [
+            {
+              "name": "Microscopic Steps"
+            },
+            {
+              "name": "Identify Ownership"
+            },
+            {
+              "name": "Feedback and Recovery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Recognizing Current Reality",
+      "children": [
+        {
+          "name": "Neutral Mind Tools",
+          "children": [
+            {
+              "name": "Compassion"
+            },
+            {
+              "name": "Openness"
+            },
+            {
+              "name": "Sincerity"
+            }
+          ]
+        },
+        {
+          "name": "Root Causes of Problems",
+          "children": [
+            {
+              "name": "Mishaps"
+            },
+            {
+              "name": "Process Failures"
+            },
+            {
+              "name": "Conflicts"
+            },
+            {
+              "name": "Execution Breakdowns"
+            },
+            {
+              "name": "Health Issues"
+            },
+            {
+              "name": "Malfunctions"
+            },
+            {
+              "name": "Obstacles"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Power of Ownership",
+      "children": [
+        {
+          "name": "Ownership Roles",
+          "children": [
+            {
+              "name": "Doer"
+            },
+            {
+              "name": "Overseer"
+            },
+            {
+              "name": "Helper"
+            }
+          ]
+        },
+        {
+          "name": "Ownership Traps",
+          "children": [
+            {
+              "name": "Power Trap"
+            },
+            {
+              "name": "Martyr Trap"
+            },
+            {
+              "name": "Denial-Blame Trap"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Gift of Forgiveness",
+      "children": [
+        {
+          "name": "Letting Go"
+        },
+        {
+          "name": "Wiping the Slate Clean"
+        },
+        {
+          "name": "Accepting Imperfection"
+        }
+      ]
+    },
+    {
+      "name": "Rewards of Accountability",
+      "children": [
+        {
+          "name": "Trust"
+        },
+        {
+          "name": "Achievement"
+        },
+        {
+          "name": "Recognition"
+        },
+        {
+          "name": "Freedom"
+        }
+      ]
+    }
+  ]
+}
