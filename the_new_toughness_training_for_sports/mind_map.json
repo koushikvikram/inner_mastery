@@ -1,0 +1,134 @@
+{
+  "name": "The New Toughness Training for Sports",
+  "children": [
+    {
+      "name": "The Nature of Toughness",
+      "children": [
+        {
+          "name": "Learned Skill"
+        },
+        {
+          "name": "Access to IPS on Demand"
+        },
+        {
+          "name": "Three-Dimensional: Mental, Physical, Emotional"
+        },
+        {
+          "name": "Real vs. Performer Self"
+        }
+      ]
+    },
+    {
+      "name": "Four Markers of Toughness",
+      "children": [
+        {
+          "name": "Emotional Flexibility"
+        },
+        {
+          "name": "Emotional Responsiveness"
+        },
+        {
+          "name": "Emotional Strength"
+        },
+        {
+          "name": "Emotional Resiliency"
+        }
+      ]
+    },
+    {
+      "name": "Ideal Performance State (IPS)",
+      "children": [
+        {
+          "name": "Confident and Calm"
+        },
+        {
+          "name": "Energized with Positive Emotion"
+        },
+        {
+          "name": "Focused and Alert"
+        },
+        {
+          "name": "Automatic and Instinctive"
+        }
+      ]
+    },
+    {
+      "name": "Performer Skills",
+      "children": [
+        {
+          "name": "Disciplined Thinking",
+          "children": [
+            {
+              "name": "Controlling Internal Dialogue"
+            },
+            {
+              "name": "Positive Visualization"
+            }
+          ]
+        },
+        {
+          "name": "Disciplined Acting",
+          "children": [
+            {
+              "name": "Strong Body Language"
+            },
+            {
+              "name": "Mask of Confidence"
+            }
+          ]
+        },
+        {
+          "name": "Emotional Response Practice"
+        }
+      ]
+    },
+    {
+      "name": "Nontough Responses",
+      "children": [
+        {
+          "name": "Tanking (Giving Up)"
+        },
+        {
+          "name": "Anger and Negativism"
+        },
+        {
+          "name": "Choking (Fear-based)"
+        }
+      ]
+    },
+    {
+      "name": "The Stress/Recovery Principle",
+      "children": [
+        {
+          "name": "Balancing Stress and Recovery"
+        },
+        {
+          "name": "Making Waves"
+        },
+        {
+          "name": "Avoiding Overtraining"
+        },
+        {
+          "name": "Physical, Mental, and Emotional Levels"
+        }
+      ]
+    },
+    {
+      "name": "Training Methodology",
+      "children": [
+        {
+          "name": "Competitive Adjective Profile (CAP)"
+        },
+        {
+          "name": "Attacking Weakest Links"
+        },
+        {
+          "name": "Daily Progress Tracking"
+        },
+        {
+          "name": "30-Day Training Cycles"
+        }
+      ]
+    }
+  ]
+}
