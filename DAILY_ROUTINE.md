@@ -13,6 +13,7 @@ Remember and follow:
 TODO: Write down why each of these need to be done and their purpose.
 TODO: Keep separate routines for weekends.
 TODO: Combine 10-minute Vajrasana with daily grounding in principles.
+TODO: Eat chia seeds, almonds, walnuts, pista.
 
 ## Morning - right after brushing teeth
 
