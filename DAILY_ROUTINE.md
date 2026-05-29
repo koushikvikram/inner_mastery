@@ -28,6 +28,9 @@ TODO: Eat chia seeds, almonds, walnuts, pista.
 1. Read a few pages of a book that interests me or write on my blog about something I read - 20 Minutes
 
 
+Emotional regulation for resilience
+Surrender to God and put effort carefree and sincerely
+
 ## Exercise Reference
 
 1. [10-Minute One Dumbbell Workout for A Fast Metabolism All Day](https://www.youtube.com/watch?v=OFTNxqu_rJ8) - physical resistance and metabolism maintenance
