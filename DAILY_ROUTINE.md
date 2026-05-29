@@ -33,3 +33,4 @@ TODO: Combine 10-minute Vajrasana with daily grounding in principles.
 2. [I Replaced My Entire Mobility Routine With These 3 Moves](https://www.youtube.com/watch?v=CUpsqTMEtI0) - physical mobility maintenance
 3. [Do This 10 Minute Morning Stretch Routine To Feel 10 Years Younger](https://www.youtube.com/watch?v=b7eX3ng1c1A) - physical flexibility maintenance
 4. [Simple Yoga for Digestion and Diabetes](https://www.youtube.com/shorts/_1wdDWEtMGg)
+5. TODO: Physical cardio maintenace reference
