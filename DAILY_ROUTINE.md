@@ -2,9 +2,13 @@
 
 Remember and follow:
 - Consistency is everything. Nobody likes to do it everyday, but you have to do it because mental strength comes from doing things we don't like but still have to be done.
+- Consistency is far more important than intensity.
 - Don't overload the brain and body.
 - When starting out, go one by one. Repeat many times until you're fully comfortable and have deeply understood before adding then next.
 - Enjoy it. Keep reminding myself of the benefits I get because of these, even if they might come delayed.
+- Viewing health and fitness through a systems lens, there's a significant delay between cause and effect. This results in things like
+  - Years of bad eating suddenly leading to health issues much later. (So, avoid bad eating even when effects are not seen.)
+  - Exercise not showing noticeable results until many weeks. (So, don't get discouraged and don't stop exercising.)
 
 TODO: Write down why each of these need to be done and their purpose.
 TODO: Keep separate routines for weekends.
