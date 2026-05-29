@@ -39,8 +39,13 @@ Surrender to God and put effort carefree and sincerely
 3. [Do This 10 Minute Morning Stretch Routine To Feel 10 Years Younger](https://www.youtube.com/watch?v=b7eX3ng1c1A) - physical flexibility maintenance
 4. [Simple Yoga for Digestion and Diabetes](https://www.youtube.com/shorts/_1wdDWEtMGg)
 5. TODO: Physical cardio maintenace reference - stairmaster, treadmill, cycling
-6. [Yoga Asanas for good male sexual health](https://www.youtube.com/watch?app=desktop&v=nfpvo7ctebA)
+6. [Yoga Asanas for good male sexual health](https://www.youtube.com/watch?app=desktop&v=nfpvo7ctebA) - consider this as additional yoga for weekends
 7. The Power 5 from "Feel Better in 5" by Dr. Rangan Chatterjee - Burns visceral fat and improves insulin resistance, thereby lowering the risk of type-2 diabetes
+8. [Yoga for Diabetes: 11 Poses to Try, Why It Works, and More](https://www.healthline.com/health/diabetes/yoga-for-diabetes)
+9. [Gentle Yoga for Diabetes | EP01 Yoga for Diabetes Management | Boost Circulation & Energy Flow](https://www.youtube.com/watch?v=rXmYHCoUjww)
+10. [Yoga to Stimulate Pancreas| EP02 Yoga for Diabetes Management | Core Strength & Sugar Balance](https://www.youtube.com/watch?v=NbSgJafEnMY)
+11. [Yoga For Diabetes | Yoga With Adriene](https://www.youtube.com/watch?v=fmh58tykgpo)
+12. [Yoga for Diabetes | 30 mins Daily Yoga Practice to Lower Blood Sugar Levels](https://www.youtube.com/watch?v=GMo00u9K2xE)
 
 
 In systems thinking, a **delay** is the time gap between a cause and its visible effect. Poorly managed diabetes is a strong example of how delays can make a system difficult to understand and control.
