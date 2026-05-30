@@ -1,5 +1,7 @@
 # Sports Performance Psychology
 
+[![Epictetus Operating Model - Sports Performance Psychology](./epictetus_operating_model.png)](./epictetus_operating_model.md)
+
 ## Sam Martin — Peak Performance
 
 - [This Stops 99% of Athletes From Dominating Their Sport](https://www.youtube.com/watch?v=TYkXtE2xPoA) — Challenge vs threat appraisals: Ronaldo sees pressure as a challenge, not a threat; stress is an alarm to go forward, not run away; 3 tips: watch your language, self-coaching, reflection & roleplay

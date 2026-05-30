@@ -4,6 +4,8 @@
 
 [![Mind map — Elite Performance Psychology](./mind_map.png)](./report_1.md)
 
+[![Epictetus Operating Model - Elite Performance Psychology — Bill Beswick](./epictetus_operating_model.png)](./epictetus_operating_model.md)
+
 | [Flashcards](./flashcards.html) | [Quiz](./quiz.html) | [Report](./report_1.md) | [Report 2](./report_2.md) | [Report 3](./report_3.md) | [Mind Map](./mind_map.png) | [Source](./source.md) |
 
 ## Key Concepts

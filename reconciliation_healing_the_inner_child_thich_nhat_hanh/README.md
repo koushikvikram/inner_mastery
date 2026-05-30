@@ -6,6 +6,8 @@ Source: [Reconciliation - Healing the Inner Child by Thich Nhat Hanh](https://pl
 
 ![Reconciliation - Mind Map](./mind_maps/reconciliation_healing_the_inner_child_thich_nhat_hanh.png)
 
+[![Epictetus Operating Model - Reconciliation - Healing the Inner Child by Thich Nhat Hanh](./epictetus_operating_model.png)](./epictetus_operating_model.md)
+
 ## More Books
 
 - [Thich Nhat Hanh's Zen Library — Book Bundle](https://www.humblebundle.com/books/thich-nhat-hanhs-zen-library-books) — Humble Bundle

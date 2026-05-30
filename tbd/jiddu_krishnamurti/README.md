@@ -1,5 +1,7 @@
 # J. Krishnamurti
 
+[![Epictetus Operating Model - J. Krishnamurti](./epictetus_operating_model.png)](./epictetus_operating_model.md)
+
 ## Books
 
 - [The Flight of the Eagle](https://www.goodreads.com/book/show/666099.Flight_of_the_Eagle) — Goodreads

@@ -1,5 +1,7 @@
 # Thirukkural & Tamil Classics
 
+[![Epictetus Operating Model - Thirukkural & Tamil Classics](./epictetus_operating_model.png)](./epictetus_operating_model.md)
+
 ## Bharathiyar
 
 - [Achamillai — Bharathiyar](https://edubilla.com/tamil/bharathiyar-kavithaigal/achamillai/) — "Fear not, fear not!" — Subramania Bharati's famous poem on fearlessness

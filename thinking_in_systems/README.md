@@ -2,6 +2,8 @@
 
 [![Thinking in Systems](./infographic.png)](./slide_deck.pdf)
 
+[![Epictetus Operating Model - Thinking in Systems](./epictetus_operating_model.png)](./epictetus_operating_model.md)
+
 ## Introduction
 
 [![Introduction - The System Lens](./chapters/0_introduction__the_system_lens/infographic.png)](./chapters/0_introduction__the_system_lens/slide_deck.pdf)

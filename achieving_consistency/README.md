@@ -8,6 +8,8 @@
 
 ![Mind Map](./mind_map.png)
 
+[![Epictetus Operating Model - Achieving Consistency](./epictetus_operating_model.png)](./epictetus_operating_model.md)
+
 
 Consistency is often misunderstood as a personality trait. We usually describe someone as “consistent” as if they simply possess a rare inner quality that others lack. But this view is incomplete. Consistency is not something people magically have. It is something that emerges from a system.
 

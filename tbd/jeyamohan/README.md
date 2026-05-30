@@ -1,5 +1,7 @@
 # Jeyamohan — Writer & Thinker
 
+[![Epictetus Operating Model - Jeyamohan — Writer & Thinker](./epictetus_operating_model.png)](./epictetus_operating_model.md)
+
 ## Interviews & Talks
 
 - [கம்பன் கழகத்தில் பிரச்னை ஏற்பட்டது எதனால்? — Jeyamohan with Pattimandram Raja & Bharathi Baskar](https://www.youtube.com/watch?v=6N02UbpCbNs) — Vikatan TV: on the divine nature of writing, Vishnupuram, and the first line of a novel

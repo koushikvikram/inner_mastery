@@ -5,3 +5,5 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 [![Essence of Karma Yoga](./infographics/1_essence_of_karma_yoga.png)](./slides/1_essence_of_karma_yoga.pdf)
 
 ![Essence of Karma Yoga - Mind Map](./mind_maps/1_essence_of_karma_yoga.png)
+
+[![Epictetus Operating Model - Essence of Karma Yoga](./epictetus_operating_model.png)](./epictetus_operating_model.md)

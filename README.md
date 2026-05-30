@@ -28,6 +28,8 @@
 
 ![Mind Map](./achieving_consistency/mind_map.png)
 
+[![Epictetus Operating Model - Achieving Consistency](./achieving_consistency/epictetus_operating_model.png)](./achieving_consistency/epictetus_operating_model.md)
+
 
 Consistency is often misunderstood as a personality trait. We usually describe someone as “consistent” as if they simply possess a rare inner quality that others lack. But this view is incomplete. Consistency is not something people magically have. It is something that emerges from a system.
 
@@ -130,6 +132,8 @@ Or even more simply:
 ## 3. Altered Traits — Science, Meditation, and the Brain
 
 [![Altered Traits — Science, Meditation, and the Brain](./altered_traits-science_of_meditation_and_the_brain/infographic.png)](./altered_traits-science_of_meditation_and_the_brain/slide_deck.pdf)
+
+[![Epictetus Operating Model - Altered Traits — Science, Meditation, and the Brain](./altered_traits-science_of_meditation_and_the_brain/epictetus_operating_model.png)](./altered_traits-science_of_meditation_and_the_brain/epictetus_operating_model.md)
 
 | [Flashcards](./altered_traits-science_of_meditation_and_the_brain/flashcards.html) | [Quiz](./altered_traits-science_of_meditation_and_the_brain/quiz.html) | [Report](./altered_traits-science_of_meditation_and_the_brain/report.md) | [Report 2](./altered_traits-science_of_meditation_and_the_brain/report_2.md) | [Report 3](./altered_traits-science_of_meditation_and_the_brain/report_3.md) | [Mind Map](./altered_traits-science_of_meditation_and_the_brain/mind_map.json) | [Source](./altered_traits-science_of_meditation_and_the_brain/source.pdf) |
 
@@ -265,6 +269,8 @@ Source: [Ekagrata aur Divyashakti](https://archive.org/details/in.ernet.dli.2015
 
 [![Mind map — Elite Performance Psychology](./elite_performance_psychology_bill_beswick/mind_map.png)](./elite_performance_psychology_bill_beswick/report_1.md)
 
+[![Epictetus Operating Model - Elite Performance Psychology — Bill Beswick](./elite_performance_psychology_bill_beswick/epictetus_operating_model.png)](./elite_performance_psychology_bill_beswick/epictetus_operating_model.md)
+
 | [Flashcards](./elite_performance_psychology_bill_beswick/flashcards.html) | [Quiz](./elite_performance_psychology_bill_beswick/quiz.html) | [Report](./elite_performance_psychology_bill_beswick/report_1.md) | [Report 2](./elite_performance_psychology_bill_beswick/report_2.md) | [Report 3](./elite_performance_psychology_bill_beswick/report_3.md) | [Mind Map](./elite_performance_psychology_bill_beswick/mind_map.png) | [Source](./elite_performance_psychology_bill_beswick/source.md) |
 
 ### Key Concepts
@@ -281,6 +287,8 @@ Source: [The Enchiridion By Epictetus](https://classics.mit.edu/Epictetus/epicen
 
 ![Enchiridion of Epictetus - Mind Map](./enchiridion/mind_maps/enchiridion_epictetus.png)
 
+[![Epictetus Operating Model - Enchiridion](./enchiridion/epictetus_operating_model.png)](./enchiridion/epictetus_operating_model.md)
+
 ---
 
 ## 17. Essence of Karma Yoga
@@ -291,6 +299,8 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 
 ![Essence of Karma Yoga - Mind Map](./karma_yoga/essence_of_karma_yoga/mind_maps/1_essence_of_karma_yoga.png)
 
+[![Epictetus Operating Model - Essence of Karma Yoga](./karma_yoga/essence_of_karma_yoga/epictetus_operating_model.png)](./karma_yoga/essence_of_karma_yoga/epictetus_operating_model.md)
+
 ---
 
 ## 18. Getting Things Done — The Art of Stress-Free Productivity
@@ -298,6 +308,8 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 [![Getting Things Done — The Art of Stress-Free Productivity](./getting_things_done-the_art_of_stress_free_productivity/infographic.png)](./getting_things_done-the_art_of_stress_free_productivity/slide_deck.pdf)
 
 [![GTD workflow flowchart](./getting_things_done-the_art_of_stress_free_productivity/gtd-flowchart.png)](./getting_things_done-the_art_of_stress_free_productivity/report.md)
+
+[![Epictetus Operating Model - Getting Things Done — The Art of Stress-Free Productivity](./getting_things_done-the_art_of_stress_free_productivity/epictetus_operating_model.png)](./getting_things_done-the_art_of_stress_free_productivity/epictetus_operating_model.md)
 
 | [Flashcards](./getting_things_done-the_art_of_stress_free_productivity/flashcards.html) | [Quiz](./getting_things_done-the_art_of_stress_free_productivity/quiz.html) | [Report](./getting_things_done-the_art_of_stress_free_productivity/report.md) | [Report 2](./getting_things_done-the_art_of_stress_free_productivity/report_2.md) | [Report 3](./getting_things_done-the_art_of_stress_free_productivity/report_3.md) | [Mind Map](./getting_things_done-the_art_of_stress_free_productivity/mind_map.json) | [Source](./getting_things_done-the_art_of_stress_free_productivity/source.pdf) |
 
@@ -322,6 +334,8 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 [![The Architecture of Stillness — A Guide to Daily Meditation](./how_to_meditate-for_beginners/infographic.png)](./how_to_meditate-for_beginners/slide_deck.pdf)
 
 [![Mind map — The Architecture of Stillness](./how_to_meditate-for_beginners/mind_map.png)](./how_to_meditate-for_beginners/report.md)
+
+[![Epictetus Operating Model - How to Meditate for Beginners | A Monk’s Complete Guide](./how_to_meditate-for_beginners/epictetus_operating_model.png)](./how_to_meditate-for_beginners/epictetus_operating_model.md)
 
 | [Flashcards](./how_to_meditate-for_beginners/flashcards.html) | [Quiz](./how_to_meditate-for_beginners/quiz.html) | [Report](./how_to_meditate-for_beginners/report.md) | [Report 2](./how_to_meditate-for_beginners/report_2.md) | [Report 3](./how_to_meditate-for_beginners/report_3.md) | [Mind Map](./how_to_meditate-for_beginners/mind_map.png) | [Source](https://www.youtube.com/watch?v=kkLKRz4jBYY) |
 
@@ -363,6 +377,8 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 
 ## 24. J. Krishnamurti
 
+[![Epictetus Operating Model - J. Krishnamurti](./tbd/jiddu_krishnamurti/epictetus_operating_model.png)](./tbd/jiddu_krishnamurti/epictetus_operating_model.md)
+
 ### Books
 
 - [The Flight of the Eagle](https://www.goodreads.com/book/show/666099.Flight_of_the_Eagle) — Goodreads
@@ -394,6 +410,8 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 
 ## 25. Jeyamohan — Writer & Thinker
 
+[![Epictetus Operating Model - Jeyamohan — Writer & Thinker](./tbd/jeyamohan/epictetus_operating_model.png)](./tbd/jeyamohan/epictetus_operating_model.md)
+
 ### Interviews & Talks
 
 - [கம்பன் கழகத்தில் பிரச்னை ஏற்பட்டது எதனால்? — Jeyamohan with Pattimandram Raja & Bharathi Baskar](https://www.youtube.com/watch?v=6N02UbpCbNs) — Vikatan TV: on the divine nature of writing, Vishnupuram, and the first line of a novel
@@ -409,6 +427,8 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 
 ## 26. Karma Yoga
 
+[![Epictetus Operating Model - Karma Yoga](./karma_yoga/epictetus_operating_model.png)](./karma_yoga/epictetus_operating_model.md)
+
 - [Essence of Karma Yoga](./karma_yoga/essence_of_karma_yoga/README.md)
 - [Bhagavad Gita Chapter 2, Verse 47 — Karmanye Vadhikaraste](https://www.holy-bhagavad-gita.org/chapter/2/verse/47) — "You have a right to perform your duties but not to the fruits of your actions"
 
@@ -417,6 +437,8 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 ## 27. Lakshya Sen — The Champion Mindset and Olympic Grit
 
 [![Lakshya Sen — The Champion Mindset and Olympic Grit](./lakshya_sen-the_champion_mindset_and_olympic_grit/infographic.png)](./lakshya_sen-the_champion_mindset_and_olympic_grit/slide_deck.pdf)
+
+[![Epictetus Operating Model - Lakshya Sen — The Champion Mindset and Olympic Grit](./lakshya_sen-the_champion_mindset_and_olympic_grit/epictetus_operating_model.png)](./lakshya_sen-the_champion_mindset_and_olympic_grit/epictetus_operating_model.md)
 
 | [Flashcards](./lakshya_sen-the_champion_mindset_and_olympic_grit/flashcards.html) | [Quiz](./lakshya_sen-the_champion_mindset_and_olympic_grit/quiz.html) | [Report](./lakshya_sen-the_champion_mindset_and_olympic_grit/report.md) | [Report 2](./lakshya_sen-the_champion_mindset_and_olympic_grit/report_2.md) | [Report 3](./lakshya_sen-the_champion_mindset_and_olympic_grit/report_3.md) | [Mind Map](./lakshya_sen-the_champion_mindset_and_olympic_grit/mind_map.json) | [Source](https://www.youtube.com/watch?v=23dbj3silMU) |
 
@@ -452,6 +474,8 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 
 [![Mind map — Mastering Effortless Resilience](./mastering_effortless_resilience_roger_federer/mind_map.png)](./mastering_effortless_resilience_roger_federer/report.md)
 
+[![Epictetus Operating Model - Mastering Effortless Resilience - The 54% rule — Roger Federer](./mastering_effortless_resilience_roger_federer/epictetus_operating_model.png)](./mastering_effortless_resilience_roger_federer/epictetus_operating_model.md)
+
 | [Flashcards](./mastering_effortless_resilience_roger_federer/flashcards.html) | [Quiz](./mastering_effortless_resilience_roger_federer/quiz.html) | [Report](./mastering_effortless_resilience_roger_federer/report.md) | [Report 2](./mastering_effortless_resilience_roger_federer/report_2.md) | [Report 3](./mastering_effortless_resilience_roger_federer/report_3.md) | [Mind Map](./mastering_effortless_resilience_roger_federer/mind_map.png) | [Source](./mastering_effortless_resilience_roger_federer/source.md) |
 
 ### Key Concepts
@@ -463,6 +487,8 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 ## 31. Meditation for Your Unique Cognitive Fingerprint
 
 [![Meditation for Your Unique Cognitive Fingerprint](./meditation_for_your_unique_cognitive_fingerprint/infographic.png)](./meditation_for_your_unique_cognitive_fingerprint/slide_deck.pdf)
+
+[![Epictetus Operating Model - Meditation for Your Unique Cognitive Fingerprint](./meditation_for_your_unique_cognitive_fingerprint/epictetus_operating_model.png)](./meditation_for_your_unique_cognitive_fingerprint/epictetus_operating_model.md)
 
 | [Flashcards](./meditation_for_your_unique_cognitive_fingerprint/flashcards.html) | [Quiz](./meditation_for_your_unique_cognitive_fingerprint/quiz.html) | [Report](./meditation_for_your_unique_cognitive_fingerprint/report.md) | [Report 2](./meditation_for_your_unique_cognitive_fingerprint/report_2.md) | [Report 3](./meditation_for_your_unique_cognitive_fingerprint/report_3.md) | [Mind Map](./meditation_for_your_unique_cognitive_fingerprint/mind_map.json) | [Source](https://www.youtube.com/watch?v=mwyBMxad-vU) |
 
@@ -494,6 +520,8 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 
 ## 34. Paddy Upton — Mental Conditioning Coach
 
+[![Epictetus Operating Model - Paddy Upton — Mental Conditioning Coach](./tbd/paddy_upton/epictetus_operating_model.png)](./tbd/paddy_upton/epictetus_operating_model.md)
+
 Mental conditioning coach for Team India (ICC 2011 World Cup), Rajasthan Royals, and D. Gukesh's World Chess Championship 2024 campaign.
 
 ### Book
@@ -513,6 +541,8 @@ Mental conditioning coach for Team India (ICC 2011 World Cup), Rajasthan Royals,
 ---
 
 ## 35. Param Drṣṭvā Nivartate — The Principle of Higher Taste
+
+[![Epictetus Operating Model - Param Drṣṭvā Nivartate — The Principle of Higher Taste](./tbd/param_drstva_nivartate/epictetus_operating_model.png)](./tbd/param_drstva_nivartate/epictetus_operating_model.md)
 
 > *"param dṛṣṭvā nivartate"* — "having experienced a higher taste, he is fixed in consciousness"
 > — Bhagavad Gita 2.59
@@ -541,6 +571,8 @@ The idea that a lower pleasure is only truly abandoned when a higher experience 
 
 [![Primal Leadership](./primal_leadership/infographic.png)](./primal_leadership/slide_deck.pdf)
 
+[![Epictetus Operating Model - Primal Leadership](./primal_leadership/epictetus_operating_model.png)](./primal_leadership/epictetus_operating_model.md)
+
 | [Flashcards](./primal_leadership/flashcards.html) | [Quiz](./primal_leadership/quiz.html) | [Report](./primal_leadership/report.md) | [Report 2](./primal_leadership/report_2.md) | [Report 3](./primal_leadership/report_3.md) | [Mind Map](./primal_leadership/mind_map.json) | [Source](./primal_leadership/source.pdf) |
 
 ### Key Concepts
@@ -556,6 +588,8 @@ Source: [Reconciliation - Healing the Inner Child by Thich Nhat Hanh](https://pl
 [![Reconciliation](./reconciliation_healing_the_inner_child_thich_nhat_hanh/infographics/reconciliation_healing_the_inner_child_thich_nhat_hanh.png)](./reconciliation_healing_the_inner_child_thich_nhat_hanh/slides/reconciliation_healing_the_inner_child_thich_nhat_hanh.pdf)
 
 ![Reconciliation - Mind Map](./reconciliation_healing_the_inner_child_thich_nhat_hanh/mind_maps/reconciliation_healing_the_inner_child_thich_nhat_hanh.png)
+
+[![Epictetus Operating Model - Reconciliation - Healing the Inner Child by Thich Nhat Hanh](./reconciliation_healing_the_inner_child_thich_nhat_hanh/epictetus_operating_model.png)](./reconciliation_healing_the_inner_child_thich_nhat_hanh/epictetus_operating_model.md)
 
 ### More Books
 
@@ -576,6 +610,8 @@ Source: [Reconciliation - Healing the Inner Child by Thich Nhat Hanh](https://pl
 ## 39. Science-Based Meditation Tools to Improve Your Brain Health
 
 [![Science-Based Meditation Tools to Improve Your Brain Health](./science-based_meditation_tools_to_improve_your_brain_health/infographic.png)](./science-based_meditation_tools_to_improve_your_brain_health/slide_deck.pdf)
+
+[![Epictetus Operating Model - Science-Based Meditation Tools to Improve Your Brain Health](./science-based_meditation_tools_to_improve_your_brain_health/epictetus_operating_model.png)](./science-based_meditation_tools_to_improve_your_brain_health/epictetus_operating_model.md)
 
 | [Flashcards](./science-based_meditation_tools_to_improve_your_brain_health/flashcards.html) | [Quiz](./science-based_meditation_tools_to_improve_your_brain_health/quiz.html) | [Report](./science-based_meditation_tools_to_improve_your_brain_health/report.md) | [Report 2](./science-based_meditation_tools_to_improve_your_brain_health/report_2.md) | [Report 3](./science-based_meditation_tools_to_improve_your_brain_health/report_3.md) | [Mind Map](./science-based_meditation_tools_to_improve_your_brain_health/mind_map.json) | [Source](https://www.youtube.com/watch?v=hlOA8ObQJXo) |
 
@@ -598,6 +634,8 @@ Source: [Reconciliation - Healing the Inner Child by Thich Nhat Hanh](https://pl
 ---
 
 ## 41. Sports Performance Psychology
+
+[![Epictetus Operating Model - Sports Performance Psychology](./tbd/sports_performance_psychology/epictetus_operating_model.png)](./tbd/sports_performance_psychology/epictetus_operating_model.md)
 
 ### Sam Martin — Peak Performance
 
@@ -706,6 +744,8 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 [![The 15 Commitments of Conscious Leadership](./the_15_commitments_of_conscious_leadership/infographic.png)](./the_15_commitments_of_conscious_leadership/slide_deck.pdf)
 
+[![Epictetus Operating Model - The 15 Commitments of Conscious Leadership](./the_15_commitments_of_conscious_leadership/epictetus_operating_model.png)](./the_15_commitments_of_conscious_leadership/epictetus_operating_model.md)
+
 | [Flashcards](./the_15_commitments_of_conscious_leadership/flashcards.html) | [Quiz](./the_15_commitments_of_conscious_leadership/quiz.html) | [Report](./the_15_commitments_of_conscious_leadership/report.md) | [Report 2](./the_15_commitments_of_conscious_leadership/report_2.md) | [Report 3](./the_15_commitments_of_conscious_leadership/report_3.md) | [Mind Map](./the_15_commitments_of_conscious_leadership/mind_map.json) | [Source](./the_15_commitments_of_conscious_leadership/source.pdf) |
 
 ### Key Concepts
@@ -808,6 +848,8 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 [![The Four Pillars of a Healthy Mind](./the_four_pillars_of_a_healthy_mind/infographic.png)](./the_four_pillars_of_a_healthy_mind/slide_deck.pdf)
 
+[![Epictetus Operating Model - The Four Pillars of a Healthy Mind](./the_four_pillars_of_a_healthy_mind/epictetus_operating_model.png)](./the_four_pillars_of_a_healthy_mind/epictetus_operating_model.md)
+
 | [Flashcards](./the_four_pillars_of_a_healthy_mind/flashcards.html) | [Quiz](./the_four_pillars_of_a_healthy_mind/quiz.html) | [Report](./the_four_pillars_of_a_healthy_mind/report.md) | [Report 2](./the_four_pillars_of_a_healthy_mind/report_2.md) | [Report 3](./the_four_pillars_of_a_healthy_mind/report_3.md) | [Mind Map](./the_four_pillars_of_a_healthy_mind/mind_map.json) | [Source](https://www.youtube.com/watch?v=7CBfCW67xT8) |
 
 ### Key Concepts
@@ -840,6 +882,8 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 [![The New Toughness Training for Sports](./the_new_toughness_training_for_sports/infographic.png)](./the_new_toughness_training_for_sports/slide_deck.pdf)
 
+[![Epictetus Operating Model - The New Toughness Training for Sports](./the_new_toughness_training_for_sports/epictetus_operating_model.png)](./the_new_toughness_training_for_sports/epictetus_operating_model.md)
+
 | [Flashcards](./the_new_toughness_training_for_sports/flashcards.html) | [Quiz](./the_new_toughness_training_for_sports/quiz.html) | [Report](./the_new_toughness_training_for_sports/report.md) | [Report 2](./the_new_toughness_training_for_sports/report_2.md) | [Report 3](./the_new_toughness_training_for_sports/report_3.md) | [Mind Map](./the_new_toughness_training_for_sports/mind_map.json) | [Source](./the_new_toughness_training_for_sports/source.pdf) |
 
 ### Key Concepts
@@ -851,6 +895,8 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 ## 63. The Power of Personal Accountability
 
 [![The Power of Personal Accountability](./the_power_of_personal_accountability/infographic.png)](./the_power_of_personal_accountability/slide_deck.pdf)
+
+[![Epictetus Operating Model - The Power of Personal Accountability](./the_power_of_personal_accountability/epictetus_operating_model.png)](./the_power_of_personal_accountability/epictetus_operating_model.md)
 
 | [Flashcards](./the_power_of_personal_accountability/flashcards.html) | [Quiz](./the_power_of_personal_accountability/quiz.html) | [Report](./the_power_of_personal_accountability/report.md) | [Report 2](./the_power_of_personal_accountability/report_2.md) | [Report 3](./the_power_of_personal_accountability/report_3.md) | [Mind Map](./the_power_of_personal_accountability/mind_map.json) | [Source](./the_power_of_personal_accountability/source.pdf) |
 
@@ -873,6 +919,8 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 ## 65. The Science of Meditation and Neural State Control
 
 [![The Science of Meditation and Neural State Control](./the_science_of_meditation_and_neural_state_control/infographic.png)](./the_science_of_meditation_and_neural_state_control/slide_deck.pdf)
+
+[![Epictetus Operating Model - The Science of Meditation and Neural State Control](./the_science_of_meditation_and_neural_state_control/epictetus_operating_model.png)](./the_science_of_meditation_and_neural_state_control/epictetus_operating_model.md)
 
 | [Flashcards](./the_science_of_meditation_and_neural_state_control/flashcards.html) | [Quiz](./the_science_of_meditation_and_neural_state_control/quiz.html) | [Report](./the_science_of_meditation_and_neural_state_control/report.md) | [Report 2](./the_science_of_meditation_and_neural_state_control/report_2.md) | [Report 3](./the_science_of_meditation_and_neural_state_control/report_3.md) | [Mind Map](./the_science_of_meditation_and_neural_state_control/mind_map.json) | [Source](https://www.youtube.com/watch?v=wTBSGgbIvsY) |
 
@@ -898,6 +946,8 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 [![Mind map — The Subtle Shades of Dharma](./the_subtle_shades_of_dharma-sita-s_counsel_to_rama/mind_map.png)](./the_subtle_shades_of_dharma-sita-s_counsel_to_rama/report.md)
 
+[![Epictetus Operating Model - The Subtle Shades of Dharma — Sita’s Counsel to Rama](./the_subtle_shades_of_dharma-sita-s_counsel_to_rama/epictetus_operating_model.png)](./the_subtle_shades_of_dharma-sita-s_counsel_to_rama/epictetus_operating_model.md)
+
 | [Flashcards](./the_subtle_shades_of_dharma-sita-s_counsel_to_rama/flashcards.html) | [Quiz](./the_subtle_shades_of_dharma-sita-s_counsel_to_rama/quiz.html) | [Report](./the_subtle_shades_of_dharma-sita-s_counsel_to_rama/report.md) | [Report 2](./the_subtle_shades_of_dharma-sita-s_counsel_to_rama/report_2.md) | [Report 3](./the_subtle_shades_of_dharma-sita-s_counsel_to_rama/report_3.md) | [Mind Map](./the_subtle_shades_of_dharma-sita-s_counsel_to_rama/mind_map.png) | [Source](https://www.youtube.com/watch?v=2iNndhUFRFw) |
 
 ### Key Concepts
@@ -910,6 +960,8 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 [![The Talent Code](./the_talent_code/infographic.png)](./the_talent_code/slide_deck.pdf)
 
+[![Epictetus Operating Model - The Talent Code](./the_talent_code/epictetus_operating_model.png)](./the_talent_code/epictetus_operating_model.md)
+
 | [Flashcards](./the_talent_code/flashcards.html) | [Quiz](./the_talent_code/quiz.html) | [Report](./the_talent_code/report.md) | [Report 2](./the_talent_code/report_2.md) | [Report 3](./the_talent_code/report_3.md) | [Mind Map](./the_talent_code/mind_map.json) | [Source](./the_talent_code/source.pdf) | [Insights](./the_talent_code/insights.pdf) |
 
 ### Key Concepts
@@ -921,6 +973,8 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 ## 69. Thinking in Systems
 
 [![Thinking in Systems](./thinking_in_systems/infographic.png)](./thinking_in_systems/slide_deck.pdf)
+
+[![Epictetus Operating Model - Thinking in Systems](./thinking_in_systems/epictetus_operating_model.png)](./thinking_in_systems/epictetus_operating_model.md)
 
 ### Introduction
 
@@ -1031,6 +1085,8 @@ We judge the system largely by its behavior; if behavior doesn’t match intent,
 
 ## 70. Thirukkural & Tamil Classics
 
+[![Epictetus Operating Model - Thirukkural & Tamil Classics](./tbd/thirukkural/epictetus_operating_model.png)](./tbd/thirukkural/epictetus_operating_model.md)
+
 ### Bharathiyar
 
 - [Achamillai — Bharathiyar](https://edubilla.com/tamil/bharathiyar-kavithaigal/achamillai/) — "Fear not, fear not!" — Subramania Bharati's famous poem on fearlessness
@@ -1069,11 +1125,15 @@ Source: [Audio Book || Thoughts of Power || Swami Vivekananda || Published by Ad
 
 ![Thoughts of Power - Mind Map](./thoughts_of_power/mind_maps/thoughts_of_power.png)
 
+[![Epictetus Operating Model - Thoughts of Power by Swami Vivekananda](./thoughts_of_power/epictetus_operating_model.png)](./thoughts_of_power/epictetus_operating_model.md)
+
 ---
 
 ## 72. Turning Pro — The Journey from Amateur to Professional
 
 [![Turning Pro — The Journey from Amateur to Professional](./turning_pro-the_journey_from_amateur_to_professional/infographic.png)](./turning_pro-the_journey_from_amateur_to_professional/slide_deck.pdf)
+
+[![Epictetus Operating Model - Turning Pro — The Journey from Amateur to Professional](./turning_pro-the_journey_from_amateur_to_professional/epictetus_operating_model.png)](./turning_pro-the_journey_from_amateur_to_professional/epictetus_operating_model.md)
 
 | [Flashcards](./turning_pro-the_journey_from_amateur_to_professional/flashcards.html) | [Quiz](./turning_pro-the_journey_from_amateur_to_professional/quiz.html) | [Report](./turning_pro-the_journey_from_amateur_to_professional/report.md) | [Report 2](./turning_pro-the_journey_from_amateur_to_professional/report_2.md) | [Report 3](./turning_pro-the_journey_from_amateur_to_professional/report_3.md) | [Mind Map](./turning_pro-the_journey_from_amateur_to_professional/mind_map.json) | [Source](./turning_pro-the_journey_from_amateur_to_professional/source.pdf) |
 
@@ -1089,6 +1149,8 @@ Source: [Audio Book || Thoughts of Power || Swami Vivekananda || Published by Ad
 
 [![Mind map — Mark Manson on Values](./values_highly_succcesful_people_mark_manson/mind_map.png)](./values_highly_succcesful_people_mark_manson/report.md)
 
+[![Epictetus Operating Model - Values Highly Successful People Share — Mark Manson](./values_highly_succcesful_people_mark_manson/epictetus_operating_model.png)](./values_highly_succcesful_people_mark_manson/epictetus_operating_model.md)
+
 | [Flashcards](./values_highly_succcesful_people_mark_manson/flashcards.html) | [Quiz](./values_highly_succcesful_people_mark_manson/quiz.html) | [Report](./values_highly_succcesful_people_mark_manson/report.md) | [Report 2](./values_highly_succcesful_people_mark_manson/report_2.md) | [Report 3](./values_highly_succcesful_people_mark_manson/report_3.md) | [Mind Map](./values_highly_succcesful_people_mark_manson/mind_map.png) | [Source](./values_highly_succcesful_people_mark_manson/source.md) |
 
 ### Key Concepts
@@ -1098,6 +1160,8 @@ Source: [Audio Book || Thoughts of Power || Swami Vivekananda || Published by Ad
 ---
 
 ## 74. Viswanathan Anand - Mind Master
+
+[![Epictetus Operating Model - Viswanathan Anand - Mind Master](./tbd/viswanathan_anand_mind_master/epictetus_operating_model.png)](./tbd/viswanathan_anand_mind_master/epictetus_operating_model.md)
 
 ### Book
 
@@ -1124,6 +1188,8 @@ Source: [Audio Book || Thoughts of Power || Swami Vivekananda || Published by Ad
 ## 75. Wherever You Go, There You Are
 
 [![Wherever You Go, There You Are](./wherever_you_go_there_you_are/infographic.png)](./wherever_you_go_there_you_are/slide_deck.pdf)
+
+[![Epictetus Operating Model - Wherever You Go, There You Are](./wherever_you_go_there_you_are/epictetus_operating_model.png)](./wherever_you_go_there_you_are/epictetus_operating_model.md)
 
 | [Flashcards](./wherever_you_go_there_you_are/flashcards.html) | [Quiz](./wherever_you_go_there_you_are/quiz.html) | [Report](./wherever_you_go_there_you_are/report.md) | [Report 2](./wherever_you_go_there_you_are/report_2.md) | [Report 3](./wherever_you_go_there_you_are/report_3.md) | [Mind Map](./wherever_you_go_there_you_are/mind_map.json) | [Source](./wherever_you_go_there_you_are/source.pdf) |
 

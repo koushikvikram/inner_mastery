@@ -1,5 +1,7 @@
 # Paddy Upton — Mental Conditioning Coach
 
+[![Epictetus Operating Model - Paddy Upton — Mental Conditioning Coach](./epictetus_operating_model.png)](./epictetus_operating_model.md)
+
 Mental conditioning coach for Team India (ICC 2011 World Cup), Rajasthan Royals, and D. Gukesh's World Chess Championship 2024 campaign.
 
 ## Book

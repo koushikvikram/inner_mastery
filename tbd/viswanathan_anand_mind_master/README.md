@@ -1,5 +1,7 @@
 # Viswanathan Anand - Mind Master
 
+[![Epictetus Operating Model - Viswanathan Anand - Mind Master](./epictetus_operating_model.png)](./epictetus_operating_model.md)
+
 ## Book
 
 - [Mind Master: Winning Lessons from Viswanathan Anand (PDF)](https://www.drnishikantjha.com/papersCollection/Mind_Master_Winning_Lessons_from%20Viswanathan%20Anad%20with%20Susan%20Ninan.pdf)

@@ -4,6 +4,8 @@
 
 [![Mind map — The Subtle Shades of Dharma](./mind_map.png)](./report.md)
 
+[![Epictetus Operating Model - The Subtle Shades of Dharma — Sita’s Counsel to Rama](./epictetus_operating_model.png)](./epictetus_operating_model.md)
+
 | [Flashcards](./flashcards.html) | [Quiz](./quiz.html) | [Report](./report.md) | [Report 2](./report_2.md) | [Report 3](./report_3.md) | [Mind Map](./mind_map.png) | [Source](https://www.youtube.com/watch?v=2iNndhUFRFw) |
 
 ## Key Concepts

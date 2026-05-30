@@ -1,5 +1,7 @@
 # Param Drṣṭvā Nivartate — The Principle of Higher Taste
 
+[![Epictetus Operating Model - Param Drṣṭvā Nivartate — The Principle of Higher Taste](./epictetus_operating_model.png)](./epictetus_operating_model.md)
+
 > *"param dṛṣṭvā nivartate"* — "having experienced a higher taste, he is fixed in consciousness"
 > — Bhagavad Gita 2.59
 
