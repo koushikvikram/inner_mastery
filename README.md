@@ -8,7 +8,23 @@
 
 ---
 
-## 1. A Century Is Not Enough
+## 1. 10-Minute Morning Vitality Flow
+
+[![10-Minute Morning Vitality Flow](./10_minute_morning_vitality_flow/infographic.png)](./10_minute_morning_vitality_flow/slide_deck.pdf)
+
+[![Epictetus Operating Model - 10-Minute Morning Vitality Flow](./10_minute_morning_vitality_flow/epictetus_operating_model.png)](./10_minute_morning_vitality_flow/epictetus_operating_model.md)
+
+| [Flashcards](./10_minute_morning_vitality_flow/flashcards.html) | [Quiz](./10_minute_morning_vitality_flow/quiz.html) | [Report](./10_minute_morning_vitality_flow/report.md) | [Report 2](./10_minute_morning_vitality_flow/report_2.md) | [Report 3](./10_minute_morning_vitality_flow/report_3.md) | [Mind Map](./10_minute_morning_vitality_flow/mind_map.png) | [Source](https://www.youtube.com/watch?v=b7eX3ng1c1A) |
+
+### Key Concepts
+
+- [Parasympathetic flexibility — nervous system & mobility](https://www.google.com/search?q=parasympathetic+nervous+system+flexibility+mobility+breath) — flexibility is brain permission, not just muscle length; slow breath signals safety so tissues can release
+- ["As-if" neuromuscular re-education](https://www.google.com/search?q=neuromuscular+re-education+mobility+practice+as+if) — move through patterns even at microscopic range so the brain re-wires the movement and the tissue follows
+- [Posterior-chain nerve stretch](https://www.google.com/search?q=posterior+chain+nerve+stretch+relaxed+feet+roll+down) — relaxed (neutral) feet bypass the muscle and release tension held in the nervous system's architecture
+
+---
+
+## 2. A Century Is Not Enough
 
 [![A Century Is Not Enough](./a_century_is_not_enough/infographic.png)](./a_century_is_not_enough/slide_deck.pdf)
 
@@ -18,9 +34,7 @@
 
 ---
 
-## 2. Achieving Consistency
-
-
+## 3. Achieving Consistency
 
 [![Achieving Consistency](./achieving_consistency/infographic.png)](./achieving_consistency/slide_deck.pdf)
 
@@ -129,7 +143,7 @@ Or even more simply:
 
 ---
 
-## 3. Altered Traits — Science, Meditation, and the Brain
+## 4. Altered Traits — Science, Meditation, and the Brain
 
 [![Altered Traits — Science, Meditation, and the Brain](./altered_traits-science_of_meditation_and_the_brain/infographic.png)](./altered_traits-science_of_meditation_and_the_brain/slide_deck.pdf)
 
@@ -143,7 +157,23 @@ Or even more simply:
 
 ---
 
-## 4. Arjuna Character
+## 5. Anti-Gravity Exercises for Diabetes Management
+
+[![Anti-Gravity Exercises for Diabetes Management](./anti_gravity_exercises_for_diabetes_management/infographic.png)](./anti_gravity_exercises_for_diabetes_management/slide_deck.pdf)
+
+[![Epictetus Operating Model - Anti-Gravity Exercises for Diabetes Management](./anti_gravity_exercises_for_diabetes_management/epictetus_operating_model.png)](./anti_gravity_exercises_for_diabetes_management/epictetus_operating_model.md)
+
+| [Flashcards](./anti_gravity_exercises_for_diabetes_management/flashcards.html) | [Quiz](./anti_gravity_exercises_for_diabetes_management/quiz.html) | [Report](./anti_gravity_exercises_for_diabetes_management/report.md) | [Report 2](./anti_gravity_exercises_for_diabetes_management/report_2.md) | [Report 3](./anti_gravity_exercises_for_diabetes_management/report_3.md) | [Mind Map](./anti_gravity_exercises_for_diabetes_management/mind_map.png) | [Source 1](https://www.youtube.com/watch?v=DXMo8ZbPmu8) | [Source 2](https://timesofindia.indiatimes.com/life-style/health-fitness/fitness/anti-gravity-exercise-for-diabetics-what-it-is-and-how-to-do-it/articleshow/72050235.cms) |
+
+### Key Concepts
+
+- [Anti-gravity exercise & the glucose sink — Dr. Pramod Tripathi](https://www.google.com/search?q=pramod+tripathi+freedom+from+diabetes+anti+gravity+exercise) — lifting your mass against gravity turns muscles into insulin-independent glucose vacuums, "opening the receptor locks"
+- [The 1:45 post-meal rule](https://www.google.com/search?q=anti+gravity+exercise+diabetes+1+hour+45+minutes+after+meal) — exercising ~1h45m after a meal, three times daily, intercepts the post-prandial spike for a 30–50–80 point drop
+- [Walking Paradox — maintenance vs. reversal](https://www.google.com/search?q=walking+plateau+diabetes+reversal+resistance+exercise) — the body adapts to level-ground walking, so resistance against gravity is what forces a metabolic breakthrough
+
+---
+
+## 6. Arjuna Character
 
 Source: [Mahabharata Characters - Arjuna](https://www.youtube.com/playlist?list=PL8a8WfRfHELmUSgLOwXb0VXjo6QWiCjUa)
 
@@ -155,7 +185,7 @@ Source: [Mahabharata Characters - Arjuna](https://www.youtube.com/playlist?list=
 
 ---
 
-## 5. Arjuna Psychology
+## 7. Arjuna Psychology
 
 Source: [Arjuna Seminar By Govind Prabhu](https://www.youtube.com/playlist?list=PL2yzPOe3Co6YJEe_WHTnrq3UfZA44JRgd)
 
@@ -167,7 +197,7 @@ Source: [Arjuna Seminar By Govind Prabhu](https://www.youtube.com/playlist?list=
 
 ---
 
-## 6. Atomic Habits: Tiny Changes, Remarkable Results
+## 8. Atomic Habits: Tiny Changes, Remarkable Results
 
 [![Atomic Habits: Tiny Changes, Remarkable Results](./atomic_habits_tiny_changes_remarkable_results/infographic.png)](./atomic_habits_tiny_changes_remarkable_results/slide_deck.pdf)
 
@@ -177,7 +207,7 @@ Source: [Arjuna Seminar By Govind Prabhu](https://www.youtube.com/playlist?list=
 
 ---
 
-## 7. Becoming a Key Person of Influence
+## 9. Becoming a Key Person of Influence
 
 [![Becoming a Key Person of Influence](./becoming_a_key_person_of_influence/infographic.png)](./becoming_a_key_person_of_influence/slide_deck.pdf)
 
@@ -187,7 +217,7 @@ Source: [Arjuna Seminar By Govind Prabhu](https://www.youtube.com/playlist?list=
 
 ---
 
-## 8. Better: A Surgeon's Notes on Performance
+## 10. Better: A Surgeon's Notes on Performance
 
 [![Better: A Surgeon's Notes on Performance](./better_a_surgeons_notes_on_performance/infographic.png)](./better_a_surgeons_notes_on_performance/slide_deck.pdf)
 
@@ -197,7 +227,7 @@ Source: [Arjuna Seminar By Govind Prabhu](https://www.youtube.com/playlist?list=
 
 ---
 
-## 9. Captain Cool: The MS Dhoni Story
+## 11. Captain Cool: The MS Dhoni Story
 
 [![Captain Cool: The MS Dhoni Story](./captain_cool_the_ms_dhoni_story/infographic.png)](./captain_cool_the_ms_dhoni_story/slide_deck.pdf)
 
@@ -207,7 +237,7 @@ Source: [Arjuna Seminar By Govind Prabhu](https://www.youtube.com/playlist?list=
 
 ---
 
-## 10. Chanakya in Daily Life
+## 12. Chanakya in Daily Life
 
 [![Chanakya in Daily Life](./chanakya_in_daily_life/infographic.png)](./chanakya_in_daily_life/slide_deck.pdf)
 
@@ -217,7 +247,7 @@ Source: [Arjuna Seminar By Govind Prabhu](https://www.youtube.com/playlist?list=
 
 ---
 
-## 11. Changing Your Story: 20 Life Lessons from Elite Sport
+## 13. Changing Your Story: 20 Life Lessons from Elite Sport
 
 [![Changing Your Story: 20 Life Lessons from Elite Sport](./changing_your_story_20_life_lessons_from_elite_sport/infographic.png)](./changing_your_story_20_life_lessons_from_elite_sport/slide_deck.pdf)
 
@@ -227,7 +257,7 @@ Source: [Arjuna Seminar By Govind Prabhu](https://www.youtube.com/playlist?list=
 
 ---
 
-## 12. Courage - The Joy of Living Dangerously
+## 14. Courage - The Joy of Living Dangerously
 
 [![Courage - The Joy of Living Dangerously](./courage-the_joy_of_living_dangerously/infographic.png)](./courage-the_joy_of_living_dangerously/slide_deck.pdf)
 
@@ -237,7 +267,7 @@ Source: [Arjuna Seminar By Govind Prabhu](https://www.youtube.com/playlist?list=
 
 ---
 
-## 13. Cristiano Ronaldo Discipline Mentality
+## 15. Cristiano Ronaldo Discipline Mentality
 
 [![Cristiano Ronaldo Discipline Mentality](./cristiano_ronaldo_discipline_mentality/infographic.png)](./cristiano_ronaldo_discipline_mentality/slide_deck.pdf)
 
@@ -247,7 +277,7 @@ Source: [Arjuna Seminar By Govind Prabhu](https://www.youtube.com/playlist?list=
 
 ---
 
-## 14. Ekagrata aur Divyashakti
+## 16. Ekagrata aur Divyashakti
 
 Source: [Ekagrata aur Divyashakti](https://archive.org/details/in.ernet.dli.2015.341875/page/%E0%A5%AD%E0%A5%A9/mode/2up)
 
@@ -263,7 +293,7 @@ Source: [Ekagrata aur Divyashakti](https://archive.org/details/in.ernet.dli.2015
 
 ---
 
-## 15. Elite Performance Psychology — Bill Beswick
+## 17. Elite Performance Psychology — Bill Beswick
 
 [![Elite Performance Psychology — Bill Beswick](./elite_performance_psychology_bill_beswick/infographic.png)](./elite_performance_psychology_bill_beswick/slide_deck.pdf)
 
@@ -279,7 +309,23 @@ Source: [Ekagrata aur Divyashakti](https://archive.org/details/in.ernet.dli.2015
 
 ---
 
-## 16. Enchiridion
+## 18. Emotion Hacks — 50 Ways to Feel Better Fast
+
+[![Emotion Hacks — 50 Ways to Feel Better Fast](./emotion_hacks_50_ways_to_feel_better_fast/infographic.png)](./emotion_hacks_50_ways_to_feel_better_fast/slide_deck.pdf)
+
+[![Epictetus Operating Model - Emotion Hacks — 50 Ways to Feel Better Fast](./emotion_hacks_50_ways_to_feel_better_fast/epictetus_operating_model.png)](./emotion_hacks_50_ways_to_feel_better_fast/epictetus_operating_model.md)
+
+| [Flashcards](./emotion_hacks_50_ways_to_feel_better_fast/flashcards.html) | [Quiz](./emotion_hacks_50_ways_to_feel_better_fast/quiz.html) | [Report](./emotion_hacks_50_ways_to_feel_better_fast/report.md) | [Report 2](./emotion_hacks_50_ways_to_feel_better_fast/report_2.md) | [Report 3](./emotion_hacks_50_ways_to_feel_better_fast/report_3.md) | [Mind Map](./emotion_hacks_50_ways_to_feel_better_fast/mind_map.png) | [Source](./emotion_hacks_50_ways_to_feel_better_fast/source.pdf) |
+
+### Key Concepts
+
+- ["Why We Feel" model — Dr. Ryan Martin](https://www.google.com/search?q=ryan+martin+why+we+feel+model+appraisal+emotion) — you react to your appraisal of a stimulus, not the stimulus itself; change the interpretation to change the feeling
+- [Antecedent-focused strategies — James Gross](https://www.google.com/search?q=james+gross+antecedent+focused+emotion+regulation+situation+selection) — situation selection, modification, and attentional deployment win the battle before the feeling even starts
+- [The Emotion Hackpack & pattern recognition](https://www.google.com/search?q=ryan+martin+emotion+hackpack+pattern+recognition) — carry many small, science-backed hacks and diagram emotions to catch when you're reacting to the past, not the present
+
+---
+
+## 19. Enchiridion
 
 Source: [The Enchiridion By Epictetus](https://classics.mit.edu/Epictetus/epicench.html)
 
@@ -291,7 +337,7 @@ Source: [The Enchiridion By Epictetus](https://classics.mit.edu/Epictetus/epicen
 
 ---
 
-## 17. Essence of Karma Yoga
+## 20. Essence of Karma Yoga
 
 Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://www.youtube.com/watch?v=bg2wyk-8k8Y&list=TLGG3nXukXZRlVIxMzAyMjAyNg)
 
@@ -303,7 +349,41 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 
 ---
 
-## 18. Getting Things Done — The Art of Stress-Free Productivity
+## 21. Essential 3-Move Mobility Routine
+
+[![Essential 3-Move Mobility Routine](./essential_3_move_mobility_routine/infographic.png)](./essential_3_move_mobility_routine/slide_deck.pdf)
+
+[![Epictetus Operating Model - Essential 3-Move Mobility Routine](./essential_3_move_mobility_routine/epictetus_operating_model.png)](./essential_3_move_mobility_routine/epictetus_operating_model.md)
+
+| [Flashcards](./essential_3_move_mobility_routine/flashcards.html) | [Quiz](./essential_3_move_mobility_routine/quiz.html) | [Report](./essential_3_move_mobility_routine/report.md) | [Report 2](./essential_3_move_mobility_routine/report_2.md) | [Report 3](./essential_3_move_mobility_routine/report_3.md) | [Mind Map](./essential_3_move_mobility_routine/mind_map.png) | [Source](https://www.youtube.com/watch?v=eJ7n0HCDq-8) |
+
+### Key Concepts
+
+- [Strength, lubrication, balance — the three pillars of mobility](https://www.google.com/search?q=mobility+strength+lubrication+balance+nervous+system+trust) — the brain grants range only when strength makes it trust you are safe to move there
+- ["Motion is lotion" — synovial fluid](https://www.google.com/search?q=motion+is+lotion+synovial+fluid+joint+circles+mobility) — moving joints under pressure produces the fluid that clears "rust" from the joint capsule
+- [Movement as a background task](https://www.google.com/search?q=movement+background+task+mobility+consistency+without+cortisol) — stripping the "sacredness" (mat, outfit, 60 minutes) keeps you mobile without a cortisol spike
+
+---
+
+## 22. Feel Better in 5
+
+[![Feel Better in 5](./feel_better_in_5/infographic.png)](./feel_better_in_5/slide_deck.pdf)
+
+[![Feel Better in 5 — Habit Science](./feel_better_in_5/infographic_2.png)](./feel_better_in_5/report.md)
+
+[![Epictetus Operating Model - Feel Better in 5](./feel_better_in_5/epictetus_operating_model.png)](./feel_better_in_5/epictetus_operating_model.md)
+
+| [Flashcards](./feel_better_in_5/flashcards.html) | [Quiz](./feel_better_in_5/quiz.html) | [Report](./feel_better_in_5/report.md) | [Report 2](./feel_better_in_5/report_2.md) | [Report 3](./feel_better_in_5/report_3.md) | [Mind Map](./feel_better_in_5/mind_map.png) | [Source](./feel_better_in_5/source.pdf) |
+
+### Key Concepts
+
+- [Health snacks: Mind, Body, Heart — Dr. Rangan Chatterjee](https://www.google.com/search?q=rangan+chatterjee+feel+better+in+5+health+snacks+mind+body+heart) — five minutes, three times a day, five days a week across three pillars for a 360° approach to wellbeing
+- [Tiny Habits & behavior design](https://www.google.com/search?q=feel+better+in+5+tiny+habits+anchor+celebrate+environment+design) — start easy, anchor to existing routines, design the environment, and celebrate to lock in the dopamine loop
+- [The Ripple Effect — habits as "real medicine"](https://www.google.com/search?q=feel+better+in+5+ripple+effect+bdnf+inflammation) — small changes cascade across life and measurably lower inflammation, raise BDNF, and shift gene expression
+
+---
+
+## 23. Getting Things Done — The Art of Stress-Free Productivity
 
 [![Getting Things Done — The Art of Stress-Free Productivity](./getting_things_done-the_art_of_stress_free_productivity/infographic.png)](./getting_things_done-the_art_of_stress_free_productivity/slide_deck.pdf)
 
@@ -319,7 +399,7 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 
 ---
 
-## 19. Give and Take: The Social Dynamics of Success
+## 24. Give and Take: The Social Dynamics of Success
 
 [![Give and Take: The Social Dynamics of Success](./give_and_take_the_social_dynamics_of_success/infographic.png)](./give_and_take_the_social_dynamics_of_success/slide_deck.pdf)
 
@@ -329,7 +409,7 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 
 ---
 
-## 20. How to Meditate for Beginners | A Monk’s Complete Guide
+## 25. How to Meditate for Beginners | A Monk’s Complete Guide
 
 [![The Architecture of Stillness — A Guide to Daily Meditation](./how_to_meditate-for_beginners/infographic.png)](./how_to_meditate-for_beginners/slide_deck.pdf)
 
@@ -345,7 +425,7 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 
 ---
 
-## 21. I Have the Streets: A Kutti Cricket Story
+## 26. I Have the Streets: A Kutti Cricket Story
 
 [![I Have the Streets: A Kutti Cricket Story](./i_have_the_streets_a_kutti_cricket_story/infographic.png)](./i_have_the_streets_a_kutti_cricket_story/slide_deck.pdf)
 
@@ -355,7 +435,7 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 
 ---
 
-## 22. Indian Psychology by Raghunath Safaya
+## 27. Indian Psychology by Raghunath Safaya
 
 [![Indian Psychology by Raghunath Safaya](./indian_psychology_raghunath_safaya/infographic.png)](./indian_psychology_raghunath_safaya/slide_deck.pdf)
 
@@ -365,7 +445,7 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 
 ---
 
-## 23. Invincible Arjuna: Nine Milestones on the Hero Path
+## 28. Invincible Arjuna: Nine Milestones on the Hero Path
 
 [![Invincible Arjuna: Nine Milestones on the Hero Path](./invincible_arjuna_nine_milestones_on_the_hero_path/infographic.png)](./invincible_arjuna_nine_milestones_on_the_hero_path/slide_deck.pdf)
 
@@ -375,7 +455,7 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 
 ---
 
-## 24. J. Krishnamurti
+## 29. J. Krishnamurti
 
 [![Epictetus Operating Model - J. Krishnamurti](./tbd/jiddu_krishnamurti/epictetus_operating_model.png)](./tbd/jiddu_krishnamurti/epictetus_operating_model.md)
 
@@ -408,7 +488,7 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 
 ---
 
-## 25. Jeyamohan — Writer & Thinker
+## 30. Jeyamohan — Writer & Thinker
 
 [![Epictetus Operating Model - Jeyamohan — Writer & Thinker](./tbd/jeyamohan/epictetus_operating_model.png)](./tbd/jeyamohan/epictetus_operating_model.md)
 
@@ -425,7 +505,7 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 
 ---
 
-## 26. Karma Yoga
+## 31. Karma Yoga
 
 [![Epictetus Operating Model - Karma Yoga](./karma_yoga/epictetus_operating_model.png)](./karma_yoga/epictetus_operating_model.md)
 
@@ -434,7 +514,7 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 
 ---
 
-## 27. Lakshya Sen — The Champion Mindset and Olympic Grit
+## 32. Lakshya Sen — The Champion Mindset and Olympic Grit
 
 [![Lakshya Sen — The Champion Mindset and Olympic Grit](./lakshya_sen-the_champion_mindset_and_olympic_grit/infographic.png)](./lakshya_sen-the_champion_mindset_and_olympic_grit/slide_deck.pdf)
 
@@ -448,7 +528,7 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 
 ---
 
-## 28. Life's Amazing Secrets: Finding Balance and Purpose
+## 33. Life's Amazing Secrets: Finding Balance and Purpose
 
 [![Life's Amazing Secrets: Finding Balance and Purpose](./lifes_amazing_secrets_finding_balance_and_purpose/infographic.png)](./lifes_amazing_secrets_finding_balance_and_purpose/slide_deck.pdf)
 
@@ -458,17 +538,7 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 
 ---
 
-## 29. Mind Master - Winning Lessons from a Champion's Life
-
-[![Mind Master - Winning Lessons from a Champion's Life](./mind_master-winning_lessons_from_a_champions_life/infographic.png)](./mind_master-winning_lessons_from_a_champions_life/slide_deck.pdf)
-
-[![Epictetus Operating Model - Mind Master](./mind_master-winning_lessons_from_a_champions_life/epictetus_operating_model.png)](./mind_master-winning_lessons_from_a_champions_life/epictetus_operating_model.md)
-
-| [Flashcards](./mind_master-winning_lessons_from_a_champions_life/flashcards.html) | [Quiz](./mind_master-winning_lessons_from_a_champions_life/quiz.html) | [Report](./mind_master-winning_lessons_from_a_champions_life/report.md) | [Report 2](./mind_master-winning_lessons_from_a_champions_life/report_2.md) | [Report 3](./mind_master-winning_lessons_from_a_champions_life/report_3.md) | [Mind Map](./mind_master-winning_lessons_from_a_champions_life/mind_map.json) | [Source](./mind_master-winning_lessons_from_a_champions_life/Mind_Master_Winning_Lessons_from_Viswanathan_Anad.pdf) |
-
----
-
-## 30. Mastering Effortless Resilience - The 54% rule — Roger Federer
+## 34. Mastering Effortless Resilience - The 54% rule — Roger Federer
 
 [![Mastering Effortless Resilience — Roger Federer](./mastering_effortless_resilience_roger_federer/infographic.png)](./mastering_effortless_resilience_roger_federer/slide_deck.pdf)
 
@@ -484,7 +554,7 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 
 ---
 
-## 31. Meditation for Your Unique Cognitive Fingerprint
+## 35. Meditation for Your Unique Cognitive Fingerprint
 
 [![Meditation for Your Unique Cognitive Fingerprint](./meditation_for_your_unique_cognitive_fingerprint/infographic.png)](./meditation_for_your_unique_cognitive_fingerprint/slide_deck.pdf)
 
@@ -498,7 +568,17 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 
 ---
 
-## 32. Mindset: The Power of Believing You Can Improve
+## 36. Mind Master - Winning Lessons from a Champion's Life
+
+[![Mind Master - Winning Lessons from a Champion's Life](./mind_master-winning_lessons_from_a_champions_life/infographic.png)](./mind_master-winning_lessons_from_a_champions_life/slide_deck.pdf)
+
+[![Epictetus Operating Model - Mind Master](./mind_master-winning_lessons_from_a_champions_life/epictetus_operating_model.png)](./mind_master-winning_lessons_from_a_champions_life/epictetus_operating_model.md)
+
+| [Flashcards](./mind_master-winning_lessons_from_a_champions_life/flashcards.html) | [Quiz](./mind_master-winning_lessons_from_a_champions_life/quiz.html) | [Report](./mind_master-winning_lessons_from_a_champions_life/report.md) | [Report 2](./mind_master-winning_lessons_from_a_champions_life/report_2.md) | [Report 3](./mind_master-winning_lessons_from_a_champions_life/report_3.md) | [Mind Map](./mind_master-winning_lessons_from_a_champions_life/mind_map.json) | [Source](./mind_master-winning_lessons_from_a_champions_life/Mind_Master_Winning_Lessons_from_Viswanathan_Anad.pdf) |
+
+---
+
+## 37. Mindset: The Power of Believing You Can Improve
 
 [![Mindset: The Power of Believing You Can Improve](./mindset_the_power_of_believing_you_can_improve/infographic.png)](./mindset_the_power_of_believing_you_can_improve/slide_deck.pdf)
 
@@ -508,7 +588,7 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 
 ---
 
-## 33. Neuroscience of Success: Rewiring Your Brain for Peak Performance
+## 38. Neuroscience of Success: Rewiring Your Brain for Peak Performance
 
 [![Neuroscience of Success: Rewiring Your Brain for Peak Performance](./neuroscience_of_success_rewiring_your_brain_for_peak_performance/infographic.png)](./neuroscience_of_success_rewiring_your_brain_for_peak_performance/slide_deck.pdf)
 
@@ -518,7 +598,7 @@ Source: [Essence of Karma Yoga Swami Chinmayananda on Geeta Ch 3 V 30](https://w
 
 ---
 
-## 34. Paddy Upton — Mental Conditioning Coach
+## 39. Paddy Upton — Mental Conditioning Coach
 
 [![Epictetus Operating Model - Paddy Upton — Mental Conditioning Coach](./tbd/paddy_upton/epictetus_operating_model.png)](./tbd/paddy_upton/epictetus_operating_model.md)
 
@@ -540,7 +620,7 @@ Mental conditioning coach for Team India (ICC 2011 World Cup), Rajasthan Royals,
 
 ---
 
-## 35. Param Drṣṭvā Nivartate — The Principle of Higher Taste
+## 40. Param Drṣṭvā Nivartate — The Principle of Higher Taste
 
 [![Epictetus Operating Model - Param Drṣṭvā Nivartate — The Principle of Higher Taste](./tbd/param_drstva_nivartate/epictetus_operating_model.png)](./tbd/param_drstva_nivartate/epictetus_operating_model.md)
 
@@ -567,7 +647,7 @@ The idea that a lower pleasure is only truly abandoned when a higher experience 
 
 ---
 
-## 36. Primal Leadership
+## 41. Primal Leadership
 
 [![Primal Leadership](./primal_leadership/infographic.png)](./primal_leadership/slide_deck.pdf)
 
@@ -581,7 +661,7 @@ The idea that a lower pleasure is only truly abandoned when a higher experience 
 
 ---
 
-## 37. Reconciliation - Healing the Inner Child by Thich Nhat Hanh
+## 42. Reconciliation - Healing the Inner Child by Thich Nhat Hanh
 
 Source: [Reconciliation - Healing the Inner Child by Thich Nhat Hanh](https://plumvillage.org/books/reconciliation)
 
@@ -597,7 +677,7 @@ Source: [Reconciliation - Healing the Inner Child by Thich Nhat Hanh](https://pl
 
 ---
 
-## 38. Relentless: The Blueprint for Unstoppable Success
+## 43. Relentless: The Blueprint for Unstoppable Success
 
 [![Relentless: The Blueprint for Unstoppable Success](./relentless_the_blueprint_for_unstoppable_success/infographic.png)](./relentless_the_blueprint_for_unstoppable_success/slide_deck.pdf)
 
@@ -607,7 +687,7 @@ Source: [Reconciliation - Healing the Inner Child by Thich Nhat Hanh](https://pl
 
 ---
 
-## 39. Science-Based Meditation Tools to Improve Your Brain Health
+## 44. Science-Based Meditation Tools to Improve Your Brain Health
 
 [![Science-Based Meditation Tools to Improve Your Brain Health](./science-based_meditation_tools_to_improve_your_brain_health/infographic.png)](./science-based_meditation_tools_to_improve_your_brain_health/slide_deck.pdf)
 
@@ -621,7 +701,23 @@ Source: [Reconciliation - Healing the Inner Child by Thich Nhat Hanh](https://pl
 
 ---
 
-## 40. Source Book of Ancient Indian Psychology by Prof. B. Kuppuswamy
+## 45. Simple Yoga for Digestion and Diabetes
+
+[![Simple Yoga for Digestion and Diabetes](./simple_yoga_for_digestion_and_diabetes/infographic.png)](./simple_yoga_for_digestion_and_diabetes/slide_deck.pdf)
+
+[![Epictetus Operating Model - Simple Yoga for Digestion and Diabetes](./simple_yoga_for_digestion_and_diabetes/epictetus_operating_model.png)](./simple_yoga_for_digestion_and_diabetes/epictetus_operating_model.md)
+
+| [Flashcards](./simple_yoga_for_digestion_and_diabetes/flashcards.html) | [Quiz](./simple_yoga_for_digestion_and_diabetes/quiz.html) | [Report](./simple_yoga_for_digestion_and_diabetes/report.md) | [Report 2](./simple_yoga_for_digestion_and_diabetes/report_2.md) | [Report 3](./simple_yoga_for_digestion_and_diabetes/report_3.md) | [Mind Map](./simple_yoga_for_digestion_and_diabetes/mind_map.png) | [Source](https://www.youtube.com/shorts/_1wdDWEtMGg) |
+
+### Key Concepts
+
+- [Vajrasana after meals — digestion](https://www.google.com/search?q=vajrasana+after+meal+digestion+10+minutes) — sitting on the heels for 10 minutes after eating re-routes energy to the digestive system
+- [Mandukasana — the metabolic shield](https://www.google.com/search?q=mandukasana+frog+pose+pancreas+blood+sugar+diabetes) — fists pressed into the navel create precise pressure on the pancreas to support sugar regulation
+- [Three asanas + one breath minimalism](https://www.google.com/search?q=vajrasana+mandukasana+malasana+anulom+vilom+diabetes) — Vajrasana, Mandukasana, Malasana, and Anulom-Vilom strip wellness back to its essentials
+
+---
+
+## 46. Source Book of Ancient Indian Psychology by Prof. B. Kuppuswamy
 
 [![Source Book of Ancient Indian Psychology](./source_book_of_ancient_indian_psychology/infographic.png)](./source_book_of_ancient_indian_psychology/slide_deck.pdf)
 
@@ -633,7 +729,7 @@ Source: [Reconciliation - Healing the Inner Child by Thich Nhat Hanh](https://pl
 
 ---
 
-## 41. Sports Performance Psychology
+## 47. Sports Performance Psychology
 
 [![Epictetus Operating Model - Sports Performance Psychology](./tbd/sports_performance_psychology/epictetus_operating_model.png)](./tbd/sports_performance_psychology/epictetus_operating_model.md)
 
@@ -664,7 +760,7 @@ Source: [Reconciliation - Healing the Inner Child by Thich Nhat Hanh](https://pl
 
 ---
 
-## 42. Stutz - Coming Alive
+## 48. Stutz - Coming Alive
 
 [![Stutz - Coming Alive](./stutz-coming_alive/infographic.png)](./stutz-coming_alive/slide_deck.pdf)
 
@@ -674,7 +770,7 @@ Source: [Reconciliation - Healing the Inner Child by Thich Nhat Hanh](https://pl
 
 ---
 
-## 43. Stutz - Lessons for Living
+## 49. Stutz - Lessons for Living
 
 [![Stutz - Lessons for Living](./stutz-lessons_for_living/infographic.png)](./stutz-lessons_for_living/slide_deck.pdf)
 
@@ -684,7 +780,7 @@ Source: [Reconciliation - Healing the Inner Child by Thich Nhat Hanh](https://pl
 
 ---
 
-## 44. Stutz - Overcoming Dissatisfaction Through Action
+## 50. Stutz - Overcoming Dissatisfaction Through Action
 
 Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix It) | Phil Stutz x Rich Roll](https://www.youtube.com/watch?v=mwteIoVt-kM)
 
@@ -696,7 +792,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 45. Stutz - The Tools
+## 51. Stutz - The Tools
 
 [![Stutz - The Tools](./stutz-the_tools/infographic.png)](./stutz-the_tools/slide_deck.pdf)
 
@@ -710,7 +806,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 46. Stutz - True and False Magic - A Tools Workbook
+## 52. Stutz - True and False Magic - A Tools Workbook
 
 [![Stutz - True and False Magic - A Tools Workbook](./stutz-true_and_false_magic-a_tools_workbook/infographic.png)](./stutz-true_and_false_magic-a_tools_workbook/slide_deck.pdf)
 
@@ -720,7 +816,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 47. The 10x Mind Expander
+## 53. The 10x Mind Expander
 
 [![The 10x Mind Expander](./the_10x_mind_expander/infographic.png)](./the_10x_mind_expander/slide_deck.pdf)
 
@@ -730,7 +826,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 48. The 10X Rule: The Path to Massive Success
+## 54. The 10X Rule: The Path to Massive Success
 
 [![The 10X Rule: The Path to Massive Success](./the_10x_rule_the_path_to_massive_success/infographic.png)](./the_10x_rule_the_path_to_massive_success/slide_deck.pdf)
 
@@ -740,7 +836,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 49. The 15 Commitments of Conscious Leadership
+## 55. The 15 Commitments of Conscious Leadership
 
 [![The 15 Commitments of Conscious Leadership](./the_15_commitments_of_conscious_leadership/infographic.png)](./the_15_commitments_of_conscious_leadership/slide_deck.pdf)
 
@@ -754,7 +850,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 50. The Architecture of Success: Rockefeller's Wisdom for His Son
+## 56. The Architecture of Success: Rockefeller's Wisdom for His Son
 
 [![The Architecture of Success: Rockefeller's Wisdom for His Son](./the_architecture_of_success_rockefellers_wisdom_for_his_son/infographic.png)](./the_architecture_of_success_rockefellers_wisdom_for_his_son/slide_deck.pdf)
 
@@ -764,7 +860,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 51. The Art of Change: Modern Patterns for Success
+## 57. The Art of Change: Modern Patterns for Success
 
 [![The Art of Change: Modern Patterns for Success](./the_art_of_change_modern_patterns_for_success/infographic.png)](./the_art_of_change_modern_patterns_for_success/slide_deck.pdf)
 
@@ -774,7 +870,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 52. The Art of Leadership: Purpose and Integrity
+## 58. The Art of Leadership: Purpose and Integrity
 
 [![The Art of Leadership: Purpose and Integrity](./the_art_of_leadership_purpose_and_integrity/infographic.png)](./the_art_of_leadership_purpose_and_integrity/slide_deck.pdf)
 
@@ -784,7 +880,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 53. The Art of Learning: A Journey in Pursuit of Excellence
+## 59. The Art of Learning: A Journey in Pursuit of Excellence
 
 [![The Art of Learning: A Journey in Pursuit of Excellence](./the_art_of_learning_a_journey_in_pursuit_of_excellence/infographic.png)](./the_art_of_learning_a_journey_in_pursuit_of_excellence/slide_deck.pdf)
 
@@ -794,7 +890,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 54. The Art of Strategy: Steps Towards Business Agility
+## 60. The Art of Strategy: Steps Towards Business Agility
 
 [![The Art of Strategy: Steps Towards Business Agility](./the_art_of_strategy_steps_towards_business_agility/infographic.png)](./the_art_of_strategy_steps_towards_business_agility/slide_deck.pdf)
 
@@ -804,7 +900,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 55. The Arthashastra: Kautilya's Ancient Treatise on Statecraft
+## 61. The Arthashastra: Kautilya's Ancient Treatise on Statecraft
 
 [![The Arthashastra: Kautilya's Ancient Treatise on Statecraft](./the_arthashastra_kautilyas_ancient_treatise_on_statecraft/infographic.png)](./the_arthashastra_kautilyas_ancient_treatise_on_statecraft/slide_deck.pdf)
 
@@ -814,7 +910,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 56. The Barefoot Coach
+## 62. The Barefoot Coach
 
 [![The Barefoot Coach](./the_barefoot_coach/infographic.png)](./the_barefoot_coach/slide_deck.pdf)
 
@@ -824,7 +920,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 57. The Champion's Mind: How Great Athletes Think, Train, and Thrive
+## 63. The Champion's Mind: How Great Athletes Think, Train, and Thrive
 
 [![The Champion's Mind: How Great Athletes Think, Train, and Thrive](./the_champions_mind_how_great_athletes_think_train_and_thrive/infographic.png)](./the_champions_mind_how_great_athletes_think_train_and_thrive/slide_deck.pdf)
 
@@ -834,7 +930,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 58. The Dhoni Touch: Unravelling the Enigma of Mahi
+## 64. The Dhoni Touch: Unravelling the Enigma of Mahi
 
 [![The Dhoni Touch: Unravelling the Enigma of Mahi](./the_dhoni_touch_unravelling_the_enigma_of_mahi/infographic.png)](./the_dhoni_touch_unravelling_the_enigma_of_mahi/slide_deck.pdf)
 
@@ -844,7 +940,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 59. The Four Pillars of a Healthy Mind
+## 65. The Four Pillars of a Healthy Mind
 
 [![The Four Pillars of a Healthy Mind](./the_four_pillars_of_a_healthy_mind/infographic.png)](./the_four_pillars_of_a_healthy_mind/slide_deck.pdf)
 
@@ -858,7 +954,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 60. The Grit Factor: Leadership Lessons from the Vanguard
+## 66. The Grit Factor: Leadership Lessons from the Vanguard
 
 [![The Grit Factor: Leadership Lessons from the Vanguard](./the_grit_factor_leadership_lessons_from_the_vanguard/infographic.png)](./the_grit_factor_leadership_lessons_from_the_vanguard/slide_deck.pdf)
 
@@ -868,7 +964,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 61. The Heart of the Buddha's Teaching
+## 67. The Heart of the Buddha's Teaching
 
 [![The Heart of the Buddha's Teaching](./the_heart_of_the_buddhas_teaching/infographic.png)](./the_heart_of_the_buddhas_teaching/slide_deck.pdf)
 
@@ -878,7 +974,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 62. The New Toughness Training for Sports
+## 68. The New Toughness Training for Sports
 
 [![The New Toughness Training for Sports](./the_new_toughness_training_for_sports/infographic.png)](./the_new_toughness_training_for_sports/slide_deck.pdf)
 
@@ -892,7 +988,23 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 63. The Power of Personal Accountability
+## 69. The Power 5 — HIIT to Improve Metabolic Health and Target Visceral Fat
+
+[![The Power 5 — HIIT to Improve Metabolic Health and Target Visceral Fat](./the_power_5_HIIT_to_improve_metabolic_health_and_target_visceral_fat/infographic.png)](./the_power_5_HIIT_to_improve_metabolic_health_and_target_visceral_fat/slide_deck.pdf)
+
+[![Epictetus Operating Model - The Power 5 — HIIT to Improve Metabolic Health and Target Visceral Fat](./the_power_5_HIIT_to_improve_metabolic_health_and_target_visceral_fat/epictetus_operating_model.png)](./the_power_5_HIIT_to_improve_metabolic_health_and_target_visceral_fat/epictetus_operating_model.md)
+
+| [Flashcards](./the_power_5_HIIT_to_improve_metabolic_health_and_target_visceral_fat/flashcards.html) | [Quiz](./the_power_5_HIIT_to_improve_metabolic_health_and_target_visceral_fat/quiz.html) | [Report](./the_power_5_HIIT_to_improve_metabolic_health_and_target_visceral_fat/report.md) | [Report 2](./the_power_5_HIIT_to_improve_metabolic_health_and_target_visceral_fat/report_2.md) | [Report 3](./the_power_5_HIIT_to_improve_metabolic_health_and_target_visceral_fat/report_3.md) | [Mind Map](./the_power_5_HIIT_to_improve_metabolic_health_and_target_visceral_fat/mind_map.png) | [Source](./the_power_5_HIIT_to_improve_metabolic_health_and_target_visceral_fat/source.pdf) |
+
+### Key Concepts
+
+- [TOFI & visceral fat](https://www.google.com/search?q=TOFI+thin+outside+fat+inside+visceral+fat+HIIT) — "Thin on the Outside, Fat on the Inside" hides metabolically active fat around the organs that HIIT is uniquely suited to attack
+- [The Power 5 protocol](https://www.google.com/search?q=power+5+HIIT+5+minute+workout+jumping+jacks+mountain+climbers) — five moves, five rounds, intensity over duration, scaled by work/rest intervals (20/40, 30/30, 40/20)
+- [Mitochondria & insulin sensitivity](https://www.google.com/search?q=HIIT+mitochondria+insulin+sensitivity+type+2+diabetes) — short bursts power the cells' "power-packs" and sharpen blood-sugar handling as a shield against type 2 diabetes
+
+---
+
+## 70. The Power of Personal Accountability
 
 [![The Power of Personal Accountability](./the_power_of_personal_accountability/infographic.png)](./the_power_of_personal_accountability/slide_deck.pdf)
 
@@ -906,7 +1018,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 64. The Psychology of Success: Why High Performers are Broken
+## 71. The Psychology of Success: Why High Performers are Broken
 
 [![The Psychology of Success: Why High Performers are Broken](./the_psychology_of_success_why_high_performers_are_broken/infographic.png)](./the_psychology_of_success_why_high_performers_are_broken/slide_deck.pdf)
 
@@ -916,7 +1028,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 65. The Science of Meditation and Neural State Control
+## 72. The Science of Meditation and Neural State Control
 
 [![The Science of Meditation and Neural State Control](./the_science_of_meditation_and_neural_state_control/infographic.png)](./the_science_of_meditation_and_neural_state_control/slide_deck.pdf)
 
@@ -930,7 +1042,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 66. The Score Takes Care of Itself
+## 73. The Score Takes Care of Itself
 
 [![The Score Takes Care of Itself](./the_score_takes_care_of_itself/infographic.png)](./the_score_takes_care_of_itself/slide_deck.pdf)
 
@@ -940,7 +1052,23 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 67. The Subtle Shades of Dharma — Sita’s Counsel to Rama
+## 74. The Soleus Secret — 3 After-Meal Habits to Control Blood Sugar Spikes
+
+[![The Soleus Secret — 3 After-Meal Habits to Control Blood Sugar Spikes](./the_soleus_secret_3_after_meal_habits_to_control_blood_sugar_spikes/infographic.png)](./the_soleus_secret_3_after_meal_habits_to_control_blood_sugar_spikes/slide_deck.pdf)
+
+[![Epictetus Operating Model - The Soleus Secret — 3 After-Meal Habits to Control Blood Sugar Spikes](./the_soleus_secret_3_after_meal_habits_to_control_blood_sugar_spikes/epictetus_operating_model.png)](./the_soleus_secret_3_after_meal_habits_to_control_blood_sugar_spikes/epictetus_operating_model.md)
+
+| [Flashcards](./the_soleus_secret_3_after_meal_habits_to_control_blood_sugar_spikes/flashcards.html) | [Quiz](./the_soleus_secret_3_after_meal_habits_to_control_blood_sugar_spikes/quiz.html) | [Report](./the_soleus_secret_3_after_meal_habits_to_control_blood_sugar_spikes/report.md) | [Report 2](./the_soleus_secret_3_after_meal_habits_to_control_blood_sugar_spikes/report_2.md) | [Report 3](./the_soleus_secret_3_after_meal_habits_to_control_blood_sugar_spikes/report_3.md) | [Mind Map](./the_soleus_secret_3_after_meal_habits_to_control_blood_sugar_spikes/mind_map.png) | [Source](https://www.youtube.com/watch?v=ZTv-hZlhnqo) |
+
+### Key Concepts
+
+- [The soleus "glucose muscle" & GLUT-4 — Dr. Sumit Kapadia](https://www.google.com/search?q=soleus+muscle+glucose+glut4+blood+sugar+seated+calf+raises) — muscle contraction opens GLUT-4 "automatic doors" that admit glucose without insulin, even while seated
+- [The 10–15 minute glucose window](https://www.google.com/search?q=post+meal+walk+10+minutes+blood+sugar+glucose+window) — moving within 10–15 minutes of the last bite catches the spike, with timing mattering more than intensity
+- [The 2-out-of-3 rule](https://www.google.com/search?q=post+meal+movement+two+of+three+meals+blood+sugar+control) — post-meal movement after at least two of three daily meals (~14×/week) gives significant vascular protection
+
+---
+
+## 75. The Subtle Shades of Dharma — Sita’s Counsel to Rama
 
 [![The Subtle Shades of Dharma — Sita’s Counsel to Rama](./the_subtle_shades_of_dharma-sita-s_counsel_to_rama/infographic.png)](./the_subtle_shades_of_dharma-sita-s_counsel_to_rama/slide_deck.pdf)
 
@@ -956,7 +1084,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 68. The Talent Code
+## 76. The Talent Code
 
 [![The Talent Code](./the_talent_code/infographic.png)](./the_talent_code/slide_deck.pdf)
 
@@ -970,7 +1098,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 69. Thinking in Systems
+## 77. Thinking in Systems
 
 [![Thinking in Systems](./thinking_in_systems/infographic.png)](./thinking_in_systems/slide_deck.pdf)
 
@@ -1083,7 +1211,7 @@ We judge the system largely by its behavior; if behavior doesn’t match intent,
 
 ---
 
-## 70. Thirukkural & Tamil Classics
+## 78. Thirukkural & Tamil Classics
 
 [![Epictetus Operating Model - Thirukkural & Tamil Classics](./tbd/thirukkural/epictetus_operating_model.png)](./tbd/thirukkural/epictetus_operating_model.md)
 
@@ -1117,7 +1245,7 @@ We judge the system largely by its behavior; if behavior doesn’t match intent,
 
 ---
 
-## 71. Thoughts of Power by Swami Vivekananda
+## 79. Thoughts of Power by Swami Vivekananda
 
 Source: [Audio Book || Thoughts of Power || Swami Vivekananda || Published by Advaita Ashrama](https://www.youtube.com/watch?v=PkPzsyR-3ko&list=TLGGS45trtSXZEcxMzAyMjAyNg)
 
@@ -1129,7 +1257,7 @@ Source: [Audio Book || Thoughts of Power || Swami Vivekananda || Published by Ad
 
 ---
 
-## 72. Turning Pro — The Journey from Amateur to Professional
+## 80. Turning Pro — The Journey from Amateur to Professional
 
 [![Turning Pro — The Journey from Amateur to Professional](./turning_pro-the_journey_from_amateur_to_professional/infographic.png)](./turning_pro-the_journey_from_amateur_to_professional/slide_deck.pdf)
 
@@ -1143,7 +1271,7 @@ Source: [Audio Book || Thoughts of Power || Swami Vivekananda || Published by Ad
 
 ---
 
-## 73. Values Highly Successful People Share — Mark Manson
+## 81. Values Highly Successful People Share — Mark Manson
 
 [![Values Highly Successful People Share — Mark Manson](./values_highly_succcesful_people_mark_manson/infographic.png)](./values_highly_succcesful_people_mark_manson/slide_deck.pdf)
 
@@ -1159,7 +1287,7 @@ Source: [Audio Book || Thoughts of Power || Swami Vivekananda || Published by Ad
 
 ---
 
-## 74. Viswanathan Anand - Mind Master
+## 82. Viswanathan Anand - Mind Master
 
 [![Epictetus Operating Model - Viswanathan Anand - Mind Master](./tbd/viswanathan_anand_mind_master/epictetus_operating_model.png)](./tbd/viswanathan_anand_mind_master/epictetus_operating_model.md)
 
@@ -1185,7 +1313,7 @@ Source: [Audio Book || Thoughts of Power || Swami Vivekananda || Published by Ad
 
 ---
 
-## 75. Wherever You Go, There You Are
+## 83. Wherever You Go, There You Are
 
 [![Wherever You Go, There You Are](./wherever_you_go_there_you_are/infographic.png)](./wherever_you_go_there_you_are/slide_deck.pdf)
 
@@ -1199,12 +1327,44 @@ Source: [Audio Book || Thoughts of Power || Swami Vivekananda || Published by Ad
 
 ---
 
-## 76. Winning: The Unforgiving Race to Greatness
+## 84. Winning: The Unforgiving Race to Greatness
 
 [![Winning: The Unforgiving Race to Greatness](./winning_the_unforgiving_race_to_greatness/infographic.png)](./winning_the_unforgiving_race_to_greatness/slide_deck.pdf)
 
 [![Epictetus Operating Model - Winning](./winning_the_unforgiving_race_to_greatness/epictetus_operating_model.png)](./winning_the_unforgiving_race_to_greatness/epictetus_operating_model.md)
 
 | [Flashcards](./winning_the_unforgiving_race_to_greatness/flashcards.html) | [Quiz](./winning_the_unforgiving_race_to_greatness/quiz.html) | [Report](./winning_the_unforgiving_race_to_greatness/report.md) | [Report 2](./winning_the_unforgiving_race_to_greatness/report_2.md) | [Report 3](./winning_the_unforgiving_race_to_greatness/report_3.md) | [Mind Map](./winning_the_unforgiving_race_to_greatness/mind_map.json) | [Source](./winning_the_unforgiving_race_to_greatness/source.pdf) |
+
+---
+
+## 85. Yoga Asanas for Diabetes Management
+
+[![Yoga Asanas for Diabetes Management](./yoga_asanas_for_diabetes_management/infographic.png)](./yoga_asanas_for_diabetes_management/slide_deck.pdf)
+
+[![Epictetus Operating Model - Yoga Asanas for Diabetes Management](./yoga_asanas_for_diabetes_management/epictetus_operating_model.png)](./yoga_asanas_for_diabetes_management/epictetus_operating_model.md)
+
+| [Flashcards](./yoga_asanas_for_diabetes_management/flashcards.html) | [Quiz](./yoga_asanas_for_diabetes_management/quiz.html) | [Report](./yoga_asanas_for_diabetes_management/report.md) | [Report 2](./yoga_asanas_for_diabetes_management/report_2.md) | [Report 3](./yoga_asanas_for_diabetes_management/report_3.md) | [Mind Map](./yoga_asanas_for_diabetes_management/mind_map.png) | [Source](https://www.youtube.com/results?search_query=dr+thirumoolar+health+care+diabetes) |
+
+### Key Concepts
+
+- [The 48-day Mandala & Triple Medicine — Siddha tradition](https://www.google.com/search?q=siddha+medicine+diabetes+48+day+mandala+body+mind+soul) — diabetes (*Eman*, the "slow killer") is reversed by treating body, mind, and soul together over one cellular-reset cycle
+- [Chandra Bhedana Pranayama for insulin](https://www.google.com/search?q=chandra+bhedana+pranayama+right+nostril+insulin+diabetes) — pre-sunrise right-nostril breathing synced to the *So-Ham* mantra to stimulate the pancreas
+- [Vakrasana & Varma — pancreatic stimulation](https://www.google.com/search?q=vakrasana+twist+varma+points+pancreas+diabetes+siddha) — twisting "massages" the pancreas while stimulating the *Mundelumbu Varma* point directs life energy to healing
+
+---
+
+## 86. Yoga for Diabetes Management
+
+[![Yoga for Diabetes Management](./yoga_for_diabetes_management/infographic.png)](./yoga_for_diabetes_management/slide_deck.pdf)
+
+[![Epictetus Operating Model - Yoga for Diabetes Management](./yoga_for_diabetes_management/epictetus_operating_model.png)](./yoga_for_diabetes_management/epictetus_operating_model.md)
+
+| [Flashcards](./yoga_for_diabetes_management/flashcards.html) | [Quiz](./yoga_for_diabetes_management/quiz.html) | [Report](./yoga_for_diabetes_management/report.md) | [Report 2](./yoga_for_diabetes_management/report_2.md) | [Report 3](./yoga_for_diabetes_management/report_3.md) | [Mind Map](./yoga_for_diabetes_management/mind_map.png) | [Slide Deck 2](./yoga_for_diabetes_management/slide_deck_2.pdf) | [Sources](./yoga_for_diabetes_management/sources.md) |
+
+### Key Concepts
+
+- [Organ-massage twists — pancreas stimulation](https://www.google.com/search?q=yoga+twists+vakrasana+ardha+matsyendrasana+pancreas+diabetes) — twisting and forward-folding poses compress the abdomen to "massage" the pancreas and support insulin sensitivity
+- [The stress-glucose connection](https://www.google.com/search?q=yoga+stress+cortisol+blood+sugar+breath+nervous+system) — breath-led practice shifts the body from stress to relaxation, cutting the cortisol-driven spikes in blood sugar
+- [Pranayama & internal cleansing](https://www.google.com/search?q=pranayama+agnisar+kriya+nadi+shodhana+diabetes+blood+sugar) — abdominal breathing, Agnisar Kriya, and Nadi Shodhana regulate the nervous system and stimulate digestive fire
 
 ---
