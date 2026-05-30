@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Goleman & Davidson, *Altered Traits*
 
+
+![Epictetus Operating Model — Goleman & Davidson, *Altered Traits*](./epictetus_operating_model.png)
+
 > Source frame: the payoff of meditation is not the **altered state** (the "Zen high" on the cushion) but the **altered trait** — an enduring restructuring of the brain that persists when you are not meditating. The governing hypothesis is **"the after is the before for the next during"**: each session resets your baseline, and over enough **lifetime hours** the master's resting "before" looks like a novice's peak "during." Choose the **Deep Path** (transformation of being) over the **Wide Path** (stress relief), pursue **hard metrics** over self-report, and let **neuroplasticity** do the slow rewiring of attention, the **amygdala–prefrontal** stress circuit, and **compassion** (metta) circuitry. The goal is not a quiet mind for an hour but a fundamentally freer being — Aristotle's **eudaimonia**, trained.
 
 ## Layer 1 — Practice (What must be done?)

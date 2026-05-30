@@ -1,5 +1,8 @@
 # Epictetus Operating Model — James Clear, *Atomic Habits*
 
+
+![Epictetus Operating Model — James Clear, *Atomic Habits*](./epictetus_operating_model.png)
+
 > Source frame: outcomes are a **lagging measure of habits**. Goals are interchangeable; **systems** decide who actually wins. Change is non-linear — most people quit in the **Valley of Disappointment** before crossing the **Plateau of Latent Potential**. The deepest layer is **identity**: every action is a vote for the person you are becoming. The mechanics are the **Habit Loop** (Cue → Craving → Response → Reward) governed by **Four Laws of Behavior Change**: Make it Obvious, Make it Attractive, Make it Easy, Make it Satisfying (with inversions to break bad habits). Compound interest of 1% beats heroic action; design the environment, then trust the system.
 
 ## Layer 1 — Practice (What must be done?)

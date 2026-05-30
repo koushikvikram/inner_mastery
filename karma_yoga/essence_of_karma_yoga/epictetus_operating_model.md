@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Swami Chinmayananda, *The Essence of Karma Yoga (Gita 3.30)*
 
+
+![Epictetus Operating Model — Swami Chinmayananda, *The Essence of Karma Yoga (Gita 3.30)*](./epictetus_operating_model.png)
+
 > Source frame: the essence is distilled in one instruction Krishna gives Arjuna — *"Mayi sarvani karmani sannyasya... nirashir nirmamo bhutva yudhyasva vigata-jwarah"*: **surrendering all actions unto Me (the Self), with the mind resting in the Self (*adhyatma-chetasa*), free from desire/expectation (*nirashih*) and free from "mine"-ness/ego (*nirmama*), fight — free from mental fever (*vigata-jwara*).** Karma Yoga is not renouncing work but renouncing the *agitation* in the worker. Three preparations — dedicate every action to the higher (sannyasa), anchor the mind in the Self, and drop desire and ego — produce one result: **action without fever**. The unit of control is your inner attitude *while* acting; do your duty, "fight," but keep the mind cool, unburdened, and unowned.
 
 ## Layer 1 — Practice (What must be done?)

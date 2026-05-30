@@ -1,5 +1,8 @@
 # Epictetus Operating Model — The Bhagavad Gita, *Karma Yoga (2.47)*
 
+
+![Epictetus Operating Model — The Bhagavad Gita, *Karma Yoga (2.47)*](./epictetus_operating_model.png)
+
 > Source frame: the doctrine is compressed into one verse — *"Karmanye vadhikaraste ma phaleshu kadachana"*: **you have a right to action alone, never to its fruits**. Do not let the fruit (*phala*) be your motive, and do not be attached to inaction either. The path is **action without attachment to results** (*nishkama karma*): perform your **own duty** (*svadharma*) wholeheartedly, surrender the harvest, and act from **equanimity** (*samatva*) — "yoga is skill in action." Work becomes worship when the doer releases ownership of outcomes; the same deed that binds when craved liberates when offered. The unit of control is the *action you choose now*; the fruit belongs to time, law, and the field of forces beyond you.
 
 ## Layer 1 — Practice (What must be done?)

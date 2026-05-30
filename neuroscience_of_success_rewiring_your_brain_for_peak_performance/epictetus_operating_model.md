@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Dr. Sweta Adatia, *Neuroscience of Success*
 
+
+![Epictetus Operating Model — Dr. Sweta Adatia, *Neuroscience of Success*](./epictetus_operating_model.png)
+
 > Source frame: peak performance is **neurological training**, not genetic luck. Move from the **Limbic Loop** (reactive, automatic, amygdala-driven) to **Frontal Cortex dominance** (logical, command, response). The brain shifts gears through brainwaves: **Delta → Theta → Alpha → Beta → Gamma**; jumping straight from sleep into Beta (alarm + phone) skips the gears that *create* high performance. Use the **Brahma Muhurta** 90-min pre-sunrise window with the **MOVERS** ritual (Meditation, Oxygenation, Visualization, Exercise, Reading, Scribing). The **Harvard Little Finger study** proves the brain can’t distinguish vivid imagination from real experience — visualization builds real myelin. When the **Amygdala Hijack** strikes, you have a **13-second bubble**: count down from 100 to fire the Frontal Cortex and dissolve it. Match work to your **Chronotype** (Lion / Bear / Wolf / Dolphin); kill cognitive monotony with **Neurobics**. The Frontal Cortex is the wheel; rituals (not habits) put your hand on it.
 
 ## Layer 1 — Practice (What must be done?)

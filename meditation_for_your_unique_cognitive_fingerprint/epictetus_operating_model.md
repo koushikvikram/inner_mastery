@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Dr. K (HealthyGamerGG), *Meditation for Your Unique Cognitive Fingerprint*
 
+
+![Epictetus Operating Model — Dr. K (HealthyGamerGG), *Meditation for Your Unique Cognitive Fingerprint*](./epictetus_operating_model.png)
+
 > Source frame: there is no "one-size-fits-all" meditation. Every person has a unique **cognitive fingerprint** — distinct aptitudes, preferences, and nervous-system baselines — and the reason most people quit is a **mismatch between technique and mind**, not personal failure. Treat meditation as a **clinical pharmacy** of 100+ tools (the *Vigan Tantra* lists 112) and use a **referral model**: diagnose the goal, then prescribe the practice. Anxiety needs **physiological calming** (Pranayama — *Nadi Shodhana*, *Kapalbhati* — hacking the vagus nerve); lethargy/depression needs **energizing fire** (*Tumo*); a rigid or punishing ego needs **dissolution** (*Shunya*, the void); and rebuilding needs **subconscious reprogramming** (*Yoga Nidra* + *Sankalpa*, a planted resolve). The reframe is exercise: hating one technique is like hating basketball — try a different sport. With the right match, 80–95% of people find a practice that is easy and effective.
 
 ## Layer 1 — Practice (What must be done?)

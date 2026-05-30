@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Swami Vivekananda, *Thoughts of Power*
 
+
+![Epictetus Operating Model — Swami Vivekananda, *Thoughts of Power*](./epictetus_operating_model.png)
+
 > Source frame: **strength is the one thing needful** — "Strength is Life, Weakness is Death." Vivekananda's call is relentless: all weakness, all misery, even what we call sin, comes from **weakness**, and the cure is power drawn from within. The first teaching is **fearlessness** — *Abhih! Abhih!* ("Be fearless") — for fear is death. The engine is **self-confidence as faith in the Self**: "Faith in ourselves... He is an atheist who does not believe in himself"; you are not a weak sinner but a child of immortal bliss (*Amritasya putrah*), infinite power latent within. The method is the **concentrated will**: "Take up one idea, make that one idea your life; let the brain, muscles, nerves, every part of your body be full of that idea, and just leave every other idea alone. This is the way to success." And the marching order: **"Arise, awake, and stop not till the goal is reached."**
 
 ## Layer 1 — Practice (What must be done?)

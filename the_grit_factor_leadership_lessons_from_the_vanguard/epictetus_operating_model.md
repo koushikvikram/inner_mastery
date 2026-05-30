@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Shannon Huffman Polson, *The Grit Factor*
 
+
+![Epictetus Operating Model — Shannon Huffman Polson, *The Grit Factor*](./epictetus_operating_model.png)
+
 > Source frame: grit is not innate — it is a layered crucible: **COMMIT → LEARN → LAUNCH**. **Own your narrative arc** (Kennedy: "If you don’t like someone’s story, you write your own."). Drill down to **bedrock purpose** with the **Five Whys** — connect head (task) to heart (impact). Build a **Solar System** of connections: mentors, dream team (anchor + reverse mentor), role models — and **draw the circle** to decide who stays out. **Listen Like a Leader**: **Ask → Listen (ting: ears, eyes, mind, heart) → Pause** (3-Second / 24-Second / 24-Hour rule). Practice **Muddy-Boots Leadership** (MBWA, focused on people). **Point your nose into the wind** — confront the brutal facts (Stockdale Paradox) while keeping faith in the prevail. Out-train the resistance.
 
 ## Layer 1 — Practice (What must be done?)

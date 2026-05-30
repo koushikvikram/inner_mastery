@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Radhakrishnan Pillai, *Chanakya in Daily Life*
 
+
+![Epictetus Operating Model — Radhakrishnan Pillai, *Chanakya in Daily Life*](./epictetus_operating_model.png)
+
 > Source frame: this is not "work-life balance" — it is **Life Strategy** drawn from a 2,000-year-old strategist. The day must be governed by **Sattvic vibrations** (wake to music, not jolt) and divided into **Nalika** (90-minute) units that match modern cognitive cycles. A leader has no escape from **Forced Accountability** — *"one wheel alone does not turn"*; build a **Water Clock** of ministers (mentors, peers, experts) authorized to prick you. **Swa-adhyaya** (self-study) is a 3-hour daily duty — knowledge is the entry fee for a knowledge economy. Deploy **Psychological Transition Rituals** (the cow, calf, bull visit) as buffers between spheres. The end-state is the **Raj-Rishi** (Philosopher-King): prosperity (***Artha*** = wealth + meaning) anchored to **Dharma**, balanced across **Personal, Professional, Family, Spiritual**.
 
 ## Layer 1 — Practice (What must be done?)

@@ -1,5 +1,8 @@
 # Epictetus Operating Model — *How to Meditate for Beginners* (The Architecture of Stillness)
 
+
+![Epictetus Operating Model — *How to Meditate for Beginners* (The Architecture of Stillness)](./epictetus_operating_model.png)
+
 > Source frame: stillness is not something you force — it is something you **allow** by **setting conditions**. The beginner's central error is treating meditation as a wrestling match to "kill thoughts"; instead, **plant the seed and provide the environment** (you don't grow a flower by pulling its petals). Stillness rests on **three conditions**: **Physical Relaxation** (grounded posture, releasing tension), **Mental Relaxation** (the "mental vacation" — no goals for a few minutes), and **Gentle Awareness** (attention "as soft as a feather landing on a still pond"). When the mind wanders, return without judgment using **anchors** (breath, mantra "Let it go, let it be," a peaceful image, the guide's voice). The deepest payoff is **self-trust**: every kept commitment — even sixty seconds — is a vote for someone who keeps their word, the **foundational self-discipline** that makes a person "unstoppable."
 
 ## Layer 1 — Practice (What must be done?)

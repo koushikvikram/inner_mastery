@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Daniel Priestley, *Becoming a Key Person of Influence*
 
+
+![Epictetus Operating Model — Daniel Priestley, *Becoming a Key Person of Influence*](./epictetus_operating_model.png)
+
 > Source frame: most professionals are living out a **20-year decision a teenager made** — "professional baggage" from an Industrial Age that no longer exists. The way out is to move from the **outer circle** (80% of people fighting for 10% of the wealth) to the **inner circle** of the **Key Person of Influence (KPI)**. The decisive split is **Functional vs. Vital**: Functional people execute process and fear holidays (because the process continues without them — they’re obsolete); **Vital** people own the *result*, and their absence makes the industry worry. Stop being a **Swagman** (jack-of-all-trades wandering between farms); **stake a Micro-Niche claim**. Don’t mistake the **microphone for the singer** — *a bad singer with a microphone is a louder bad singer*. Run the strict five-step **KPI Method** in order: **Pitch → Publish → Product → Profile → Partnership**. Stop "working hard" — that’s a factory legacy; play a **Big Game** (Rules / Players / Prize / Way to win). Crystallize the **Mountain of Value** you’re already standing on (escape "Glass House Mountains" syndrome where every peak looks equal because you’re on yours).
 
 ## Layer 1 — Practice (What must be done?)

@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Jim Afremow, *The Champion’s Mind*
 
+
+![Epictetus Operating Model — Jim Afremow, *The Champion’s Mind*](./epictetus_operating_model.png)
+
 > Source frame: mentality separates the top few from the many — train the brain with the same clinical rigor as the body. **Mirror Effect**: admiration is a *psychological scouting report* — you can only recognize traits you already carry. **Feed the Good Wolf** with two distinct fuels — **Instructional self-talk** (novel / fine motor) and **Motivational self-talk** (strength / endurance). **Pressure is a privilege**, not a problem — the racing heart is the **Pumped** response, not the Panic response. Be a **Now-ist** — past = regret fog, future = worry fog, present = clear skies; **Win the Day** with morning intentions and evening accountability. Adopt a **Mastery orientation** over an **Ego orientation** — chase peace of mind, not the trophy. Bronze–Silver–Gold goals; *Think it, Ink it*.
 
 ## Layer 1 — Practice (What must be done?)

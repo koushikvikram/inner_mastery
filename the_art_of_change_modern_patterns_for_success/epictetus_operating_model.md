@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Erik Schön, *The Art of Change* (modern *I Ching*)
 
+
+![Epictetus Operating Model — Erik Schön, *The Art of Change* (modern *I Ching*)](./epictetus_operating_model.png)
+
 > Source frame: *Yì* means both **change and ease** — change is not a wall, it is **water**, and progress follows the **line of least resistance**. Set **directions, not destinations** (alignment-for-autonomy in a shifting climate). **Wúwéi** is not passivity; it is "doing useful things and intervening wisely" — you hoe the earth around the plant, you do not pull on its leaves. **Shízhōng** is **timely balance** — doing exactly what fits the context at the right time; standing still is an illusion. Integrity (***Dé***) is "inner potency and wholeness" — the substance that endures when image fades. Final test: when the work is done, the community says, *"We did it ourselves."*
 
 ## Layer 1 — Practice (What must be done?)

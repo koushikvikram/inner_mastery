@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Epictetus, *The Enchiridion*
 
+
+![Epictetus Operating Model — Epictetus, *The Enchiridion*](./epictetus_operating_model.png)
+
 > Source frame: the whole art of living turns on one cut — the **dichotomy of control**. "Some things are in our power and others are not." In our power: opinion, desire, aversion, impulse — *prohairesis*, the faculty of choice. Not in our power: body, property, reputation, office, and every outcome. Suffering comes not from events but from our **judgments** about them ("Men are disturbed not by the things which happen, but by the opinions about the things"). Therefore: confine **desire and aversion** to what is yours, treat externals as borrowed and "given back," play your assigned **roles** well, rehearse hardship in advance (**premeditation of evils**), and on every appearance test "is this mine or not mine?" before assenting. Freedom is wanting reality to be as it is.
 
 ## Layer 1 — Practice (What must be done?)

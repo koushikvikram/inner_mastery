@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Arjuna (Psychology)
 
+
+![Epictetus Operating Model — Arjuna (Psychology)](./epictetus_operating_model.png)
+
 > Source frame: most people remain trapped in **"Uttara Kumar Syndrome"** — masters of controlled environments who collapse the moment the situation becomes orderless. Arjuna is the inverse: he thrives in **changing velocity**, *creates* order out of chaos, and refuses two seductive defaults — *hiding limitations* and *choosing gear over guide*. His training was **Sadhana** (foundational training for any event), not **Practice** (rote drills for one known event). His decisive moves on the eve of Kurukshetra were (1) admitting confusion ("I am confused about my duty") and (2) choosing Krishna unarmed over the Narayani Sena. The result is the **Nara–Narayana** principle: human endeavor + divine vision producing "extraordinary power and morality."
 
 ## Layer 1 — Practice (What must be done?)

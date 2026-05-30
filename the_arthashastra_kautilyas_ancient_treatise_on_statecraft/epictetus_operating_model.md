@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Kautilya, *The Arthashastra*
 
+
+![Epictetus Operating Model — Kautilya, *The Arthashastra*](./epictetus_operating_model.png)
+
 > Source frame: statecraft as **rigorous science**, not reactive politics. The fundamental concept is **Yogakshema** — *not* mere wealth, but the **safeguarding of welfare** ("In the happiness of his subjects lies the king's happiness; in their welfare his welfare" {1.19.34}). The **Rajarishi** (philosopher-king) is built from self-discipline, sharp intellect, energy, and a daily timetable. The state is held together by the **Seven Prakritis** (constituent elements): **Swami** (king/leader), **Amatya** (ministers), **Janapada** (territory/people), **Durga** (fortified base), **Kosa** (treasury), **Danda** (force/army), **Mitra** (allies). Power is exercised through the **Six Methods of Foreign Policy** and the **Mandala** (circle of states). Intelligence is *moderate and balanced*: "He shall not corrupt the uncorrupted; that would be like adding poison to water" — and *Upanishad* (occult / psychological) tactics are the *ethical preference for deception over the slaughter of war*. The treasury runs on the **half-reserve rule** ("withstand even the longest calamities") and **incentive-based taxation** (5-year exemptions for new irrigation/cultivation). Every citizen, including the most vulnerable, is in scope (organized employment for "crippled women," "mothers of prostitutes," widows). Strategic stewardship extends to the **natural world** — elephant-forests are national defense.
 
 ## Layer 1 — Practice (What must be done?)

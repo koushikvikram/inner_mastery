@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Paddy Upton
 
+
+![Epictetus Operating Model — Paddy Upton](./epictetus_operating_model.png)
+
 > Source frame: Upton's **barefoot coaching** rejects the guru-coach who has all the answers; the coach's job is to make the athlete **their own best coach** by handing back responsibility for learning. Performance is built through a **Learning Cycle — Plan → Reflect → Analyse → Practice** — run honestly and repeatedly, so improvement comes from self-awareness rather than instruction. The enemy of execution is the **distracted mind**, which wanders to the **past** (overconfidence or low confidence) or the **future** (premeditation or fear of failure); the only place to perform is **now — focus only when the ball is in play**. Mental conditioning is trainable: **meditation trains the brain to return to the present**, and reflective practice turns experience into skill. The athlete who owns their learning, regulates arousal, and stays present beats the one who waits to be told what to do.
 
 ## Layer 1 — Practice (What must be done?)

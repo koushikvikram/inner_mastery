@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Viswanathan Anand, *Mind Master*
 
+
+![Epictetus Operating Model — Viswanathan Anand, *Mind Master*](./epictetus_operating_model.png)
+
 > Source frame: Anand's edge across five world titles was **strategic calm under pressure** — the ability to keep emotion from clouding calculation when the stakes were highest. His method rests on **deep preparation** (you must be obsessed to succeed; outwork the position before you sit at the board), **objectivity after loss** (treat a defeat as data, not identity — analyze it coldly and move on), **focus routines** that protect concentration over long, draining games, and **pressure management** that converts nerves into clear thinking rather than panic. Talent gets you to the table; **emotional regulation, relentless preparation, and the discipline to stay objective** keep you winning there. Facing a big match, the goal is not to feel no pressure but to **think well despite it** — calm, prepared, and adaptable as the position changes.
 
 ## Layer 1 — Practice (What must be done?)

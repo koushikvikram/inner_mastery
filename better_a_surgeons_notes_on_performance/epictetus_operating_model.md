@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Atul Gawande, *Better*
 
+
+![Epictetus Operating Model — Atul Gawande, *Better*](./epictetus_operating_model.png)
+
 > Source frame: better is not a heroic leap; it is a relentless attention to **the particulars**. The book’s three pillars are **Diligence** (the unglamorous discipline of doing the basics perfectly, repeatedly), **Doing Right** (ethical conduct under pressure and ambiguity), and **Ingenuity** (creative problem-solving inside real constraints). The hallmark behaviors of a "**positive deviant**" — the practitioner who outperforms the system — are: **ask an unscripted question, don’t complain, count something, write something, embrace change**. Excellence is the willingness to *return to the bedside* one more time when standard procedure says you’re done.
 
 ## Layer 1 — Practice (What must be done?)

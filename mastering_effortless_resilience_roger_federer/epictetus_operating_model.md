@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Roger Federer, *Mastering Effortless Resilience* (2024 Dartmouth Address)
 
+
+![Epictetus Operating Model — Roger Federer, *Mastering Effortless Resilience* (2024 Dartmouth Address)](./epictetus_operating_model.png)
+
 > Source frame: greatness is defined by the **speed of recovery, not the rarity of failure**. The **54% Rule** is the engine: across 1,526 matches Federer won ~80% of matches but only ~54% of points — barely better than a coin flip per point. So you must refuse to let the 46% you lose define the outcome; **negative energy is wasted energy**. The mechanism is a duality — **absolute intensity** during the point, **immediate detachment** the instant it ends — so no **emotional residue** poisons the next serve. Crucially, separate **local failure** ("I lost that point") from **global identity** ("I am a loser"): the real mistake is mentally staying inside the lost point while the next has already started. "Effortless" is a **myth** — it took relentless work to make it look easy. And keep a life **bigger than the 2,106 square feet** of the court, so a single loss never becomes the end of the world.
 
 ## Layer 1 — Practice (What must be done?)

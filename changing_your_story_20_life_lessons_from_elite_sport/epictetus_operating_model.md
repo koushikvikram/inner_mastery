@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Bill Beswick, *Changing Your Story*
 
+
+![Epictetus Operating Model — Bill Beswick, *Changing Your Story*](./epictetus_operating_model.png)
+
 > Source frame: humans are storytelling creatures, and the internal narrative *is* the architect of performance. **The mind is the athlete**; the body is the means. Real change starts when you **cross the line** — taking total responsibility (Belichick: do what you’re supposed to do, when, where). The operating distinction is **Fighter vs. Victim** — fighters are active, solution-focused; victims look for a place to hide. Mastery is **raising the bottom line** (closing the gap between 60% and 90%, not chasing 100%). Momentum is built via the **Tick Stepladder** of small, "look-the-part" actions. Stay in the **Green** by checking the **HATED** factors (Hungry / Angry / Tired / Emotional / Dehydrated). The five keys to a sustainable story: **Purpose, People, Place, Health, Finance**.
 
 ## Layer 1 — Practice (What must be done?)

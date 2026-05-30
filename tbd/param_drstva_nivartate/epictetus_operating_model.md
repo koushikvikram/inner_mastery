@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Param Drṣṭvā Nivartate (The Principle of Higher Taste)
 
+
+![Epictetus Operating Model — Param Drṣṭvā Nivartate (The Principle of Higher Taste)](./epictetus_operating_model.png)
+
 > Source frame: *"viṣayā vinivartante… rasa-varjam… param dṛṣṭvā nivartate"* (Bhagavad Gita 2.59) — a lower pleasure is not conquered by suppression but **abandoned when a higher taste replaces it**. Willpower alone leaves the craving intact (the object goes, the *rasa* remains); only **experiencing something superior** fixes the mind and lets the lower desire fall away naturally. The mechanism is **desire substitution**, not desire destruction: regulate impulse by **raising the target**, redirecting longing toward what is higher (devotion, purpose, dedication / *samarpaṇa*). This makes self-mastery **purpose-driven** rather than grim — the body is a machine and the Gita its operating manual for handling stress, and conduct is anchored by **dharma** (knowing what is right). You don't fight the lower; you **outgrow it by tasting the higher**.
 
 ## Layer 1 — Practice (What must be done?)

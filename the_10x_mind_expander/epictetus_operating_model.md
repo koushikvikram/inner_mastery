@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Dan Sullivan, *The 10x Mind Expander*
 
+
+![Epictetus Operating Model — Dan Sullivan, *The 10x Mind Expander*](./epictetus_operating_model.png)
+
 > Source frame: 10x is **easier than 2x** — 2x can be brute-forced (longer hours, late nights), and so it never demands the structural overhaul that produces freedom; 10x is so massive it *cannot* be done by working harder, which forces a different way. The mechanism is **Mental Time Travel** — speak about 10x as if it has *already happened*, then look back at today as the past. Confidence is the *output*, not the input — drive growth through the **4 C’s**: **Commitment → Courage → Capability → Confidence**. Look at **Historical Proof** (you have already 10x’d several times). Build **Unique Ability Teamwork** ("Grow or Go"); treat hires and tools as **Multipliers**, not costs. **Technology = teamwork made automatic** — geared for exponential outputs, dangerous for linear minds. Shed the **9 dead mindsets** (linear, settling down, "enough," blame, permission, control of exponentials, negative relationships, courage-free future, "giving back"). Use the **Number 21 trick** to defuse social judgment. Final paradox: **exponential results take less time than linear ones.**
 
 ## Layer 1 — Practice (What must be done?)

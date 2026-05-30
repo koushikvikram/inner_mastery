@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Osho, *Courage: The Joy of Living Dangerously*
 
+
+![Epictetus Operating Model — Osho, *Courage: The Joy of Living Dangerously*](./epictetus_operating_model.png)
+
 > Source frame: life is not a fixed script; it is an unpredictable mystery. The search for total security is spiritual imprisonment. Courage is not fearlessness; it is movement into the unknown *despite* fear. The **head** is calculating, memory-driven, and safety-seeking; the **heart** is trusting, alive, and risk-ready. Intelligence means functioning without rigid conclusions, learning through mistakes, and staying responsive to the moment. Fear is "no contact with existence"; love is the restoration of contact. Growth moves through four deepening stages: **sex -> love -> prayer -> meditation**.
 
 ## Layer 1 — Practice (What must be done?)

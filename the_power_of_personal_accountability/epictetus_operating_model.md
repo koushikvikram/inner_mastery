@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Samuel & Chiche, *The Power of Personal Accountability*
 
+
+![Epictetus Operating Model — Samuel & Chiche, *The Power of Personal Accountability*](./epictetus_operating_model.png)
+
 > Source frame: accountability is not blame — it is **"doing what we say we are going to do" and taking action consistent with desired outcomes**. After any challenging situation, your **intention** is the pivot that sends you down one of two paths. The **Victim Loop** is a downward spiral: **Ignore → Deny → Blame → Rationalize → Resist → Hide**, producing the toxic emotions of **guilt, resentment, and mistrust**. The **Accountability Loop** ascends: **Recognize → Own → Forgive → Self-Examine → Learn → Take Action**. Accountability is not perfection but a **feedback-and-recovery mechanism** — like Apollo, which was **off-course 90% of the time** yet reached the moon through constant correction. The hidden saboteur is often the **fear of success** (the weight of the driver's seat), not just the fear of failure. Don't be the snowflake that feels no responsibility in the avalanche; become the **CEO of your own life**.
 
 ## Layer 1 — Practice (What must be done?)

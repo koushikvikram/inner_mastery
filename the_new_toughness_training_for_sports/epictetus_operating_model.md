@@ -1,5 +1,8 @@
 # Epictetus Operating Model — James E. Loehr, *The New Toughness Training for Sports*
 
+
+![Epictetus Operating Model — James E. Loehr, *The New Toughness Training for Sports*](./epictetus_operating_model.png)
+
 > Source frame: **toughness is a learned, trainable skill — not an inherited trait** ("the limiting factor for most athletes is not talent but toughness"). The target is the **Ideal Performance State (IPS)**: confident, relaxed-yet-alert, energized, focused, automatic, ready for fun. Loehr's **software–hardware model** frames the body as hardware, talent (read-only) and skill (upgradable) as software, and **emotion as the current** that lets hardware run software — **empowering currents** (confidence, fun, fighting spirit, energy) optimize the system; **disempowering currents** (fear, rage, fatigue, discouragement) shut it down. Because emotions are **biochemical/neurochemical events**, toughness is physical. Four markers define it — **emotional flexibility, responsiveness, strength, resiliency** — and the operator's job is to be a **technician of the internal current**, deploying the **Performer Self** (the actor's persona) over the **Real Self** (how you actually feel) to **manufacture IPS on demand**, balanced always by **recovery**. Dan Jansen logged it daily for three years before his world-record gold.
 
 ## Layer 1 — Practice (What must be done?)

@@ -1,5 +1,8 @@
 # Epictetus Operating Model — David Allen, *Getting Things Done: The Art of Stress-Free Productivity*
 
+
+![Epictetus Operating Model — David Allen, *Getting Things Done: The Art of Stress-Free Productivity*](./epictetus_operating_model.png)
+
 > Source frame: your **mind is for having ideas, not holding them**. Modern knowledge work has no edges, morphs constantly, and is always-on, producing **ambient angst** — the physiological cost of carrying **open loops** (unmanaged commitments) in mental **RAM**. The cure is not working harder but **appropriate engagement**: get 100% of "stuff" out of your head into a **trusted system**, then run the five-stage workflow — **Capture → Clarify → Organize → Reflect → Engage**. Clarity comes from defining outcomes ("what does *done* look like?") and the very next **physical, visible action** ("what does *doing* look like?"). The reward is **mind like water**: a state of relaxed control that responds to input appropriately — no overreaction, no underreaction — so you can be fully present.
 
 ## Layer 1 — Practice (What must be done?)

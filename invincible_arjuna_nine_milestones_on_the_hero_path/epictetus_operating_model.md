@@ -1,5 +1,8 @@
 # Epictetus Operating Model — *Invincible Arjuna: Nine Milestones on the Hero Path*
 
+
+![Epictetus Operating Model — *Invincible Arjuna: Nine Milestones on the Hero Path*](./epictetus_operating_model.png)
+
 > Source frame: Arjuna’s real weapon is not the **Gandiva** but the **sword of clarity and shield of discrimination** (*viveka*). His mastery is **Ekagrata** — one-pointed concentration that can see only "the eye of the bird." Identity is a **Guna** (literally "that which multiplies") — names like **Vijaya** (commit until victory), **Dhananjaya** (conqueror of fortune), **Sabyasachi** (ambidextrous mastery) describe discovered powers, not labels. The path is **Sadhana / Practice over Habit** — a deliberate calibration that purges the **Five Pollutants** (greed, anger, lust, jealousy, ego). **Situational Intelligence** comes from reading *Dvandva* (duality, the bear vs. crocodile context). **Arjuna grows by giving** — Mayasura the demon-architect becomes an ally; the grain of corn becomes a forest only by sacrifice. Movement: from **fighter** ("you vs. I") to **warrior** ("we"); from **Nara** to **Narayana**.
 
 ## Layer 1 — Practice (What must be done?)

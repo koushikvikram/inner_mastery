@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Jeyamohan
 
+
+![Epictetus Operating Model — Jeyamohan](./epictetus_operating_model.png)
+
 > Source frame: for Jeyamohan, writing is not self-expression but **seeing clearly** — the foundation of craft is **observation (கவனித்தல்)**, the disciplined, patient attention that lets reality reveal itself. Great work begins not with cleverness but with **listening**: to people, to language, to the silent structure beneath events. **Intuition (உள்ளுணர்வு) can be sharpened** — it is not mystical luck but the trained perception that accumulates through years of attention, reading, and reflection. The writer's task is to give form to what is observed through relentless **literary discipline**: the first line of a novel matters, the daily labor matters, and craft is built sentence by sentence. Perception precedes language; the deeper you see, the truer you write — and the same attention that makes a writer makes a fuller human being.
 
 ## Layer 1 — Practice (What must be done?)

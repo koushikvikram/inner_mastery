@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Paddy Upton, *The Barefoot Coach*
 
+
+![Epictetus Operating Model — Paddy Upton, *The Barefoot Coach*](./epictetus_operating_model.png)
+
 > Source frame: dominance comes from the **radical surrender of the ego**. Become a "**complete nobody**" before leading; without that, expertise is a mask. **Stop instructing, start asking** — the **Power Paradox**: the more power a leader appropriates, the less actual influence they hold (90% of instructions forgotten in 3 months; 85% retention from coaching). Build excellence on **strengths, not fixed weaknesses** — the Sehwag move (teach ducking, don’t fix the hook). Find asymmetric advantage in the "**rats and mice**" (the tailender 83-run protocol). Innovation is **subtraction** — shed the "**blazers and ties**" of useless tradition; protect the player’s **storytelling** (Gambhir’s shoes). **Vulnerability** is a leadership superpower — dismantle the **myth of mental toughness** ("inner substance" over "outer show"). The crack is where the light gets in.
 
 ## Layer 1 — Practice (What must be done?)

@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Thirukkural
 
+
+![Epictetus Operating Model — Thirukkural](./epictetus_operating_model.png)
+
 > Source frame: Thiruvalluvar's 1,330 **couplets (kural)** compress an entire ethic of living into concise, memorizable maxims, organized in three books: **Aram (virtue)** — right conduct and inner character; **Porul (wealth/polity)** — competence, action, and worldly affairs conducted ethically; and **Inbam (love)** — the life of affection and intimacy. The work's power is that ethics are **operational**: it prizes **fearlessness (achamillai)** in righteous action, **knowledge/discernment (arivudaimai)** that guards against error, and disciplined **conduct and speech** as the visible test of character. Virtue is not abstract — it shows in how you act, how you speak, and how you handle desire, anger, and others. The kural method is to hold a short, sharp maxim that fits any situation, letting it shape decision and behavior in the moment. Right conduct first; wealth and love rest on it.
 
 ## Layer 1 — Practice (What must be done?)

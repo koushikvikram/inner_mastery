@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Cristiano Ronaldo (Discipline Mentality)
 
+
+![Epictetus Operating Model — Cristiano Ronaldo (Discipline Mentality)](./epictetus_operating_model.png)
+
 > Source frame: success is not a mystical anomaly — it is a *map* that almost no one is willing to walk. The map is built from **non-negotiable consistency**, **mental strength forged in resistance**, **identity-based performance** ("in my mind, I'm always the best"), the **compounding extra 30–40 minutes**, and a **utilitarian lifestyle** (white chicken, salad, water; sleep / recovery / nutrition treated as part of training, not extras). The mind is a "box of surprises" that must be actively managed; talent without work is nothing; the bill must be paid every day.
 
 ## Layer 1 — Practice (What must be done?)

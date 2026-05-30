@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Adam Grant, *Give and Take*
 
+
+![Epictetus Operating Model — Adam Grant, *Give and Take*](./epictetus_operating_model.png)
+
 > Source frame: success is shaped by **reciprocity style**. The world contains **Takers** (get more than they give), **Matchers** (tit-for-tat), and **Givers** (other-focused). At the top *and* the bottom of any field you find Givers — but only one type makes it to the top: the **Otherish** Giver, who has high concern for others *and* high concern for self. The mechanics are: the **Five-Minute Favor**, the strength of **Dormant Ties**, **Powerless Communication** (vulnerability, asking, advice-seeking) that earns **Prestige** rather than Dominance, **Expedition Behavior** (group mission over personal credit), and protection against **Takers in Givers’ clothing** through **Sincerity Screening**. Avoid the burnout trap by **chunking** your giving and tying it to **visible impact**.
 
 ## Layer 1 — Practice (What must be done?)

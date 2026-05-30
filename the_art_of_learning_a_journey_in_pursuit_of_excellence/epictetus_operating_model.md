@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Josh Waitzkin, *The Art of Learning*
 
+
+![Epictetus Operating Model — Josh Waitzkin, *The Art of Learning*](./epictetus_operating_model.png)
+
 > Source frame: the talent isn’t chess or Tai Chi — it is the **art of learning** itself. External adulation is a "**hidden hollow**"; growth requires returning to the "**sweaty-palmed sense of contentment**" of private, intense reflection. Build the **Soft Zone** (a blade of grass that bends in the hurricane) — not the brittle **Hard Zone** that needs cooperative environments. Embrace **Investment in Loss**: existential crises are not interruptions, they are curriculum. Internalize fundamentals via "**Numbers to Leave Numbers**" / **Form to Leave Form** — knowledge moves from conscious to unconscious, until different domains begin to inform each other (**barrierlessness**). Choose a **guide, not an authority** — protect the natural voice. Make **smaller circles**: depth in the smallest unit yields the largest spontaneous power.
 
 ## Layer 1 — Practice (What must be done?)

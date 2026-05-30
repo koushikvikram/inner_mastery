@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Tim Grover, *Relentless*
 
+
+![Epictetus Operating Model — Tim Grover, *Relentless*](./epictetus_operating_model.png)
+
 > Source frame: there are three levels — **Cooler** (good, follower, refuses to take a side), **Closer** (great, clutch in *familiar* pressure, panics in unexpected pressure), and **Cleaner** (unstoppable, owns the situation, never satisfied). The Cleaner’s engine is **"Don’t think"** — the **Zone** is icy calm, where preparation has converted thinking into **instinct** (a master’s reflex). Power is fueled by the **Dark Side** (raw, untamed drive — the only state where you’re 100% you). Most emotions are weakness; only **controlled anger** ("blue-hot") is fuel. The **Relentless 13** are all labeled #1 because each is non-negotiable. The Cleaner’s **glass is never full** — every win is followed by *Next*.
 
 ## Layer 1 — Practice (What must be done?)

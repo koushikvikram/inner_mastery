@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Tim Grover, *Winning*
 
+
+![Epictetus Operating Model — Tim Grover, *Winning*](./epictetus_operating_model.png)
+
 > Source frame: **Winning is uncivilized** — hard, nasty, unpolished, unforgiving, unapologetic. Motivation is a **sugar high**; the elite are already kicking their own ass. The formula is **MIND > FEELINGS**: master the scale of anger (Calm → Annoyed → Mad → Pissed → Angry → Enraged) and operate in **Controlled Rage** — calm and aggressive simultaneously. **Balance is a lie** for those who want to win — invoke the **IDGAF Muscle** to delete distractions and disappoint the right people. Be **Different** — operate at the **.0001% edge** (training on game day, steak before tip-off, biceps for intimidation). Greatness cycles **Paradise → Hell → Paradise**; survival in hell is built on the **Four Rings of Winning** — Talent (outer), Intelligence, Competitiveness, **Resilience (center)**. The pieces don’t pick themselves up — *they* pick you up, and you come back stronger.
 
 ## Layer 1 — Practice (What must be done?)

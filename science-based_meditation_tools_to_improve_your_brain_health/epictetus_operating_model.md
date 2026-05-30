@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Dr. Richard Davidson, *Science-Based Meditation Tools to Improve Your Brain Health*
 
+
+![Epictetus Operating Model — Dr. Richard Davidson, *Science-Based Meditation Tools to Improve Your Brain Health*](./epictetus_operating_model.png)
+
 > Source frame: well-being is a **trainable skill**, not luck or environment, rooted in **neuroplasticity**. The minimum effective dose is the **"Richie Five"** — five minutes a day for 30 days — which measurably lowers **IL-6** (inflammation), shifts the microbiome, and strengthens the **superior longitudinal fasciculus** linking the executive network and the **default mode network**. The agitation beginners feel is the **"lactate of the mind"**: the adaptation stimulus, not failure — each time you notice wandering and return, that *is* the rep, built on **meta-awareness** (knowing what the mind is doing). The aim is to turn **states into traits** by reducing **"stickiness"** (affective hysteresis), anchoring practice to **social zeitgebers**, and training the **"no-go" response** against stimulus-captured attention (the phone opened 152×/day). And flourishing is **contagious** — your baseline calm raises the people in your orbit.
 
 ## Layer 1 — Practice (What must be done?)

@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Sourav Ganguly, *A Century Is Not Enough*
 
+
+![Epictetus Operating Model — Sourav Ganguly, *A Century Is Not Enough*](./epictetus_operating_model.png)
+
 > Source frame: in elite arenas the path is binary — "**India or nothing.**" There is no lateral safety net. Survival in this single-option world is built on **cognitive pre-scripting** (visualizing the specific delivery, the specific shot), **zero-ego investment** (treating minor fixtures with Test-match intensity), **psychological safety as leadership currency** ("I shall back you even if you fail"), and **calculated counter-attack** (*Bapi bari ja* — step out toward the threat, fly higher than the storm). Resilience over revenge. Pride over survival. Darkness has an expiry date.
 
 ## Layer 1 — Practice (What must be done?)

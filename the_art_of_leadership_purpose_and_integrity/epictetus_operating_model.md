@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Erik Schön, *The Art of Leadership* (modern *Tao Te Ching*)
 
+
+![Epictetus Operating Model — Erik Schön, *The Art of Leadership* (modern *Tao Te Ching*)](./epictetus_operating_model.png)
+
 > Source frame: in VUCA, **purpose beats pressure** — *Dào* (foot + head) literally means "to give direction to your steps." **Wúwéi** is "doing useful things and intervening wisely" — not passivity, but **conditions–consequences** strategy that creates favorable upstream factors. **Be like water**: formless, yielding, "benefits everything without contending." Lead **as a service** — take the lower place, refuse the heroic-leader role, until the team says, *"We did it ourselves."* **Stop flipping the small fish** — large organizations are spoiled by over-handling. Embrace **daring to unlearn**: shed *epistemic sclerosis* — the hardening of categories that blinds you to reality. The four capabilities: **Effective, Facilitative, Purposive, Wholistic**. Yin–Yang **correlative pairs** (alignment–autonomy, expected–surprise) are how the system breathes.
 
 ## Layer 1 — Practice (What must be done?)

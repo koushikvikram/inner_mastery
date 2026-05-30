@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Mark Manson, *Values & the One Principle Highly Successful People Share*
 
+
+![Epictetus Operating Model — Mark Manson, *Values & the One Principle Highly Successful People Share*](./epictetus_operating_model.png)
+
 > Source frame: you are always "giving a [__]" — attention is hardwired, so the real question is *what* you choose to prioritize. The quality of your life is the quality of your **problems**; happiness is not the absence of struggle but the presence of meaningful struggle ("which struggles am I happy to have?"). Good values pass three filters: **controllable**, **reality-based**, and **socially constructive** — people-pleasing fails the first, illusions fail the second, ego-in-disguise fails the third. Motivation is the *effect* of action, not the cause: the **"Do Something" principle** and **minimum viable action** beat waiting for inspiration. Extraordinary success demands a **contrarian take that is correct, executed with conviction** — being a pariah before a peer. And if you don't want the **process**, you don't want the **result**; **Manson's Law of Avoidance** says you'll dodge whatever threatens your identity, while **memento mori** and a **time audit** cut through the **tyranny of choice**.
 
 ## Layer 1 — Practice (What must be done?)

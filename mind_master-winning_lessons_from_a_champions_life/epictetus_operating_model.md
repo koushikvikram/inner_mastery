@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Mind Master (Viswanathan Anand)
 
+
+![Epictetus Operating Model — Mind Master (Viswanathan Anand)](./epictetus_operating_model.png)
+
 > Source frame: elite performance is the synthesis of *tactical preparation*, *psychological resilience*, and *adaptive learning*. Strategy is just long-term tactics. Memory is contextual (patterns/stories), not photographic. Predictability is the silent long-term hazard. The modern edge is cognitive flexibility — including the willingness to relinquish ego in front of better tools (AI).
 
 ## Layer 1 — Practice (What must be done?)

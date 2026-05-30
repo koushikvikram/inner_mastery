@@ -1,5 +1,8 @@
 # Epictetus Operating Model — R. Ashwin, *I Have the Streets*
 
+
+![Epictetus Operating Model — R. Ashwin, *I Have the Streets*](./epictetus_operating_model.png)
+
 > Source frame: world-class skill can be born in dust, not academies. Ashwin’s **sodakku** (carrom ball) was forged on the 1st Street of Ramakrishnapuram with a tennis ball and a "current" rule. The book’s operating frame is: **kutti cricket resourcefulness** (constraint as innovation), **bedrest exile** (medical confinement turned into mental Test matches and left-handed adaptation), the **"never just a nets bowler" vow** (refuse the indifferent role; become a peer), the **Vasu doctrine** (line is mastered by run-up; length is optional; revs are involuntary — focus on the setup), **disciplined unorthodoxy** (move mid-on back, set traps, defy the "control narrative"), and the **bird with wings** moment (when the small pond can no longer hold you).
 
 ## Layer 1 — Practice (What must be done?)

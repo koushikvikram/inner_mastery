@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Richard J. Davidson, *The Four Pillars of a Healthy Mind*
 
+
+![Epictetus Operating Model — Richard J. Davidson, *The Four Pillars of a Healthy Mind*](./epictetus_operating_model.png)
+
 > Source frame: well-being is a **skill**, not a trait of luck, and the brain is **never fixed** — it is sculpted by experience "wittingly or unwittingly." The choice is whether you remain an unwitting victim of your environment or become the **intentional architect** of your own mind through **neuroplasticity**. A healthy mind rests on **four trainable pillars**: **Awareness** (focus + meta-awareness, knowing what the mind is doing), **Connection** (appreciation, kindness, compassion), **Insight** (changing your *relationship* to the self-narrative, seeing it as a "constellation of thoughts"), and **Purpose** (a sense of direction that reaches even into mundane chores). Change requires **procedural learning** (practice), not just **declarative learning** (knowing about) — and it works fast: **seven hours** over two weeks measurably strengthened the prefrontal cortex–ventral striatum circuit. The mandate is **mental hygiene as the new toothbrushing** — as little as **three minutes a day**.
 
 ## Layer 1 — Practice (What must be done?)

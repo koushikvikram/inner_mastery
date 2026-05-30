@@ -1,5 +1,8 @@
 # Epictetus Operating_Model — Stutz, *Overcoming Dissatisfaction Through Action*
 
+
+![Epictetus Operating_Model — Stutz, *Overcoming Dissatisfaction Through Action*](./epictetus_operating_model.png)
+
 > Source frame: the "Neutral Observer" model — analyzing causes endlessly while nothing moves — is a crisis. The cure is the **Active Interventionist**: provide a *concrete tool in every session*. Confidence is a **byproduct, never a prerequisite**: it stands on the **Action Pyramid** — **Faith → Action → Confidence**. The default cultural trap is **Universe One** (the World of Numbers — money, status, comparison) which cannot manufacture meaning. Reality is the **Three Unavoidables**: *Pain, Uncertainty, Constant Work*. Satisfaction is impossible alone — it requires the **Higher Bond**, accessed through freely chosen **Sacrifice**. **Reverse Indicators** (guilt, shame, the "Unpleasant Space") are *signals you are in the right room*, not pathologies. The intellect avoids; the cure is to **Fly Under the Banner of Ignorance** — act in the **World of Small Things** without knowing why. Recovery happens via the **Turnaround**, a U-shaped recovery from the nadir, repeated indefinitely under **Spiritual Poverty**: *wake up with nothing every day*.
 
 ## Layer 1 — Practice (What must be done?)

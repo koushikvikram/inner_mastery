@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Bill Beswick, *Elite Performance Psychology*
 
+
+![Epictetus Operating Model — Bill Beswick, *Elite Performance Psychology*](./epictetus_operating_model.png)
+
 > Source frame: high performance is the **battle of you versus you** — every morning a binary choice between the **fighter** (takes responsibility, faces challenge) and the **victim** (makes excuses, blames environment). Greatness requires crossing the **line of responsibility** from passenger to pilot, and developing a **Performer Self** (the assertive persona you project at high stakes) distinct from your **Real Self**. Talent carries you through Steps 1–7 of the **10 Steps to Greatness**; at **Step 7 — the moment of truth — character takes over** ("enough talent plus great character"). "Genetics deals the cards, but environment plays the hand," and **attitude is a choice** (an "A for Attitude" can beat B-level talent). The work is to **love the process** over the outcome, **raise your bottom line** of consistency rather than chase perfection, and answer three brutal questions: what do you want, how badly, and how much will you suffer.
 
 ## Layer 1 — Practice (What must be done?)

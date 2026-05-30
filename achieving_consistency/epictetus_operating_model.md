@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Achieving Consistency
 
+
+![Epictetus Operating Model — Achieving Consistency](./epictetus_operating_model.png)
+
 > Source frame: consistency is not a personality trait you either have or lack — **it is what your system produces**. Formally: **consistency is the visible result of clear priorities, supporting structures, and repeated aligned action over time.** It emerges from three chains: (1) **attention + honest examination → reflection → clarity → clear priorities**; (2) **understanding cause & effect → intentional design → supporting structures**; (3) **chosen importance + accepted cost → commitment → discipline → repeated aligned action**, with **feedback** keeping repetition from becoming blind habit. The shift is from *identity to architecture*: stop asking "how do I become consistent?" and start asking what hasn't been clarified, which priorities you're pretending are equal, which structures are missing, what costs you haven't accepted, and where you're relying on motivation instead of design. **Consistency is alignment repeated over time.**
 
 ## Layer 1 — Practice (What must be done?)

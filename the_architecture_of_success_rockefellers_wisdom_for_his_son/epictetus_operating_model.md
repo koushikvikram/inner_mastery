@@ -1,5 +1,8 @@
 # Epictetus Operating Model — *38 Letters: The Architecture of Success — Rockefeller’s Wisdom for His Son*
 
+
+![Epictetus Operating Model — *38 Letters: The Architecture of Success — Rockefeller’s Wisdom for His Son*](./epictetus_operating_model.png)
+
 > Source frame: Rockefeller’s deepest strategy was never written for the public — it was a multi-decade correspondence to his son building a **rigorous psychological architecture** of wealth and character. Core doctrines: **Origins ≠ destiny** ("men of privilege without power are waste-material"); **luck is the remnant of design** — "everyone is the architect of his own destiny"; **work as pleasure = heaven, work as duty = hell** — and the real wage is the *character* you become, not the salary; **"Do It Now"** — perfect conditions are a myth, "habits are like ropes" that thicken with repetition; **giving crutches is cruelty** — wild boars who accept the free lunch lose their survival instinct; **playing the fool** is strategic — *low-profile negotiation* generates information asymmetry ("a smart person who knows how to play the fool is the truly smart one"); **ambition is the rudder** — without a goal big enough to inspire the soul, life drifts onto "the beach of disappointment"; **the only true failure is mental bankruptcy** — losing your internal capital (faith, ambition, willingness to act). The ending is just the beginning — every success is the start of a new dream.
 
 ## Layer 1 — Practice (What must be done?)

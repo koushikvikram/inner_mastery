@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Stutz, *Lessons for Living*
 
+
+![Epictetus Operating Model — Stutz, *Lessons for Living*](./epictetus_operating_model.png)
+
 > Source frame: mental health is "the ability to accept our fate with enthusiasm." Reality has **five non-negotiables**: (1) life includes pain and adversity, (2) the future is uncertain, (3) accomplishment requires discipline, (4) you are not special, (5) you cannot avoid these. The internal adversary is **Part X** — diagnosed by **PRIM** (Primitive, Reward, Injury, Must) — a virus that hates the moving whole because in flow there is no "specialness." Wisdom is the **Intelligence of the Will**: it is in the world, only accessible by *acting*. Three principles of action: **Speed, Density, Nightly Review**. Three Stutz "tools" recur: **Sacred Time** (submission, commitment, patience), **Active Love** (concentration, transmission, penetration), and **Gratefulness** (a tactical weapon, not a feeling).
 
 ## Layer 1 — Practice (What must be done?)

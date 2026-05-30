@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Erik Schön, *The Art of Strategy* (Sun Tzu × Boyd × Wardley)
 
+
+![Epictetus Operating Model — Erik Schön, *The Art of Strategy* (Sun Tzu × Boyd × Wardley)](./epictetus_operating_model.png)
+
 > Source frame: in VUCA, planning is a liability — strategy is **architecting**. Past success is a trap (**Inertia** — Blockbuster could not abandon late fees). Innovation is a **Snowmobile**: *analysis* (deconstruct) + *synthesis* (recombine) across unrelated domains. Stop planning, start **mapping** (Wardley) — anchor on **User Need**; track evolution from **Genesis → Custom Built → Product → Commodity / Utility**; respect the **climatic patterns** the rules of supply and demand impose. Inside the OODA loop, the **second O — Orientation** — is the real engine; the goal is to *disorient* the opponent, not just out-pace them. The skill of skills (Sun Tzu) is **winning without fighting**: disrupt strategy, then alliances, then engage; copying competitors is the wasteful "attack on cities." Build via **Aptitude × Attitude**: **Explorers, Villagers, Town Planners** — match the human culture to the evolutionary stage.
 
 ## Layer 1 — Practice (What must be done?)

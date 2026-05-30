@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Source Book of Ancient Indian Psychology
 
+
+![Epictetus Operating Model — Source Book of Ancient Indian Psychology](./epictetus_operating_model.png)
+
 > Source frame (Kuppuswamy, drawing from Upanishads, Samkhya-Yoga, Buddhism, Jainism, Charaka): *Atmanam Viddhi* — know the Self. The chariot model is the operating diagram: **Atman** (the lord) → **Buddhi** (charioteer / intellect) → **Manas** (reins / mind) → **Indriyas** (horses / senses) → **Body** (chariot). The two pedals are **Abhyasa** (steady practice) and **Vairagya** (detachment). Five **Kleshas** (afflictions) bend the wheel. Three **Gunas** (Sattva / Rajas / Tamas) are the chemistry of personality, in flux. The precondition for everything else is **Chittasthairya** — mental stability.
 
 ## Layer 1 — Practice (What must be done?)

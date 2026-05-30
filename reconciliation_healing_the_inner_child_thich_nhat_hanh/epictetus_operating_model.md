@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Thich Nhat Hanh, *Reconciliation: Healing the Inner Child*
 
+
+![Epictetus Operating Model — Thich Nhat Hanh, *Reconciliation: Healing the Inner Child*](./epictetus_operating_model.png)
+
 > Source frame: inside each of us lives a **wounded inner child** — old pain we have buried and avoided. Healing begins not by fixing or fleeing, but by **mindful breathing** that lets us **go back and embrace the child tenderly**, the way a mother holds a crying baby — *recognizing, embracing, and calming* the painful feeling rather than suppressing or being swept away by it. The energy of **mindfulness** holds the energy of suffering; "**suffering is not enough**" — we must also touch the wonders of life so peace and pain are held together. Practice includes **deep (compassionate) listening** and **loving speech**, both to the child within and to others; **selective watering** of wholesome seeds in our store consciousness; and **beginning anew**. Reconciliation reaches back to **parents and ancestors**, whose wounds we carry. The one who comforts and the one who suffers are not two — by holding our own pain with tenderness, we transform it.
 
 ## Layer 1 — Practice (What must be done?)

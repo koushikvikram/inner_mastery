@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Stutz, *True and False Magic* (A Tools Workbook)
 
+
+![Epictetus Operating Model — Stutz, *True and False Magic* (A Tools Workbook)](./epictetus_operating_model.png)
+
 > Source frame: most of us live inside a **Diorama** — a curated, intellectual frame designed to keep reality out. "Real Magic" begins only when the **Snapshot Life** is shattered. The cost of admission is the **Death Cookie**: willingness to eat fear and pain instead of fleeing them. Reality has **Three Unavoidables** — *Pain*, *Uncertainty*, *Constant Work* — which, integrated, form **The Y**, the only structure through which higher forces enter. The cultural default is **Universe One** (the merit system: math, money, status); the destination is **Universe Two** (the power system: instinct, creativity, present-moment process). The internal adversary, **Part X**, is diagnosed by **PRIM** (Past, Reward, Injury, Must). The two operating mechanics are **Speed** and **Density**. Growth is non-linear ("the Tents") — the moment of truth is the **unstoppable recovery** every time you fall off.
 
 ## Layer 1 — Practice (What must be done?)

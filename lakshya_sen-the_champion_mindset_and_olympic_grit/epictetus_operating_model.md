@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Lakshya Sen, *The Champion Mindset and Olympic Grit*
 
+
+![Epictetus Operating Model — Lakshya Sen, *The Champion Mindset and Olympic Grit*](./epictetus_operating_model.png)
+
 > Source frame: at the elite level physical skill is ubiquitous; the **differentiator is mental belief and resilience**. Sen engineers performance rather than leaving it to chance — redlining the heart rate to **140–150 BPM** in the warm-up hall so he never suffers a slow, jittery start, then defending **"Automatic Mode"** (a free-flowing flow state where 10,000 screaming fans go silent) with a **5-second-in / 5-second-out** breath. His sharpest weapon is **losing visualization**: rehearse defeat for days to "take the fear out of the head," which dissolves **winning-line fever** (the stiffening at 19-all/20-all where you shift from playing to win to playing not to lose). He masters environmental chaos — **drift** from arena AC and **Istora fever** crowd hostility — through deliberate end-selection, and he carries quiet **champion "arrogance"** ("no opponent is special") balanced against an inner calm. After injury and seven first-round exits, he recovered by trading **desperation for inner peace** — willing to lose ten more matches to find his rhythm, because sometimes you must let go of the result to achieve it.
 
 ## Layer 1 — Practice (What must be done?)

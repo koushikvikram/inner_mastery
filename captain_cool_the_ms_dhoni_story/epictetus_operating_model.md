@@ -1,5 +1,8 @@
 # Epictetus Operating Model — *Captain Cool: The MS Dhoni Story*
 
+
+![Epictetus Operating Model — *Captain Cool: The MS Dhoni Story*](./epictetus_operating_model.png)
+
 > Source frame: greatness can be built outside the traditional path. Dhoni’s rise was forged on **rusticity** ("rough-and-ready" methods that were never ironed out), an **accidental shift** (football goalkeeper → wicket-keeper) that became identity, **rejection-as-fuel** (the Karnail Singh trial → "I shall back class players"), the **18-yard tennis-ball grind** (where the helicopter shot was born), and **gut-feeling leadership** (Joginder over a senior, promote yourself in the 2011 final). The throughline: **stay grounded** in your roots, **trust your internal compass** more than the prevailing strategy, and **play straight from the heart** under pressure.
 
 ## Layer 1 — Practice (What must be done?)

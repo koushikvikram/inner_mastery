@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Daniel Coyle, *The Talent Code*
 
+
+![Epictetus Operating Model — Daniel Coyle, *The Talent Code*](./epictetus_operating_model.png)
+
 > Source frame: **greatness isn't born, it's grown** — a physical, cellular process. The "holy grail" is **myelin**, the insulation that **oligodendrocytes** wrap around fired nerve circuits, boosting signal speed ~100x and processing power up to **3,000x**; myelin only wraps (never unwraps), so habits and skills are built, not gifted. Skill is grown through **deep practice** in the **sweet spot** — the uncomfortable gap between what you can do and what you're reaching for — by **stuttering, squinting, and reaching** rather than **gliding** through the easy. Its three rules: **chunk** (absorb the whole, break into small pieces, slow it down), **repeat** attentively, and **learn to feel it** (the "Clint Eastwood squint," divine dissatisfaction). The fuel is **ignition** — hot bursts of motivation from **primal cues** like **future belonging** ("if she can do it, why can't I?") and lack of safety (the Scrooge Principle). Mistakes in the sweet spot aren't failures; they are the **signal that builds the broadband**.
 
 ## Layer 1 — Practice (What must be done?)

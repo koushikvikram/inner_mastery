@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Donella Meadows, *Thinking in Systems*
 
+
+![Epictetus Operating Model — Donella Meadows, *Thinking in Systems*](./epictetus_operating_model.png)
+
 > Source frame: a system is a set of **stocks** (accumulations) connected by **flows** (rates) and governed by **feedback loops** — *balancing* loops that seek a goal and *reinforcing* loops that amplify. Behavior is **latent in structure** (the Slinky bounces because of its coils, not the hand), so most problems are "messes" that won't yield to an external fix. **Delays** between action and effect cause overshoot and oscillation; **bounded rationality** means rational local actors produce collective dysfunction. Systems fall into recurring **traps** — policy resistance, tragedy of the commons, drift to low performance, success-to-the-successful, shifting the burden (addiction), rule-beating, seeking the wrong goal — each with a structural way out. The highest-yield interventions are **leverage points**, and Meadows' counterintuitive ranking puts *numbers* dead last and *paradigms / transcending paradigms, goals, rules, information flows, and self-organization* near the top. The endgame is not control but to **"dance with the system."**
 
 ## Layer 1 — Practice (What must be done?)

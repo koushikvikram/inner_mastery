@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Arjuna (Character)
 
+
+![Epictetus Operating Model — Arjuna (Character)](./epictetus_operating_model.png)
+
 > Source frame: Arjuna ("spotless," "glowing like silver") is the *Ati-maharathi* whose greatness is forged through **tireless practice** (the lantern goes out and he keeps shooting — "if I can eat in the dark, I can shoot in the dark"), **uncompromised integrity** (he accepts twelve months of exile rather than legalize his way out of breaking a brothers’ rule), the choice of the **charioteer over the army** (Krishna unarmed, vs the Narayani Sena), the **vulnerability of the Gita moment** ("I am confused about my duty"), and **strategic restraint** (refusing Uttara as wife to preserve the teacher–student bond, accepting her as daughter-in-law). Dharma is binding even when emotion is loud; the rule is followed even when an excuse is offered.
 
 ## Layer 1 — Practice (What must be done?)

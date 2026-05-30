@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Dethmer, Chapman & Klemp, *The 15 Commitments of Conscious Leadership*
 
+
+![Epictetus Operating Model — Dethmer, Chapman & Klemp, *The 15 Commitments of Conscious Leadership*](./epictetus_operating_model.png)
+
 > Source frame: at any nanosecond a leader is either **above the line** (open, curious, committed to learning) or **below the line** (closed, defensive, committed to being right) — there is no middle. Being below is a normal, **amygdala**-driven reaction to imagined threats to the ego. Leaders move through four states — **To Me** (victim), **By Me** (creator), **Through Me** (channel), **As Me** (oneness) — and the gateway from victimhood to creation is **radical responsibility**: locating cause inside, not blaming outward. The master skill is **drift/shift**: everyone drifts below the line; conscious leaders shift back fast. Supporting practices include exiting the **victim-villain-hero drama triangle**, feeling all feelings as **"e-motion"** (the 90-second rule), speaking **unarguably** (thoughts/feelings/sensations), eliminating **gossip**, and treating **integrity as wholeness**. Your commitments are revealed by your results, not your words.
 
 ## Layer 1 — Practice (What must be done?)

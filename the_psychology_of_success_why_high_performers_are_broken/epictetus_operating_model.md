@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Dr. K, *The Psychology of Success: Why High Performers are Broken*
 
+
+![Epictetus Operating Model — Dr. K, *The Psychology of Success: Why High Performers are Broken*](./epictetus_operating_model.png)
+
 > Source frame: high-performer profiles often combine **dark assets** (terror of failure, conditional love) with **learnable behaviors** (healthy entitlement, dissatisfaction with contentment). The dark assets explain the engine but produce internal damage; *the learnable traits are where you build*. **Healthy entitlement** = high agency: belief that your time matters and your environment can be changed. **Dissatisfaction with contentment** = refusing the "fast-forward" trap of killing time once a baseline is met. The trap to avoid: success without security, where no medal can fill the inner void.
 
 ## Layer 1 — Practice (What must be done?)

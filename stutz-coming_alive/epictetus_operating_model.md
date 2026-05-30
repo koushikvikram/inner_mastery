@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Michels & Stutz, *Coming Alive*
 
+
+![Epictetus Operating Model — Michels & Stutz, *Coming Alive*](./epictetus_operating_model.png)
+
 > Source frame: change is not produced by understanding; it is produced by **inner action** that activates the **Life Force** and combats **Part X** — the irrational, invisible counterforce that weaponizes "unnecessary pain" to convince you growth is impossible. Part X uses **four pitfalls**: **Self-Gratification, Lethargy, Demoralization, Hurt Feelings.** Each has a corresponding tool: **Black Sun, Vortex, The Mother, The Tower.** All tools are **< 10 seconds**, used **at the moment** of the symptom, **repeatedly**. The first move is always **Labeling** — naming "this is Part X" — which separates soul from counterforce. Growth is **Sisyphean by design**: you push the boulder up, it rolls down, and the *pushing* is the weightlifting. Outcome over time: the **Transcendentals** — Truth, Beauty, Goodness.
 
 ## Layer 1 — Practice (What must be done?)

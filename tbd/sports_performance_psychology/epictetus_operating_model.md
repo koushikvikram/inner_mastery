@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Sports Performance Psychology
 
+
+![Epictetus Operating Model — Sports Performance Psychology](./epictetus_operating_model.png)
+
 > Source frame: elite performance is governed less by talent than by how the mind **appraises and regulates** pressure. The first lever is **stress appraisal** — the same physiological alarm read as a **challenge** ("go forward") rather than a **threat** ("run away") changes the entire response; **reappraisal** is the trainable shift from threat to challenge (Sam Martin; cognitive reappraisal). The second is **emotional granularity** — naming emotions precisely (journaling, an emotional vocabulary) instead of suppressing them, because suppression degrades performance. The third is **attention control** — focus is the hidden ingredient of excellence (Goleman's inner/other/outer focus; Dandapani's "awareness is a ball of light," concentration = keeping it on one thing); most people unwittingly *practice distraction*. The fourth is **anti-avoidance** — playing the long game, embracing the boring, not waiting to feel perfect, and not playing it safe (Beswick: fighter vs. victim; "What do you want? How badly? How much will you suffer?"). Underneath sits **arousal regulation** — meditation and breath to quiet Self 1 (the critical, overthinking mind) and trust Self 2 (the natural body; Gallwey's *Inner Game*).
 
 ## Layer 1 — Practice (What must be done?)

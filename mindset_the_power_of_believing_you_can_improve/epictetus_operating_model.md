@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Carol Dweck, *Mindset*
 
+
+![Epictetus Operating Model — Carol Dweck, *Mindset*](./epictetus_operating_model.png)
+
 > Source frame: every domain (sports, business, relationships, education) splits between the **Fixed Mindset** (qualities are carved in stone; effort means low ability; failure = identity verdict) and the **Growth Mindset** (qualities can be cultivated; effort is the path; failure = information). Praising **intelligence** creates fragility; praising **process, effort, and strategy** creates growth. The "**naturals**" are usually the hardworkers — Edison had 30 assistants; Mozart labored 10+ years; MJ was cut from his high school varsity. The most powerful word in the model is **"yet"**: not "I can’t" but "I can’t *yet*."
 
 ## Layer 1 — Practice (What must be done?)

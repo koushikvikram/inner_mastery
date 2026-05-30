@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Bharat Sundaresan, *The Dhoni Touch*
 
+
+![Epictetus Operating Model — Bharat Sundaresan, *The Dhoni Touch*](./epictetus_operating_model.png)
+
 > Source frame: Dhoni operates a **selective mind** — the *Sherlock attic* that refuses lumber that doesn’t aid the task ("*Mera kya lena-dena usse?*"). He manages his **outlier brand** strategically (the rust-coloured mane was a marketing vessel; he discarded it once it had served its purpose). Leadership is the **Sentinel mindset** — he stood at the sentry post in the dark to feel how a *jawan* thinks; he led the Delhi-hotel evacuation like a military operation. Personnel is **Corporate-CEO** — managing superstar egos with fixed boundaries and **dot-ball** logic, not raw averages. **Dhoni Time** stretches the chase to put psychological burden on the bowler. Underneath all of it: **stay grounded** in MECON colony, **rejection-driven loyalty**, and the quiet **art of the deep breath** — being entirely present.
 
 ## Layer 1 — Practice (What must be done?)

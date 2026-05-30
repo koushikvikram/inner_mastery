@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Thich Nhat Hanh, *The Heart of the Buddha's Teaching*
 
+
+![Epictetus Operating Model — Thich Nhat Hanh, *The Heart of the Buddha's Teaching*](./epictetus_operating_model.png)
+
 > Source frame: this is the **alchemy of suffering** — turning lead into gold by *not running*. The architecture is the **Four Noble Truths** — **Dukkha** (recognize suffering), **Samudaya** (identify roots — including the **Four Nutriments**), **Nirodha** (healing is possible), **Marga** (the **Noble Eightfold Path**). The path runs through **Right View, Right Thinking, Right Mindfulness, Right Speech, Right Action, Right Diligence, Right Concentration, Right Livelihood**. Three **Dharma Seals**: **Impermanence, Nonself, Nirvana**. Three **Doors of Liberation**: **Emptiness, Signlessness, Aimlessness** (*Apranihita*) — *"there is nothing to do, nothing to realize"* because you are already what you seek. Four **Immeasurable Minds**: **Maitri** (love), **Karuna** (compassion), **Mudita** (joy), **Upeksha** (equanimity). The two engines: **Shamatha** (stopping, calming, resting, healing) and **Vipashyana** (deep looking, insight). Practical handles: tend the garden — care for the **sick tree** without overlooking the **healthy trees**; release your **cows** (notions you think you need); ask **"Are you sure?"** of every wrong perception; the wave does not need to die to become water — *the wave is already water*.
 
 ## Layer 1 — Practice (What must be done?)

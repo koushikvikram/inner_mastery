@@ -1,5 +1,8 @@
 # Epictetus Operating Model — J. Krishnamurti
 
+
+![Epictetus Operating Model — J. Krishnamurti](./epictetus_operating_model.png)
+
 > Source frame: the mind is **conditioned** — by culture, memory, belief, fear, and accumulated knowledge — and almost no one changes **radically** because we seek change as a gradual, comfortable process the conditioned self can manage. Krishnamurti's claim is that real transformation is not evolution in time but a **mutation in the present**: it happens through **choiceless awareness**, observing "what is" without the distorting filter of the observer. The deepest insight — **"the observer is the observed"** — dissolves the gap between the one who watches fear and the fear itself, ending the inner conflict that thought sustains. **Fear is the product of thought and time** (projecting forward, dragging the past), so freedom is not achieved by willpower or method but by seeing the whole structure instantly and completely. There is no path, no guru, no system — only **attention** so total that conditioning is seen and, in the seeing, ends.
 
 ## Layer 1 — Practice (What must be done?)

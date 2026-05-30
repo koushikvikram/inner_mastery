@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Jon Kabat-Zinn, *Wherever You Go, There You Are*
 
+
+![Epictetus Operating Model — Jon Kabat-Zinn, *Wherever You Go, There You Are*](./epictetus_operating_model.png)
+
 > Source frame: mindfulness is "**awareness that arises from paying attention on purpose, in the present moment, and non-judgmentally**" — not mysticism but a human **superpower** (*Homo sapiens sapiens*, the species aware that it is aware). The title is the whole teaching: you cannot escape yourself, so the present moment is the only time available for living, growing, and healing. The core move is shifting from **doing mode** (striving, automaticity, the "robot" running on a torrent of thought) into **being mode** — and the discipline is **non-doing** ("Don't just do something, sit there"). **Authentic acceptance** ("nothing happens next — this is it") is intelligence, not resignation; the **breath** is the ever-present anchor (you are *being breathed*); and **wakefulness is your already-present nature** (Hui-neng: "where could dust alight?"). It is **simple but not easy** — "not practicing is practicing," and ultimately life itself becomes the practice, held in the **one-thousand-year view**: "Be a light unto yourself."
 
 ## Layer 1 — Practice (What must be done?)

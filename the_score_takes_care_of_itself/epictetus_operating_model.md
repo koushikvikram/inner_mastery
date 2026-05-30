@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Bill Walsh, *The Score Takes Care of Itself*
 
+
+![Epictetus Operating Model — Bill Walsh, *The Score Takes Care of Itself*](./epictetus_operating_model.png)
+
 > Source frame: winning is a byproduct, not the target. The target is a taught, enforced **Standard of Performance** built from microscopic detail, professional conduct, and shared accountability. Leaders fail when they obsess over scoreboards, KPIs, or reputation and neglect the execution system. Walsh's answer is: **process over outcome**, **teacher over tyrant**, **scripting over improvisational panic**, **organizational archaeology over emotional collapse**, and a **hard edge** when core standards are violated. Champions behave like champions before they have trophies.
 
 ## Layer 1 — Practice (What must be done?)

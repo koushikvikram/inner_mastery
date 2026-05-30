@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Stutz & Michels, *The Tools*
 
+
+![Epictetus Operating Model — Stutz & Michels, *The Tools*](./epictetus_operating_model.png)
+
 > Source frame: *insight is the booby prize of personal growth.* Knowing why you’re stuck does not move you. **Attitudes** are weak (closed-loop thoughts inside the head); **tools** are *specific procedures used at a specific moment to combat a specific behavior*, connecting the user to **higher forces** beyond the individual mind. The book gives **five named tools** mapped to five recurring problems: **Reversal of Desire** (pain avoidance → Forward Motion), **Active Love** (the Maze of resentment → Outflow), **Inner Authority** (insecurity / Shadow → Self-Expression), **The Grateful Flow** (the Black Cloud of negativity → the Source), and the antidote to **Jeopardy** (quitting once it works → Willpower / Deathbed Perspective). Tools must be used **in under 10 seconds**, repeatedly, *especially when you don’t feel like it*.
 
 ## Layer 1 — Practice (What must be done?)

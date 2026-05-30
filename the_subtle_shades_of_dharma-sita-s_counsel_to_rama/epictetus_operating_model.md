@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Sita's Counsel to Rama, *The Subtle Shades of Dharma*
 
+
+![Epictetus Operating Model — Sita's Counsel to Rama, *The Subtle Shades of Dharma*](./epictetus_operating_model.png)
+
 > Source frame: in the Dandaka forest, **Sita** challenges **Rama** on the **subtle shades of dharma** — righteousness is not a fixed rulebook but a path "difficult to discern," knowable cleanly only by one without desire. She names **three sins to avoid**, ranked by severity: (1) **falsehood**, (2) **coveting another's wife**, (3) — worst — **hurting one who has not offended you (unprovoked violence)**. Her critique is the **paradox of the ascetic-warrior**: while wearing the *tapasvi*'s garb you should live by ascetic rules, and the bow is "firewood to fire" — for a *kshatriya*, the mere touch of the weapon breeds the itch to kill, and "to think is to act." Rama answers from a different hierarchy: the **sanctity of the given word** and the **duty to protect the vulnerable** *rishis* — "I may give up my life, Lakshmana, or Sita, but I must keep my promise." The model holds both poles: dharma is **context-dependent and role-bound**, weighed against the three sins, governed by promise-keeping, and disciplined by awareness that **the tools we carry shape the deeds we do**.
 
 ## Layer 1 — Practice (What must be done?)

@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Indian Psychology (Raghunath Safaya)
 
+
+![Epictetus Operating Model — Indian Psychology (Raghunath Safaya)](./epictetus_operating_model.png)
+
 > Source frame: psychology is the *outcome of the science and philosophy of the Self*. The Self (*Atman*) is pure consciousness; the mind (*Manas / Antahkarana*) is *subtle matter* — an instrument. The "I" is the witness, not the contents. Knowledge has three legitimate sources: *Pratyaksha* (perception), *Anumana* (inference), and *Sabda / Pratibha* (testimony / intuition). Consciousness pervades waking, dream, deep sleep, and *Turiya* — and the "I" persists across all four.
 
 ## Layer 1 — Practice (What must be done?)

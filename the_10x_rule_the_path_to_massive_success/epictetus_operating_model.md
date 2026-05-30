@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Grant Cardone, *The 10X Rule*
 
+
+![Epictetus Operating Model — Grant Cardone, *The 10X Rule*](./epictetus_operating_model.png)
+
 > Source frame: most people fail before they begin because they make a **mathematical error** — they wildly underestimate the action and resources required, then call it "realistic." 10X is two things, **not one**: **10X levels of thinking** *and* **10X quantities of action**. The single biggest problem is **obscurity** — domination is the only antidote. Success is not a choice; it is a **duty, obligation, and responsibility** — *"hungry-dog-on-the-back-of-a-meat-truck"* mentality. There are only **Four Degrees of Action**: **Do Nothing → Retreat → Normal → Massive**; **average is a failing formula** that collapses on every market contraction. Operate from the **Source mindset** (extreme ownership) — refuse the four marks of a victim. Goals are written **twice daily, in present tense, 10X what feels reasonable**. You know you’re taking enough action when you’re **creating new problems** and being labeled a workaholic. Strategy: **Expand, never contract** — Howard Schultz visited stores at 9 PM during the recession. Success is like **a breath of air** — last one was important; next one is more so.
 
 ## Layer 1 — Practice (What must be done?)

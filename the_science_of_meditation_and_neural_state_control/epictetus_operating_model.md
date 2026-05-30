@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Andrew Huberman, *The Science of Meditation and Neural State Control*
 
+
+![Epictetus Operating Model — Andrew Huberman, *The Science of Meditation and Neural State Control*](./epictetus_operating_model.png)
+
 > Source frame: meditation is not a monolithic "empty the mind" ritual but a **precision toolkit for the nervous system**. Benefits come from engaging a neural triad — the **left dorsolateral prefrontal cortex** (interpreter), the **anterior cingulate cortex** (monitors body signals), and the **insula** (integrates inner/outer) — and from deliberately moving attention along the **interoception ↔ exteroception** continuum (and the separate **interoception ↔ dissociation** continuum, where health is the U-shaped middle). Neuroplasticity is triggered by **refocusing** (the "staircase of refocusing"), not by staying perfectly focused, so the rule is **train against the grain**: do the practice opposite your current bias. **Breathing is the top-down remote** (inhale-biased = alert, exhale-biased = calm). Dampen the **default mode network** to be present (a wandering mind is an unhappy mind), use the **13-minute** focused protocol for trait change, reach for **NSDR / Yoga Nidra** for cortisol/dopamine recovery, and use **Space-Time Bridging** to stay perceptually flexible.
 
 ## Layer 1 — Practice (What must be done?)

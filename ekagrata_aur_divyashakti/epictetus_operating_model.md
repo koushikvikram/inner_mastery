@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Ekagrata aur Divyashakti
 
+
+![Epictetus Operating Model — Ekagrata aur Divyashakti](./epictetus_operating_model.png)
+
 > Source frame: the brain is a *dynamo* (gati-janya-vidyut-yantra); thought travels through *Akash*; concentrated, organized thought generates *Ojas* (personal magnetism). Practice is the engineering of attention.
 
 ## Layer 1 — Practice (What must be done?)

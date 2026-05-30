@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Goleman, Boyatzis & McKee, *Primal Leadership*
 
+
+![Epictetus Operating Model — Goleman, Boyatzis & McKee, *Primal Leadership*](./epictetus_operating_model.png)
+
 > Source frame: the **primal task** of leadership is emotional — to prime good feeling and drive a group's collective mood toward optimism. This works because the **limbic system is an open-loop system**: through **interpersonal limbic regulation**, **mirroring**, and **emotional contagion**, the leader becomes the strongest "seasoning" in the group's emotional soup. The leader's job is to create **resonance** (a reservoir of positivity that frees the best in people) and avoid **dissonance** (the "flooding" of an **amygdala hijack** that the **prefrontal cortex** failed to veto). The engine is **Emotional Intelligence** across four domains — Self-Awareness, Self-Management, Social Awareness, Relationship Management — deployed through a **repertoire of six styles** (Visionary, Coaching, Affiliative, Democratic, Pacesetting, Commanding). The "soft" climate is a hard asset: a 1% improvement in service climate predicts a 2% revenue increase, and climate drives 20–30% of business performance.
 
 ## Layer 1 — Practice (What must be done?)

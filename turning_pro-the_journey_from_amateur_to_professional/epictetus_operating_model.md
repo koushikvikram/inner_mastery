@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Steven Pressfield, *Turning Pro*
 
+
+![Epictetus Operating Model — Steven Pressfield, *Turning Pro*](./epictetus_operating_model.png)
+
 > Source frame: the amateur lives in a "morphine sleep," aware of a higher calling but paralyzed by **Resistance** — the malignant internal force that sabotages the work. To dodge the terror of the real thing, the amateur builds **shadow careers** (metaphors for the true calling that carry no real risk) and **addictions** (shadow forms that produce **incapacity** as their payoff), while fearing rejection by an imagined **tribe**. **Turning pro** is not a skill level but a **moral decision** — free but not easy — to stop fleeing and commit. The professional is defined by habits: showing up every day, mastering technique, and detaching from the fruits of labor. The core engine is **the practice** — a daily ritual in sacred space, paid in "psychological salary," that calls down inspiration; the Muse rewards "butt in the chair." The journey ends with the hero's **return**: a gift refined from one's own pain.
 
 ## Layer 1 — Practice (What must be done?)

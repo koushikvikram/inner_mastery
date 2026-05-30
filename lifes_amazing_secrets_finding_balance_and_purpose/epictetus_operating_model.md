@@ -1,5 +1,8 @@
 # Epictetus Operating Model — Gaur Gopal Das, *Life's Amazing Secrets*
 
+
+![Epictetus Operating Model — Gaur Gopal Das, *Life's Amazing Secrets*](./epictetus_operating_model.png)
+
 > Source frame: a balanced life is a car with **four wheels** — **Personal, Relationships, Work, Social Contribution** — steered by **Spirituality** (the wheel made of **Sadhana, Sanga, Sadachar, Seva**). Most "Successful but Stuck" people have mastered the mechanics and forgotten how to drive. The mind defaults to the **cumin-seed**: ignoring 31 healthy teeth to obsess over the one annoyance. Worry is a traffic jam — resolve it with the **Why Worry** flowchart (in control → act; not in control → release). Relationships work like a **bank account** — you cannot withdraw if you haven’t deposited; correct only after passing the **Four Critical Questions** (right person, right motive, right way, right time). Don’t become a **ghost** rushing past the music — **Press Pause**. Build gratitude through the **Three R’s** — Recognize, Remember, Reciprocate. Balance has two parts: **Alignment** (external) and **Attitude** (internal "air pressure").
 
 ## Layer 1 — Practice (What must be done?)
