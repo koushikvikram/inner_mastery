@@ -49,3 +49,16 @@ Surrender to God and put effort carefree and sincerely
 8.  [Yoga to Stimulate Pancreas| EP02 Yoga for Diabetes Management | Core Strength & Sugar Balance](https://www.youtube.com/watch?v=NbSgJafEnMY)
 9.  [3 Simple After‑Meal Habits to Control Blood Sugar Spikes (Doctor’s Guide)](https://www.youtube.com/watch?v=ZTv-hZlhnqo)
 10. [Anti-gravity exercise for diabetics: What it is and how to do it](https://timesofindia.indiatimes.com/life-style/health-fitness/fitness/anti-gravity-exercise-for-diabetics-what-it-is-and-how-to-do-it/articleshow/72050235.cms)
+
+## Local Resources
+
+1. [10-Minute Morning Vitality Flow](./10_minute_morning_vitality_flow/README.md)
+2. [Anti-Gravity Exercises for Diabetes Management](./anti_gravity_exercises_for_diabetes_management/README.md)
+3. [Diabetes Canada — South Asian Diabetes Management](./diabetes_canada/README.md)
+4. [Essential 3-Move Mobility Routine](./essential_3_move_mobility_routine/README.md)
+5. [Feel Better in 5](./feel_better_in_5/README.md)
+6. [Simple Yoga for Digestion and Diabetes](./simple_yoga_for_digestion_and_diabetes/README.md)
+7. [The Power 5 — HIIT to Improve Metabolic Health and Target Visceral Fat](./the_power_5_HIIT_to_improve_metabolic_health_and_target_visceral_fat/README.md)
+8. [The Soleus Secret — 3 After-Meal Habits to Control Blood Sugar Spikes](./the_soleus_secret_3_after_meal_habits_to_control_blood_sugar_spikes/README.md)
+9. [Yoga Asanas for Diabetes Management](./yoga_asanas_for_diabetes_management/README.md)
+10. [Yoga for Diabetes Management](./yoga_for_diabetes_management/README.md)
