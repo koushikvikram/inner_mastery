@@ -1,0 +1,34 @@
+site_name: Inner Mastery
+site_description: Personal mastery notes, study guides, diagrams, decks, flashcards, and source assets.
+site_url: https://koushikvikram.github.io/inner_mastery/
+repo_url: https://github.com/koushikvikram/inner_mastery
+repo_name: koushikvikram/inner_mastery
+
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: readthedocs
+  highlightjs: true
+
+nav:
+  - Home: README.md
+  - Study Index: INDEX.md
+  - LFS Asset Gallery: ASSETS.md
+  - Daily Routine: DAILY_ROUTINE.md
+  - Diabetes Systems View: diabetes_management_systems_view.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+
+extra_css:
+  - stylesheets/extra.css
+
+exclude_docs: |
+  .DS_Store
