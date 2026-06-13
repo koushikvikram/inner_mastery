@@ -1,0 +1,160 @@
+{
+  "name": "Building Better Habits",
+  "children": [
+    {
+      "name": "Why Brain Builds Habits",
+      "children": [
+        {
+          "name": "Automatic behavior"
+        },
+        {
+          "name": "Trial and error process"
+        },
+        {
+          "name": "Reduces cognitive load"
+        },
+        {
+          "name": "Mental shortcuts"
+        },
+        {
+          "name": "Reliable problem solutions"
+        }
+      ]
+    },
+    {
+      "name": "The Four-Step Habit Loop",
+      "children": [
+        {
+          "name": "Cue",
+          "children": [
+            {
+              "name": "Triggers behavior"
+            },
+            {
+              "name": "Predicts reward"
+            }
+          ]
+        },
+        {
+          "name": "Craving",
+          "children": [
+            {
+              "name": "Motivational force"
+            },
+            {
+              "name": "Desire to change state"
+            }
+          ]
+        },
+        {
+          "name": "Response",
+          "children": [
+            {
+              "name": "Actual habit performed"
+            },
+            {
+              "name": "Action or thought"
+            },
+            {
+              "name": "Depends on motivation and ability"
+            }
+          ]
+        },
+        {
+          "name": "Reward",
+          "children": [
+            {
+              "name": "End goal"
+            },
+            {
+              "name": "Satisfies craving"
+            },
+            {
+              "name": "Teaches brain what works"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Phases of Habit Formation",
+      "children": [
+        {
+          "name": "Problem Phase",
+          "children": [
+            {
+              "name": "Cue"
+            },
+            {
+              "name": "Craving"
+            }
+          ]
+        },
+        {
+          "name": "Solution Phase",
+          "children": [
+            {
+              "name": "Response"
+            },
+            {
+              "name": "Reward"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Four Laws of Behavior Change",
+      "children": [
+        {
+          "name": "Build a Good Habit",
+          "children": [
+            {
+              "name": "1st Law: Make it obvious"
+            },
+            {
+              "name": "2nd Law: Make it attractive"
+            },
+            {
+              "name": "3rd Law: Make it easy"
+            },
+            {
+              "name": "4th Law: Make it satisfying"
+            }
+          ]
+        },
+        {
+          "name": "Break a Bad Habit",
+          "children": [
+            {
+              "name": "Inversion 1: Make it invisible"
+            },
+            {
+              "name": "Inversion 2: Make it unattractive"
+            },
+            {
+              "name": "Inversion 3: Make it difficult"
+            },
+            {
+              "name": "Inversion 4: Make it unsatisfying"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Thorndike's Foundations",
+      "children": [
+        {
+          "name": "Puzzle box experiments"
+        },
+        {
+          "name": "Law of Effect"
+        },
+        {
+          "name": "Satisfying consequences lead to repetition"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "name": "The Truth About Talent",
+  "children": [
+    {
+      "name": "Genetic Influence",
+      "children": [
+        {
+          "name": "Predisposition vs predetermination"
+        },
+        {
+          "name": "Areas of opportunity"
+        },
+        {
+          "name": "Environmental context"
+        },
+        {
+          "name": "Natural inclinations"
+        }
+      ]
+    },
+    {
+      "name": "Personality and Habits",
+      "children": [
+        {
+          "name": "The Big Five Traits",
+          "children": [
+            {
+              "name": "Openness"
+            },
+            {
+              "name": "Conscientiousness"
+            },
+            {
+              "name": "Extroversion"
+            },
+            {
+              "name": "Agreeableness"
+            },
+            {
+              "name": "Neuroticism"
+            }
+          ]
+        },
+        {
+          "name": "Biological underpinnings"
+        },
+        {
+          "name": "Tailoring habits to personality"
+        }
+      ]
+    },
+    {
+      "name": "Optimizing Competition",
+      "children": [
+        {
+          "name": "Explore/Exploit trade-off"
+        },
+        {
+          "name": "Discovery Questions",
+          "children": [
+            {
+              "name": "Fun vs work"
+            },
+            {
+              "name": "Flow states"
+            },
+            {
+              "name": "Comparative returns"
+            },
+            {
+              "name": "Authentic feelings"
+            }
+          ]
+        },
+        {
+          "name": "Creating Your Own Game",
+          "children": [
+            {
+              "name": "Skill stacking"
+            },
+            {
+              "name": "Specialization"
+            },
+            {
+              "name": "Rewriting the rules"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hard Work and Potential",
+      "children": [
+        {
+          "name": "Clarifying effort focus"
+        },
+        {
+          "name": "Individual potential"
+        },
+        {
+          "name": "Reaching limits"
+        },
+        {
+          "name": "Avoiding luck as an excuse"
+        }
+      ]
+    }
+  ]
+}

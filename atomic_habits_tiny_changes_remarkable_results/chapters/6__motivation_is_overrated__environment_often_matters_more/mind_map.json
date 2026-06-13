@@ -1,0 +1,115 @@
+{
+  "name": "Motivation vs. Environment",
+  "children": [
+    {
+      "name": "Choice Architecture",
+      "children": [
+        {
+          "name": "Hospital cafeteria study"
+        },
+        {
+          "name": "Increased water availability"
+        },
+        {
+          "name": "Reduced soda sales by 11.4%"
+        },
+        {
+          "name": "Increased water sales by 25.8%"
+        }
+      ]
+    },
+    {
+      "name": "Behavioral Influences",
+      "children": [
+        {
+          "name": "Invisible hand of environment"
+        },
+        {
+          "name": "Lewin's Equation: B = f(P,E)"
+        },
+        {
+          "name": "Suggestion Impulse Buying"
+        },
+        {
+          "name": "Eye-level product visibility"
+        },
+        {
+          "name": "Obvious availability drives choice"
+        }
+      ]
+    },
+    {
+      "name": "Power of Human Vision",
+      "children": [
+        {
+          "name": "10 million visual receptors"
+        },
+        {
+          "name": "Greatest behavior catalyst"
+        },
+        {
+          "name": "Visual cue importance"
+        }
+      ]
+    },
+    {
+      "name": "Designing for Success",
+      "children": [
+        {
+          "name": "Make cues obvious"
+        },
+        {
+          "name": "Environment architecture"
+        },
+        {
+          "name": "Actionable examples",
+          "children": [
+            {
+              "name": "Medication by bathroom faucet"
+            },
+            {
+              "name": "Guitar in living room center"
+            },
+            {
+              "name": "Stationery on desk"
+            },
+            {
+              "name": "Apples in a display bowl"
+            }
+          ]
+        },
+        {
+          "name": "Sprinkle multiple triggers"
+        }
+      ]
+    },
+    {
+      "name": "Context as the Cue",
+      "children": [
+        {
+          "name": "Habits linked to locations"
+        },
+        {
+          "name": "Relationship to spaces"
+        },
+        {
+          "name": "One space, one use mantra"
+        },
+        {
+          "name": "Strategies for change",
+          "children": [
+            {
+              "name": "Build new habits in new places"
+            },
+            {
+              "name": "Create activity zones"
+            },
+            {
+              "name": "Avoid mixing habit contexts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

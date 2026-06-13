@@ -1,0 +1,117 @@
+{
+  "name": "How to Make a Habit Irresistible",
+  "children": [
+    {
+      "name": "The 2nd Law of Behavior Change",
+      "children": [
+        {
+          "name": "Make it Attractive"
+        }
+      ]
+    },
+    {
+      "name": "Supernormal Stimuli",
+      "children": [
+        {
+          "name": "Definition: Exaggerated versions of reality"
+        },
+        {
+          "name": "Biological Responses",
+          "children": [
+            {
+              "name": "Gull chicks pecking red dots"
+            },
+            {
+              "name": "Geese rolling volleyballs"
+            }
+          ]
+        },
+        {
+          "name": "Modern Examples",
+          "children": [
+            {
+              "name": "Junk food: Salt, sugar, and fat"
+            },
+            {
+              "name": "Social media: Likes and praise"
+            },
+            {
+              "name": "Advertising: Idealized images"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dopamine-Driven Feedback Loop",
+      "children": [
+        {
+          "name": "Neurological Processes: Motivation and desire"
+        },
+        {
+          "name": "Anticipation vs. Fulfillment",
+          "children": [
+            {
+              "name": "Anticipation triggers action"
+            },
+            {
+              "name": "Dopamine spikes at the cue"
+            },
+            {
+              "name": "Wanting vs. Liking"
+            }
+          ]
+        },
+        {
+          "name": "Brain Circuitry",
+          "children": [
+            {
+              "name": "Large area for 'wanting'"
+            },
+            {
+              "name": "Small 'hedonic hotspots' for 'liking'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Temptation Bundling",
+      "children": [
+        {
+          "name": "Definition: Link 'want to do' with 'need to do'"
+        },
+        {
+          "name": "Premack’s Principle",
+          "children": [
+            {
+              "name": "High-probability behaviors reinforce low-probability ones"
+            }
+          ]
+        },
+        {
+          "name": "Implementation Strategies",
+          "children": [
+            {
+              "name": "Engineering: Hacking a bike for Netflix"
+            },
+            {
+              "name": "Marketing: ABC's TGIT campaign"
+            }
+          ]
+        },
+        {
+          "name": "Combined Formula",
+          "children": [
+            {
+              "name": "After [Current Habit], I will [Habit I Need]"
+            },
+            {
+              "name": "After [Habit I Need], I will [Habit I Want]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

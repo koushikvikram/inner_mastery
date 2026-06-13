@@ -1,0 +1,129 @@
+{
+  "name": "The Two-Minute Rule",
+  "children": [
+    {
+      "name": "Core Concept",
+      "children": [
+        {
+          "name": "New habits < 2 minutes"
+        },
+        {
+          "name": "Standardize before optimize"
+        },
+        {
+          "name": "Gateway habits"
+        },
+        {
+          "name": "Master the art of showing up"
+        }
+      ]
+    },
+    {
+      "name": "Decisive Moments",
+      "children": [
+        {
+          "name": "Forks in the road"
+        },
+        {
+          "name": "Impact on daily trajectory"
+        },
+        {
+          "name": "Constrained future options"
+        },
+        {
+          "name": "Small choices stack up"
+        }
+      ]
+    },
+    {
+      "name": "Ritualization",
+      "children": [
+        {
+          "name": "Hailing the cab example"
+        },
+        {
+          "name": "Changing into workout clothes"
+        },
+        {
+          "name": "Mindless first action"
+        },
+        {
+          "name": "Initiates deep focus"
+        }
+      ]
+    },
+    {
+      "name": "Scaling Habits Down",
+      "children": [
+        {
+          "name": "Read one page"
+        },
+        {
+          "name": "Tie running shoes"
+        },
+        {
+          "name": "Open notes"
+        },
+        {
+          "name": "Fold one pair of socks"
+        }
+      ]
+    },
+    {
+      "name": "Implementation Strategies",
+      "children": [
+        {
+          "name": "Habit Shaping",
+          "children": [
+            {
+              "name": "Phase 1: Very easy"
+            },
+            {
+              "name": "Phase 2: Easy"
+            },
+            {
+              "name": "Phase 3: Moderate"
+            },
+            {
+              "name": "Phase 4: Hard"
+            },
+            {
+              "name": "Phase 5: Very hard"
+            }
+          ]
+        },
+        {
+          "name": "Stop After Two Minutes",
+          "children": [
+            {
+              "name": "Forced time limit"
+            },
+            {
+              "name": "Stay below 'work' threshold"
+            },
+            {
+              "name": "Stop while going good"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Psychological Impact",
+      "children": [
+        {
+          "name": "Reinforces identity"
+        },
+        {
+          "name": "Casting votes for self"
+        },
+        {
+          "name": "Reduces procrastination"
+        },
+        {
+          "name": "Easier to continue than start"
+        }
+      ]
+    }
+  ]
+}

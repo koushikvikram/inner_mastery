@@ -1,0 +1,122 @@
+{
+  "name": "Habit Formation Through Repetition",
+  "children": [
+    {
+      "name": "Quantity vs. Quality",
+      "children": [
+        {
+          "name": "Photography Experiment Example"
+        },
+        {
+          "name": "Quantity Group: Skills honed by practice"
+        },
+        {
+          "name": "Quality Group: Speculating about perfection"
+        },
+        {
+          "name": "Active practice vs. passive learning"
+        }
+      ]
+    },
+    {
+      "name": "Motion vs. Action",
+      "children": [
+        {
+          "name": "Being in Motion",
+          "children": [
+            {
+              "name": "Planning and strategizing"
+            },
+            {
+              "name": "Feeling of progress"
+            },
+            {
+              "name": "Delaying failure and criticism"
+            }
+          ]
+        },
+        {
+          "name": "Taking Action",
+          "children": [
+            {
+              "name": "Behavior that delivers outcomes"
+            },
+            {
+              "name": "Actual practice"
+            },
+            {
+              "name": "Performing the habit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Science of Repetition",
+      "children": [
+        {
+          "name": "Long-term potentiation"
+        },
+        {
+          "name": "Hebb's Law: Neurons firing and wiring"
+        },
+        {
+          "name": "Physical Brain Changes",
+          "children": [
+            {
+              "name": "Cerebellum in musicians"
+            },
+            {
+              "name": "Gray matter in mathematicians"
+            },
+            {
+              "name": "Hippocampus in taxi drivers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Automaticity",
+      "children": [
+        {
+          "name": "The Habit Line"
+        },
+        {
+          "name": "Effortful practice to nonconscious mind"
+        },
+        {
+          "name": "Learning curves"
+        }
+      ]
+    },
+    {
+      "name": "Frequency vs. Time",
+      "children": [
+        {
+          "name": "Rate of performance matters"
+        },
+        {
+          "name": "Building repetition over time"
+        },
+        {
+          "name": "Internalizing habits through reps"
+        }
+      ]
+    },
+    {
+      "name": "3rd Law of Behavior Change",
+      "children": [
+        {
+          "name": "Make it easy"
+        },
+        {
+          "name": "Start with repetition, not perfection"
+        },
+        {
+          "name": "Focus on practice over planning"
+        }
+      ]
+    }
+  ]
+}

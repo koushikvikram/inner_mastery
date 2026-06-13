@@ -1,0 +1,137 @@
+{
+  "name": "How to Find and Fix Bad Habits",
+  "children": [
+    {
+      "name": "Origins of Cravings",
+      "children": [
+        {
+          "name": "Underlying Motives",
+          "children": [
+            {
+              "name": "Conserve energy"
+            },
+            {
+              "name": "Obtain food and water"
+            },
+            {
+              "name": "Find love and reproduce"
+            },
+            {
+              "name": "Connect and bond"
+            },
+            {
+              "name": "Social acceptance"
+            },
+            {
+              "name": "Reduce uncertainty"
+            },
+            {
+              "name": "Achieve status"
+            }
+          ]
+        },
+        {
+          "name": "Modern Solutions",
+          "children": [
+            {
+              "name": "Social media: Approval"
+            },
+            {
+              "name": "Google: Uncertainty"
+            },
+            {
+              "name": "Video games: Status"
+            },
+            {
+              "name": "Tinder: Reproduction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mechanism of Habits",
+      "children": [
+        {
+          "name": "Associations and Predictions"
+        },
+        {
+          "name": "Cue-based simulations"
+        },
+        {
+          "name": "Emotions as signals"
+        },
+        {
+          "name": "Desire: Current vs desired state"
+        }
+      ]
+    },
+    {
+      "name": "Reprogramming the Brain",
+      "children": [
+        {
+          "name": "Reframing Mindset",
+          "children": [
+            {
+              "name": "From 'Have to' to 'Get to'"
+            },
+            {
+              "name": "Highlighting benefits"
+            },
+            {
+              "name": "Shifting perspective"
+            }
+          ]
+        },
+        {
+          "name": "Reframing Examples",
+          "children": [
+            {
+              "name": "Exercise: Building endurance"
+            },
+            {
+              "name": "Finance: Future freedom"
+            },
+            {
+              "name": "Meditation: Practice focus"
+            },
+            {
+              "name": "Jitters: Helpful adrenaline"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Motivation Rituals",
+      "children": [
+        {
+          "name": "Associate enjoyment with cues"
+        },
+        {
+          "name": "Conditioning responses"
+        },
+        {
+          "name": "Pre-game routines"
+        },
+        {
+          "name": "Breathe-and-smile routine"
+        }
+      ]
+    },
+    {
+      "name": "Inversion of 2nd Law",
+      "children": [
+        {
+          "name": "Make it unattractive"
+        },
+        {
+          "name": "Fixing causes by reframing"
+        },
+        {
+          "name": "Associating bad habits with pain"
+        }
+      ]
+    }
+  ]
+}

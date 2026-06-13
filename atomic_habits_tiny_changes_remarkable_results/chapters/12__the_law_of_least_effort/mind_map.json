@@ -1,0 +1,115 @@
+{
+  "name": "The Law of Least Effort",
+  "children": [
+    {
+      "name": "Geographic Influence",
+      "children": [
+        {
+          "name": "East-West Axis",
+          "children": [
+            {
+              "name": "Similar climates"
+            },
+            {
+              "name": "Rapid agricultural spread"
+            }
+          ]
+        },
+        {
+          "name": "North-South Axis",
+          "children": [
+            {
+              "name": "Varied weather"
+            },
+            {
+              "name": "Slower crop expansion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Human Behavior",
+      "children": [
+        {
+          "name": "Energy conservation"
+        },
+        {
+          "name": "Law of Least Effort"
+        },
+        {
+          "name": "Preference for convenience"
+        },
+        {
+          "name": "Habit as an obstacle"
+        }
+      ]
+    },
+    {
+      "name": "Reducing Friction",
+      "children": [
+        {
+          "name": "Environment Design",
+          "children": [
+            {
+              "name": "Convenient locations"
+            },
+            {
+              "name": "Removing obstacles"
+            }
+          ]
+        },
+        {
+          "name": "Business Strategy",
+          "children": [
+            {
+              "name": "Lean production"
+            },
+            {
+              "name": "Addition by subtraction"
+            },
+            {
+              "name": "Automating steps"
+            }
+          ]
+        },
+        {
+          "name": "Frictionless products"
+        }
+      ]
+    },
+    {
+      "name": "Practical Strategies",
+      "children": [
+        {
+          "name": "Priming Environment",
+          "children": [
+            {
+              "name": "Resetting the room"
+            },
+            {
+              "name": "Preparing for next action"
+            },
+            {
+              "name": "Setting out supplies"
+            }
+          ]
+        },
+        {
+          "name": "Inverting Principle",
+          "children": [
+            {
+              "name": "Increase friction for bad habits"
+            },
+            {
+              "name": "Unplugging television"
+            },
+            {
+              "name": "Hiding distractions"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

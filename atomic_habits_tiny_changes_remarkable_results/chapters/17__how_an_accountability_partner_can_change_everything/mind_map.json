@@ -1,0 +1,93 @@
+{
+  "name": "Accountability and Habit Contracts",
+  "children": [
+    {
+      "name": "Inversion of the 4th Law",
+      "children": [
+        {
+          "name": "Make it unsatisfying"
+        },
+        {
+          "name": "Pain as an effective teacher"
+        },
+        {
+          "name": "Immediate and costly consequences"
+        },
+        {
+          "name": "Example: Roger Fisher's nuclear code proposal"
+        }
+      ]
+    },
+    {
+      "name": "Immediate Consequences",
+      "children": [
+        {
+          "name": "Eliminate gap between action and result"
+        },
+        {
+          "name": "Local, tangible, and concrete"
+        },
+        {
+          "name": "Punishment must be painful and enforced"
+        },
+        {
+          "name": "Cost of laziness > cost of exercise"
+        }
+      ]
+    },
+    {
+      "name": "The Habit Contract",
+      "children": [
+        {
+          "name": "Verbal or written agreement"
+        },
+        {
+          "name": "Stated commitment and punishment"
+        },
+        {
+          "name": "Signatures as a sign of seriousness"
+        },
+        {
+          "name": "Social contracts: Seat belt laws"
+        },
+        {
+          "name": "Case Study: Bryan Harris weight loss"
+        }
+      ]
+    },
+    {
+      "name": "Accountability Partners",
+      "children": [
+        {
+          "name": "Watching behavior creates immediate cost"
+        },
+        {
+          "name": "Increases pressure to uphold promises"
+        },
+        {
+          "name": "Margaret Cho: Song-a-day challenge"
+        },
+        {
+          "name": "Thomas Frank: Automated wake-up tweets"
+        }
+      ]
+    },
+    {
+      "name": "Social Motivation",
+      "children": [
+        {
+          "name": "Caring about others' opinions"
+        },
+        {
+          "name": "Desire for a positive reputation"
+        },
+        {
+          "name": "Avoiding being seen as untrustworthy or lazy"
+        },
+        {
+          "name": "Public cost of violating promises"
+        }
+      ]
+    }
+  ]
+}

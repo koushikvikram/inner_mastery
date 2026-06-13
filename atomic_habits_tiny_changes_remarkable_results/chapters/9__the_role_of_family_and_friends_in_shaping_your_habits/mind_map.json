@@ -1,0 +1,98 @@
+{
+  "name": "Role of Social Influence on Habits",
+  "children": [
+    {
+      "name": "The Polgar Experiment",
+      "children": [
+        {
+          "name": "Genius is trained, not born"
+        },
+        {
+          "name": "Deliberate practice and environment"
+        },
+        {
+          "name": "Success of Susan, Sofia, and Judit"
+        },
+        {
+          "name": "Normalizing obsession with chess"
+        }
+      ]
+    },
+    {
+      "name": "Seductive Pull of Social Norms",
+      "children": [
+        {
+          "name": "Humans as herd animals"
+        },
+        {
+          "name": "Desire to belong and bond"
+        },
+        {
+          "name": "Imitating cultural scripts"
+        },
+        {
+          "name": "Behaviors help us fit in"
+        }
+      ]
+    },
+    {
+      "name": "1. Imitating the Close",
+      "children": [
+        {
+          "name": "Proximity effect on behavior"
+        },
+        {
+          "name": "Copying family, friends, and coworkers"
+        },
+        {
+          "name": "Strategies for building habits",
+          "children": [
+            {
+              "name": "Join culture where behavior is normal"
+            },
+            {
+              "name": "Leverage shared commonalities"
+            },
+            {
+              "name": "Transform to shared identity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2. Imitating the Many",
+      "children": [
+        {
+          "name": "Solomon Asch conformity experiments"
+        },
+        {
+          "name": "Scanning environment for guidance"
+        },
+        {
+          "name": "Internal pressure to comply"
+        },
+        {
+          "name": "Preferring being wrong with the crowd"
+        }
+      ]
+    },
+    {
+      "name": "3. Imitating the Powerful",
+      "children": [
+        {
+          "name": "Pursuit of status and prestige"
+        },
+        {
+          "name": "Mimicking people we admire"
+        },
+        {
+          "name": "Seeking approval and respect"
+        },
+        {
+          "name": "Avoiding status-lowering behaviors"
+        }
+      ]
+    }
+  ]
+}

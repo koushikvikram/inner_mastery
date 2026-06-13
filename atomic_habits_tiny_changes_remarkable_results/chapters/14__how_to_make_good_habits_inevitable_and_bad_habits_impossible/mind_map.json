@@ -1,0 +1,175 @@
+{
+  "name": "Making Good Habits Inevitable and Bad Habits Impossible",
+  "children": [
+    {
+      "name": "Inversion of the 3rd Law",
+      "children": [
+        {
+          "name": "Make it difficult"
+        },
+        {
+          "name": "Increase friction for bad habits"
+        },
+        {
+          "name": "Make good habits automatic"
+        }
+      ]
+    },
+    {
+      "name": "Commitment Devices",
+      "children": [
+        {
+          "name": "Definition: Present choice controlling future actions"
+        },
+        {
+          "name": "Lock in future behavior"
+        },
+        {
+          "name": "Examples",
+          "children": [
+            {
+              "name": "Victor Hugo's locked clothes"
+            },
+            {
+              "name": "Individual food packaging"
+            },
+            {
+              "name": "Casino banned lists"
+            },
+            {
+              "name": "Leaving wallet at home"
+            },
+            {
+              "name": "Outlet timers for routers"
+            },
+            {
+              "name": "Boxing half of a meal early"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Onetime Actions",
+      "children": [
+        {
+          "name": "Nutrition",
+          "children": [
+            {
+              "name": "Buy water filter"
+            },
+            {
+              "name": "Use smaller plates"
+            }
+          ]
+        },
+        {
+          "name": "Sleep",
+          "children": [
+            {
+              "name": "Buy good mattress"
+            },
+            {
+              "name": "Blackout curtains"
+            },
+            {
+              "name": "Remove bedroom TV"
+            }
+          ]
+        },
+        {
+          "name": "Productivity",
+          "children": [
+            {
+              "name": "Unsubscribe from emails"
+            },
+            {
+              "name": "Turn off notifications"
+            },
+            {
+              "name": "Delete social media apps"
+            }
+          ]
+        },
+        {
+          "name": "General Health",
+          "children": [
+            {
+              "name": "Get vaccinated"
+            },
+            {
+              "name": "Buy supportive chair"
+            },
+            {
+              "name": "Standing desk"
+            }
+          ]
+        },
+        {
+          "name": "Finance",
+          "children": [
+            {
+              "name": "Automatic savings plan"
+            },
+            {
+              "name": "Automatic bill pay"
+            },
+            {
+              "name": "Cut cable service"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Habit Automation",
+      "children": [
+        {
+          "name": "Cash Register Example",
+          "children": [
+            {
+              "name": "Automated ethical behavior"
+            },
+            {
+              "name": "Increased friction for theft"
+            }
+          ]
+        },
+        {
+          "name": "Technology",
+          "children": [
+            {
+              "name": "Website blockers"
+            },
+            {
+              "name": "Automatic prescription refills"
+            },
+            {
+              "name": "Automatic wage deduction"
+            },
+            {
+              "name": "Meal-delivery services"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Power of Friction",
+      "children": [
+        {
+          "name": "Increase steps to bad habits"
+        },
+        {
+          "name": "Example: Weekly password resets"
+        },
+        {
+          "name": "Eliminate 'mental candy'"
+        },
+        {
+          "name": "Hand over habits to technology"
+        }
+      ]
+    }
+  ]
+}

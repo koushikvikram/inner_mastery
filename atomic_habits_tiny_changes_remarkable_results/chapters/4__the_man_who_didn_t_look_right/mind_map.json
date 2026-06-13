@@ -1,0 +1,110 @@
+{
+  "name": "Awareness and Habits",
+  "children": [
+    {
+      "name": "Nonconscious Intuition",
+      "children": [
+        {
+          "name": "Paramedic facial pattern recognition"
+        },
+        {
+          "name": "Military radar analysis"
+        },
+        {
+          "name": "Art curator authenticity detection"
+        },
+        {
+          "name": "Radiologist stroke prediction"
+        },
+        {
+          "name": "Hairdresser pregnancy detection"
+        }
+      ]
+    },
+    {
+      "name": "The Prediction Machine",
+      "children": [
+        {
+          "name": "Analyzing surroundings repeatedly"
+        },
+        {
+          "name": "Highlighting relevant cues"
+        },
+        {
+          "name": "Encoding lessons from experience"
+        },
+        {
+          "name": "Autopilot bodily functions"
+        },
+        {
+          "name": "Nonconscious feedback loops"
+        }
+      ]
+    },
+    {
+      "name": "The Nature of Automaticity",
+      "children": [
+        {
+          "name": "Cues become invisible over time"
+        },
+        {
+          "name": "Direction of nonconscious mind"
+        },
+        {
+          "name": "Falling into old patterns"
+        },
+        {
+          "name": "Mindless performance failures"
+        },
+        {
+          "name": "Retail clerk credit card error"
+        }
+      ]
+    },
+    {
+      "name": "Strategies for Behavior Change",
+      "children": [
+        {
+          "name": "Pointing-and-Calling",
+          "children": [
+            {
+              "name": "Japanese railway safety system"
+            },
+            {
+              "name": "Pointing at and naming details"
+            },
+            {
+              "name": "Raising level of awareness"
+            },
+            {
+              "name": "Verbalizing actions and outcomes"
+            }
+          ]
+        },
+        {
+          "name": "Habits Scorecard",
+          "children": [
+            {
+              "name": "Listing daily habits"
+            },
+            {
+              "name": "Categorizing as positive, negative, or neutral"
+            },
+            {
+              "name": "Evaluating net long-term outcomes"
+            },
+            {
+              "name": "Casting votes for desired identity"
+            }
+          ]
+        },
+        {
+          "name": "Observation without judgment"
+        },
+        {
+          "name": "Making the unconscious conscious"
+        }
+      ]
+    }
+  ]
+}

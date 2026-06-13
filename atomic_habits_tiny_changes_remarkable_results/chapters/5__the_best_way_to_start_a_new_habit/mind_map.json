@@ -1,0 +1,108 @@
+{
+  "name": "The Best Way to Start a New Habit",
+  "children": [
+    {
+      "name": "1st Law of Behavior Change: Make it Obvious",
+      "children": [
+        {
+          "name": "Primary Cues: Time and Location"
+        },
+        {
+          "name": "Strategy: Give habits a time and space to live"
+        }
+      ]
+    },
+    {
+      "name": "Implementation Intentions",
+      "children": [
+        {
+          "name": "Definition: Plan beforehand about when and where to act"
+        },
+        {
+          "name": "Formula: I will [BEHAVIOR] at [TIME] in [LOCATION]"
+        },
+        {
+          "name": "Benefits",
+          "children": [
+            {
+              "name": "Increases follow-through (91% vs 35-38%)"
+            },
+            {
+              "name": "Transforms foggy notions into concrete plans"
+            },
+            {
+              "name": "Provides clarity over motivation"
+            },
+            {
+              "name": "Helps say 'no' to distractions"
+            }
+          ]
+        },
+        {
+          "name": "Example: Meditate for 1 min at 7 a.m. in the kitchen"
+        }
+      ]
+    },
+    {
+      "name": "Habit Stacking",
+      "children": [
+        {
+          "name": "Definition: Tie a new behavior to a current habit"
+        },
+        {
+          "name": "Formula: After [CURRENT HABIT], I will [NEW HABIT]"
+        },
+        {
+          "name": "Origin: BJ Fogg's Tiny Habits program"
+        },
+        {
+          "name": "The Diderot Effect",
+          "children": [
+            {
+              "name": "Spiral of consumption/behavior"
+            },
+            {
+              "name": "One action becomes cue for the next"
+            }
+          ]
+        },
+        {
+          "name": "Example: Meditate for 60 seconds after pouring coffee"
+        }
+      ]
+    },
+    {
+      "name": "Keys to Success",
+      "children": [
+        {
+          "name": "Selecting the Right Cue",
+          "children": [
+            {
+              "name": "Match cue frequency to desired habit frequency"
+            },
+            {
+              "name": "Brainstorm current daily habits"
+            },
+            {
+              "name": "List daily events (e.g., sun rises, text arrives)"
+            }
+          ]
+        },
+        {
+          "name": "Specificity",
+          "children": [
+            {
+              "name": "Avoid ambiguity"
+            },
+            {
+              "name": "Cues must be immediately actionable"
+            },
+            {
+              "name": "Use 'when I close my laptop' instead of 'at lunch'"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

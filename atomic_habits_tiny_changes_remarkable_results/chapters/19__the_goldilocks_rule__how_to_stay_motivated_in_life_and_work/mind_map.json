@@ -1,0 +1,106 @@
+{
+  "name": "The Goldilocks Rule: Staying Motivated",
+  "children": [
+    {
+      "name": "The Goldilocks Rule",
+      "children": [
+        {
+          "name": "Just manageable difficulty"
+        },
+        {
+          "name": "Edge of current abilities"
+        },
+        {
+          "name": "Optimal zone of difficulty"
+        },
+        {
+          "name": "Not too hard, not too easy"
+        }
+      ]
+    },
+    {
+      "name": "Steve Martin's Career",
+      "children": [
+        {
+          "name": "10 years learning"
+        },
+        {
+          "name": "4 years refining"
+        },
+        {
+          "name": "4 years wild success"
+        },
+        {
+          "name": "Small incremental additions"
+        }
+      ]
+    },
+    {
+      "name": "Motivation Science",
+      "children": [
+        {
+          "name": "Yerkes–Dodson Law"
+        },
+        {
+          "name": "Flow State",
+          "children": [
+            {
+              "name": "In the zone"
+            },
+            {
+              "name": "4 percent beyond ability"
+            }
+          ]
+        },
+        {
+          "name": "Variable Rewards",
+          "children": [
+            {
+              "name": "50/50 success/failure split"
+            },
+            {
+              "name": "Dopamine spikes"
+            },
+            {
+              "name": "Reduces boredom"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Threat of Boredom",
+      "children": [
+        {
+          "name": "Greatest threat to success"
+        },
+        {
+          "name": "Habits become ordinary"
+        },
+        {
+          "name": "The cycle of seeking novelty"
+        },
+        {
+          "name": "Boredom vs. Failure"
+        }
+      ]
+    },
+    {
+      "name": "Professionalism vs. Amateurism",
+      "children": [
+        {
+          "name": "Fall in love with boredom"
+        },
+        {
+          "name": "Stick to the schedule"
+        },
+        {
+          "name": "Action regardless of mood"
+        },
+        {
+          "name": "Endless fascination with repetition"
+        }
+      ]
+    }
+  ]
+}

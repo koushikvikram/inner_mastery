@@ -1,0 +1,117 @@
+{
+  "name": "The Cardinal Rule of Behavior Change",
+  "children": [
+    {
+      "name": "The 4th Law: Make It Satisfying",
+      "children": [
+        {
+          "name": "What is rewarded is repeated"
+        },
+        {
+          "name": "What is punished is avoided"
+        },
+        {
+          "name": "Increases odds of repetition"
+        }
+      ]
+    },
+    {
+      "name": "The Reward Mismatch",
+      "children": [
+        {
+          "name": "Immediate-Return Environment",
+          "children": [
+            {
+              "name": "Ancestral/Animal behavior"
+            },
+            {
+              "name": "Decisions have instant impact"
+            }
+          ]
+        },
+        {
+          "name": "Delayed-Return Environment",
+          "children": [
+            {
+              "name": "Modern society"
+            },
+            {
+              "name": "Actions deliver payoffs later"
+            }
+          ]
+        },
+        {
+          "name": "Time Inconsistency",
+          "children": [
+            {
+              "name": "Brain values present over future"
+            },
+            {
+              "name": "Instant gratification bias"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Habit Reinforcement",
+      "children": [
+        {
+          "name": "Use immediate rewards to bridge gaps"
+        },
+        {
+          "name": "The ending of an experience is vital"
+        },
+        {
+          "name": "Making Avoidance Visible",
+          "children": [
+            {
+              "name": "Savings accounts for skipped purchases"
+            },
+            {
+              "name": "Labeling accounts for specific goals"
+            }
+          ]
+        },
+        {
+          "name": "Identity Alignment",
+          "children": [
+            {
+              "name": "Select rewards that reinforce identity"
+            },
+            {
+              "name": "Avoid rewards that conflict with goals"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Success Stories",
+      "children": [
+        {
+          "name": "Public Health",
+          "children": [
+            {
+              "name": "Safeguard soap in Karachi"
+            },
+            {
+              "name": "Pleasurable sensory signals"
+            }
+          ]
+        },
+        {
+          "name": "Commercial Products",
+          "children": [
+            {
+              "name": "Wrigley's flavored chewing gum"
+            },
+            {
+              "name": "Refresh-tasting toothpaste"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
