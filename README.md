@@ -1044,7 +1044,23 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 60. The Architecture of Success: Rockefeller's Wisdom for His Son
+## 60. The 25-Year Framework: A Guide to Strategic Longevity
+
+[![The 25-Year Framework](./the_25_year_framework_a_guide_to_strategic_longevity/infographic.png)](./the_25_year_framework_a_guide_to_strategic_longevity/slide_deck.pdf)
+
+| [Flashcards](./the_25_year_framework_a_guide_to_strategic_longevity/flashcards.html) | [Quiz](./the_25_year_framework_a_guide_to_strategic_longevity/quiz.html) | [Report](./the_25_year_framework_a_guide_to_strategic_longevity/report.md) | [Report 2](./the_25_year_framework_a_guide_to_strategic_longevity/report_2.md) | [Report 3](./the_25_year_framework_a_guide_to_strategic_longevity/report_3.md) | [Mind Map](./the_25_year_framework_a_guide_to_strategic_longevity/mind_map.json) |
+
+### Key Concepts
+
+- **25-year horizon:** stretch the time horizon to create spaciousness, reduce panic, and make better decisions now
+- **Great wanter practice:** write down real desires daily so clarity becomes a trained capacity, not an occasional mood
+- **Characteristics over individuals:** choose enduring qualities and standards instead of over-attaching to one specific person, company, or tactic
+- **100 quarterly iterations:** treat each 90-day quarter as 1 percent of the journey so perfectionism gives way to compounding progress
+- **Moving Future model:** use morale, momentum, motivation, and multipliers to keep long-range ambition connected to the next quarter
+
+---
+
+## 61. The Architecture of Success: Rockefeller's Wisdom for His Son
 
 [![The Architecture of Success: Rockefeller's Wisdom for His Son](./the_architecture_of_success_rockefellers_wisdom_for_his_son/infographic.png)](./the_architecture_of_success_rockefellers_wisdom_for_his_son/slide_deck.pdf)
 
@@ -1054,7 +1070,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 61. The Art of Change: Modern Patterns for Success
+## 62. The Art of Change: Modern Patterns for Success
 
 [![The Art of Change: Modern Patterns for Success](./the_art_of_change_modern_patterns_for_success/infographic.png)](./the_art_of_change_modern_patterns_for_success/slide_deck.pdf)
 
@@ -1064,7 +1080,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 62. The Art of Leadership: Purpose and Integrity
+## 63. The Art of Leadership: Purpose and Integrity
 
 [![The Art of Leadership: Purpose and Integrity](./the_art_of_leadership_purpose_and_integrity/infographic.png)](./the_art_of_leadership_purpose_and_integrity/slide_deck.pdf)
 
@@ -1074,7 +1090,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 63. The Art of Learning: A Journey in Pursuit of Excellence
+## 64. The Art of Learning: A Journey in Pursuit of Excellence
 
 [![The Art of Learning: A Journey in Pursuit of Excellence](./the_art_of_learning_a_journey_in_pursuit_of_excellence/infographic.png)](./the_art_of_learning_a_journey_in_pursuit_of_excellence/slide_deck.pdf)
 
@@ -1084,7 +1100,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 64. The Art of Strategy: Steps Towards Business Agility
+## 65. The Art of Strategy: Steps Towards Business Agility
 
 [![The Art of Strategy: Steps Towards Business Agility](./the_art_of_strategy_steps_towards_business_agility/infographic.png)](./the_art_of_strategy_steps_towards_business_agility/slide_deck.pdf)
 
@@ -1094,7 +1110,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 65. The Arthashastra: Kautilya's Ancient Treatise on Statecraft
+## 66. The Arthashastra: Kautilya's Ancient Treatise on Statecraft
 
 [![The Arthashastra: Kautilya's Ancient Treatise on Statecraft](./the_arthashastra_kautilyas_ancient_treatise_on_statecraft/infographic.png)](./the_arthashastra_kautilyas_ancient_treatise_on_statecraft/slide_deck.pdf)
 
@@ -1104,7 +1120,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 66. The Barefoot Coach
+## 67. The Barefoot Coach
 
 [![The Barefoot Coach](./the_barefoot_coach/infographic.png)](./the_barefoot_coach/slide_deck.pdf)
 
@@ -1114,7 +1130,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 67. The Champion's Mind: How Great Athletes Think, Train, and Thrive
+## 68. The Champion's Mind: How Great Athletes Think, Train, and Thrive
 
 [![The Champion's Mind: How Great Athletes Think, Train, and Thrive](./the_champions_mind_how_great_athletes_think_train_and_thrive/infographic.png)](./the_champions_mind_how_great_athletes_think_train_and_thrive/slide_deck.pdf)
 
@@ -1124,7 +1140,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 68. The Dhoni Touch: Unravelling the Enigma of Mahi
+## 69. The Dhoni Touch: Unravelling the Enigma of Mahi
 
 [![The Dhoni Touch: Unravelling the Enigma of Mahi](./the_dhoni_touch_unravelling_the_enigma_of_mahi/infographic.png)](./the_dhoni_touch_unravelling_the_enigma_of_mahi/slide_deck.pdf)
 
@@ -1134,7 +1150,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 69. The Four Pillars of a Healthy Mind
+## 70. The Four Pillars of a Healthy Mind
 
 [![The Four Pillars of a Healthy Mind](./the_four_pillars_of_a_healthy_mind/infographic.png)](./the_four_pillars_of_a_healthy_mind/slide_deck.pdf)
 
@@ -1148,7 +1164,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 70. The Grit Factor: Leadership Lessons from the Vanguard
+## 71. The Grit Factor: Leadership Lessons from the Vanguard
 
 [![The Grit Factor: Leadership Lessons from the Vanguard](./the_grit_factor_leadership_lessons_from_the_vanguard/infographic.png)](./the_grit_factor_leadership_lessons_from_the_vanguard/slide_deck.pdf)
 
@@ -1158,7 +1174,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 71. The Heart of the Buddha's Teaching
+## 72. The Heart of the Buddha's Teaching
 
 [![The Heart of the Buddha's Teaching](./the_heart_of_the_buddhas_teaching/infographic.png)](./the_heart_of_the_buddhas_teaching/slide_deck.pdf)
 
@@ -1168,7 +1184,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 72. The New Toughness Training for Sports
+## 73. The New Toughness Training for Sports
 
 [![The New Toughness Training for Sports](./the_new_toughness_training_for_sports/infographic.png)](./the_new_toughness_training_for_sports/slide_deck.pdf)
 
@@ -1182,7 +1198,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 73. The Power 5 — HIIT to Improve Metabolic Health and Target Visceral Fat
+## 74. The Power 5 — HIIT to Improve Metabolic Health and Target Visceral Fat
 
 [![The Power 5 — HIIT to Improve Metabolic Health and Target Visceral Fat](./the_power_5_HIIT_to_improve_metabolic_health_and_target_visceral_fat/infographic.png)](./the_power_5_HIIT_to_improve_metabolic_health_and_target_visceral_fat/slide_deck.pdf)
 
@@ -1198,7 +1214,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 74. The Power of Personal Accountability
+## 75. The Power of Personal Accountability
 
 [![The Power of Personal Accountability](./the_power_of_personal_accountability/infographic.png)](./the_power_of_personal_accountability/slide_deck.pdf)
 
@@ -1212,7 +1228,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 75. The Psychology of Human Misjudgment
+## 76. The Psychology of Human Misjudgment
 
 [![The Psychology of Human Misjudgment](./the_psychology_of_human_misjudgment/infographic.png)](./the_psychology_of_human_misjudgment/slide_deck.pdf)
 
@@ -1230,7 +1246,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 76. The Psychology of Success: Why High Performers are Broken
+## 77. The Psychology of Success: Why High Performers are Broken
 
 [![The Psychology of Success: Why High Performers are Broken](./the_psychology_of_success_why_high_performers_are_broken/infographic.png)](./the_psychology_of_success_why_high_performers_are_broken/slide_deck.pdf)
 
@@ -1240,7 +1256,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 77. The Science of Meditation and Neural State Control
+## 78. The Science of Meditation and Neural State Control
 
 [![The Science of Meditation and Neural State Control](./the_science_of_meditation_and_neural_state_control/infographic.png)](./the_science_of_meditation_and_neural_state_control/slide_deck.pdf)
 
@@ -1254,7 +1270,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 78. The Score Takes Care of Itself
+## 79. The Score Takes Care of Itself
 
 [![The Score Takes Care of Itself](./the_score_takes_care_of_itself/infographic.png)](./the_score_takes_care_of_itself/slide_deck.pdf)
 
@@ -1264,7 +1280,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 79. The Soleus Secret — 3 After-Meal Habits to Control Blood Sugar Spikes
+## 80. The Soleus Secret — 3 After-Meal Habits to Control Blood Sugar Spikes
 
 [![The Soleus Secret — 3 After-Meal Habits to Control Blood Sugar Spikes](./the_soleus_secret_3_after_meal_habits_to_control_blood_sugar_spikes/infographic.png)](./the_soleus_secret_3_after_meal_habits_to_control_blood_sugar_spikes/slide_deck.pdf)
 
@@ -1280,7 +1296,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 80. The Subtle Shades of Dharma — Sita’s Counsel to Rama
+## 81. The Subtle Shades of Dharma — Sita’s Counsel to Rama
 
 [![The Subtle Shades of Dharma — Sita’s Counsel to Rama](./the_subtle_shades_of_dharma-sita-s_counsel_to_rama/infographic.png)](./the_subtle_shades_of_dharma-sita-s_counsel_to_rama/slide_deck.pdf)
 
@@ -1296,7 +1312,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 81. The Talent Code
+## 82. The Talent Code
 
 [![The Talent Code](./the_talent_code/infographic.png)](./the_talent_code/slide_deck.pdf)
 
@@ -1310,7 +1326,7 @@ Source: [This Psychiatrist KNOWS What’s Wrong With You (& Has The Tools To Fix
 
 ---
 
-## 82. Thinking in Systems
+## 83. Thinking in Systems
 
 [![Thinking in Systems](./thinking_in_systems/infographic.png)](./thinking_in_systems/slide_deck.pdf)
 
@@ -1423,7 +1439,7 @@ We judge the system largely by its behavior; if behavior doesn’t match intent,
 
 ---
 
-## 83. Thirukkural & Tamil Classics
+## 84. Thirukkural & Tamil Classics
 
 [![Epictetus Operating Model - Thirukkural & Tamil Classics](./tbd/thirukkural/epictetus_operating_model.png)](./tbd/thirukkural/epictetus_operating_model.md)
 
@@ -1457,7 +1473,7 @@ We judge the system largely by its behavior; if behavior doesn’t match intent,
 
 ---
 
-## 84. Thoughts of Power by Swami Vivekananda
+## 85. Thoughts of Power by Swami Vivekananda
 
 Source: [Audio Book || Thoughts of Power || Swami Vivekananda || Published by Advaita Ashrama](https://www.youtube.com/watch?v=PkPzsyR-3ko&list=TLGGS45trtSXZEcxMzAyMjAyNg)
 
@@ -1469,7 +1485,7 @@ Source: [Audio Book || Thoughts of Power || Swami Vivekananda || Published by Ad
 
 ---
 
-## 85. Turning Pro — The Journey from Amateur to Professional
+## 86. Turning Pro — The Journey from Amateur to Professional
 
 [![Turning Pro — The Journey from Amateur to Professional](./turning_pro-the_journey_from_amateur_to_professional/infographic.png)](./turning_pro-the_journey_from_amateur_to_professional/slide_deck.pdf)
 
@@ -1483,7 +1499,23 @@ Source: [Audio Book || Thoughts of Power || Swami Vivekananda || Published by Ad
 
 ---
 
-## 86. Values Highly Successful People Share — Mark Manson
+## 87. Ultralearning
+
+[![Ultralearning](./ultralearning/infographic.png)](./ultralearning/slide_deck.pdf)
+
+| [Flashcards](./ultralearning/flashcards.html) | [Quiz](./ultralearning/quiz.html) | [Report](./ultralearning/report.md) | [Report 2](./ultralearning/report_2.md) | [Report 3](./ultralearning/report_3.md) | [Mind Map](./ultralearning/mind_map.json) |
+
+### Key Concepts
+
+- **Directness:** learn in the context where performance will be judged; build, speak, solve, and practice instead of only consuming theory
+- **Metalearning:** map why, what, and how before starting so the project has a clear path and avoids analysis paralysis
+- **Ruthless feedback loops:** accelerate skill by practicing publicly, seeking real critique, and correcting quickly
+- **Focus calibration:** match arousal to task complexity: intense alertness for simple drills and relaxed focus for complex work
+- **Self-directed mastery:** use high-intensity learning to escape credential dependence and build rare, marketable capability
+
+---
+
+## 88. Values Highly Successful People Share — Mark Manson
 
 [![Values Highly Successful People Share — Mark Manson](./values_highly_succcesful_people_mark_manson/infographic.png)](./values_highly_succcesful_people_mark_manson/slide_deck.pdf)
 
@@ -1499,7 +1531,7 @@ Source: [Audio Book || Thoughts of Power || Swami Vivekananda || Published by Ad
 
 ---
 
-## 87. Viswanathan Anand - Mind Master
+## 89. Viswanathan Anand - Mind Master
 
 [![Epictetus Operating Model - Viswanathan Anand - Mind Master](./tbd/viswanathan_anand_mind_master/epictetus_operating_model.png)](./tbd/viswanathan_anand_mind_master/epictetus_operating_model.md)
 
@@ -1525,7 +1557,7 @@ Source: [Audio Book || Thoughts of Power || Swami Vivekananda || Published by Ad
 
 ---
 
-## 88. Wherever You Go, There You Are
+## 90. Wherever You Go, There You Are
 
 [![Wherever You Go, There You Are](./wherever_you_go_there_you_are/infographic.png)](./wherever_you_go_there_you_are/slide_deck.pdf)
 
@@ -1539,7 +1571,7 @@ Source: [Audio Book || Thoughts of Power || Swami Vivekananda || Published by Ad
 
 ---
 
-## 89. Winning: The Unforgiving Race to Greatness
+## 91. Winning: The Unforgiving Race to Greatness
 
 [![Winning: The Unforgiving Race to Greatness](./winning_the_unforgiving_race_to_greatness/infographic.png)](./winning_the_unforgiving_race_to_greatness/slide_deck.pdf)
 
@@ -1549,7 +1581,7 @@ Source: [Audio Book || Thoughts of Power || Swami Vivekananda || Published by Ad
 
 ---
 
-## 90. Yoga Asanas for Diabetes Management
+## 92. Yoga Asanas for Diabetes Management
 
 [![Yoga Asanas for Diabetes Management](./yoga_asanas_for_diabetes_management/infographic.png)](./yoga_asanas_for_diabetes_management/slide_deck.pdf)
 
@@ -1565,7 +1597,7 @@ Source: [Audio Book || Thoughts of Power || Swami Vivekananda || Published by Ad
 
 ---
 
-## 91. Yoga for Diabetes Management
+## 93. Yoga for Diabetes Management
 
 [![Yoga for Diabetes Management](./yoga_for_diabetes_management/infographic.png)](./yoga_for_diabetes_management/slide_deck.pdf)
 

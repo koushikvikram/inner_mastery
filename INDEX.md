@@ -80,38 +80,40 @@
 57. - [ ] [The 10x Mind Expander](./the_10x_mind_expander/README.md)
 58. - [ ] [The 10X Rule: The Path to Massive Success](./the_10x_rule_the_path_to_massive_success/README.md)
 59. - [ ] [The 15 Commitments of Conscious Leadership](./the_15_commitments_of_conscious_leadership/README.md)
-60. - [ ] [The Architecture of Success: Rockefeller's Wisdom for His Son](./the_architecture_of_success_rockefellers_wisdom_for_his_son/README.md)
-61. - [ ] [The Art of Change: Modern Patterns for Success](./the_art_of_change_modern_patterns_for_success/README.md)
-62. - [ ] [The Art of Leadership: Purpose and Integrity](./the_art_of_leadership_purpose_and_integrity/README.md)
-63. - [ ] [The Art of Learning: A Journey in Pursuit of Excellence](./the_art_of_learning_a_journey_in_pursuit_of_excellence/README.md)
-64. - [ ] [The Art of Strategy: Steps Towards Business Agility](./the_art_of_strategy_steps_towards_business_agility/README.md)
-65. - [ ] [The Arthashastra: Kautilya's Ancient Treatise on Statecraft](./the_arthashastra_kautilyas_ancient_treatise_on_statecraft/README.md)
-66. - [ ] [The Barefoot Coach](./the_barefoot_coach/README.md)
-67. - [ ] [The Champion's Mind: How Great Athletes Think, Train, and Thrive](./the_champions_mind_how_great_athletes_think_train_and_thrive/README.md)
-68. - [ ] [The Dhoni Touch: Unravelling the Enigma of Mahi](./the_dhoni_touch_unravelling_the_enigma_of_mahi/README.md)
-69. - [ ] [The Four Pillars of a Healthy Mind](./the_four_pillars_of_a_healthy_mind/README.md)
-70. - [ ] [The Grit Factor: Leadership Lessons from the Vanguard](./the_grit_factor_leadership_lessons_from_the_vanguard/README.md)
-71. - [ ] [The Heart of the Buddha's Teaching](./the_heart_of_the_buddhas_teaching/README.md)
-72. - [ ] [The New Toughness Training for Sports](./the_new_toughness_training_for_sports/README.md)
-73. - [ ] [The Power 5 — HIIT to Improve Metabolic Health and Target Visceral Fat](./the_power_5_HIIT_to_improve_metabolic_health_and_target_visceral_fat/README.md)
-74. - [ ] [The Power of Personal Accountability](./the_power_of_personal_accountability/README.md)
-75. - [ ] [The Psychology of Human Misjudgment](./the_psychology_of_human_misjudgment/README.md)
-76. - [ ] [The Psychology of Success: Why High Performers are Broken](./the_psychology_of_success_why_high_performers_are_broken/README.md)
-77. - [ ] [The Science of Meditation and Neural State Control](./the_science_of_meditation_and_neural_state_control/README.md)
-78. - [ ] [The Score Takes Care of Itself](./the_score_takes_care_of_itself/README.md)
-79. - [ ] [The Soleus Secret — 3 After-Meal Habits to Control Blood Sugar Spikes](./the_soleus_secret_3_after_meal_habits_to_control_blood_sugar_spikes/README.md)
-80. - [ ] [The Subtle Shades of Dharma — Sita’s Counsel to Rama](./the_subtle_shades_of_dharma-sita-s_counsel_to_rama/README.md)
-81. - [ ] [The Talent Code](./the_talent_code/README.md)
-82. - [ ] [Thinking in Systems](./thinking_in_systems/README.md)
-83. - [ ] [Thirukkural & Tamil Classics](./tbd/thirukkural/README.md)
-84. - [ ] [Thoughts of Power by Swami Vivekananda](./thoughts_of_power/README.md)
-85. - [ ] [Turning Pro — The Journey from Amateur to Professional](./turning_pro-the_journey_from_amateur_to_professional/README.md)
-86. - [ ] [Values Highly Successful People Share — Mark Manson](./values_highly_succcesful_people_mark_manson/README.md)
-87. - [ ] [Viswanathan Anand - Mind Master](./tbd/viswanathan_anand_mind_master/README.md)
-88. - [ ] [Wherever You Go, There You Are](./wherever_you_go_there_you_are/README.md)
-89. - [ ] [Winning: The Unforgiving Race to Greatness](./winning_the_unforgiving_race_to_greatness/README.md)
-90. - [ ] [Yoga Asanas for Diabetes Management](./yoga_asanas_for_diabetes_management/README.md)
-91. - [ ] [Yoga for Diabetes Management](./yoga_for_diabetes_management/README.md)
+60. - [ ] [The 25-Year Framework: A Guide to Strategic Longevity](./the_25_year_framework_a_guide_to_strategic_longevity/README.md)
+61. - [ ] [The Architecture of Success: Rockefeller's Wisdom for His Son](./the_architecture_of_success_rockefellers_wisdom_for_his_son/README.md)
+62. - [ ] [The Art of Change: Modern Patterns for Success](./the_art_of_change_modern_patterns_for_success/README.md)
+63. - [ ] [The Art of Leadership: Purpose and Integrity](./the_art_of_leadership_purpose_and_integrity/README.md)
+64. - [ ] [The Art of Learning: A Journey in Pursuit of Excellence](./the_art_of_learning_a_journey_in_pursuit_of_excellence/README.md)
+65. - [ ] [The Art of Strategy: Steps Towards Business Agility](./the_art_of_strategy_steps_towards_business_agility/README.md)
+66. - [ ] [The Arthashastra: Kautilya's Ancient Treatise on Statecraft](./the_arthashastra_kautilyas_ancient_treatise_on_statecraft/README.md)
+67. - [ ] [The Barefoot Coach](./the_barefoot_coach/README.md)
+68. - [ ] [The Champion's Mind: How Great Athletes Think, Train, and Thrive](./the_champions_mind_how_great_athletes_think_train_and_thrive/README.md)
+69. - [ ] [The Dhoni Touch: Unravelling the Enigma of Mahi](./the_dhoni_touch_unravelling_the_enigma_of_mahi/README.md)
+70. - [ ] [The Four Pillars of a Healthy Mind](./the_four_pillars_of_a_healthy_mind/README.md)
+71. - [ ] [The Grit Factor: Leadership Lessons from the Vanguard](./the_grit_factor_leadership_lessons_from_the_vanguard/README.md)
+72. - [ ] [The Heart of the Buddha's Teaching](./the_heart_of_the_buddhas_teaching/README.md)
+73. - [ ] [The New Toughness Training for Sports](./the_new_toughness_training_for_sports/README.md)
+74. - [ ] [The Power 5 — HIIT to Improve Metabolic Health and Target Visceral Fat](./the_power_5_HIIT_to_improve_metabolic_health_and_target_visceral_fat/README.md)
+75. - [ ] [The Power of Personal Accountability](./the_power_of_personal_accountability/README.md)
+76. - [ ] [The Psychology of Human Misjudgment](./the_psychology_of_human_misjudgment/README.md)
+77. - [ ] [The Psychology of Success: Why High Performers are Broken](./the_psychology_of_success_why_high_performers_are_broken/README.md)
+78. - [ ] [The Science of Meditation and Neural State Control](./the_science_of_meditation_and_neural_state_control/README.md)
+79. - [ ] [The Score Takes Care of Itself](./the_score_takes_care_of_itself/README.md)
+80. - [ ] [The Soleus Secret — 3 After-Meal Habits to Control Blood Sugar Spikes](./the_soleus_secret_3_after_meal_habits_to_control_blood_sugar_spikes/README.md)
+81. - [ ] [The Subtle Shades of Dharma — Sita’s Counsel to Rama](./the_subtle_shades_of_dharma-sita-s_counsel_to_rama/README.md)
+82. - [ ] [The Talent Code](./the_talent_code/README.md)
+83. - [ ] [Thinking in Systems](./thinking_in_systems/README.md)
+84. - [ ] [Thirukkural & Tamil Classics](./tbd/thirukkural/README.md)
+85. - [ ] [Thoughts of Power by Swami Vivekananda](./thoughts_of_power/README.md)
+86. - [ ] [Turning Pro — The Journey from Amateur to Professional](./turning_pro-the_journey_from_amateur_to_professional/README.md)
+87. - [ ] [Ultralearning](./ultralearning/README.md)
+88. - [ ] [Values Highly Successful People Share — Mark Manson](./values_highly_succcesful_people_mark_manson/README.md)
+89. - [ ] [Viswanathan Anand - Mind Master](./tbd/viswanathan_anand_mind_master/README.md)
+90. - [ ] [Wherever You Go, There You Are](./wherever_you_go_there_you_are/README.md)
+91. - [ ] [Winning: The Unforgiving Race to Greatness](./winning_the_unforgiving_race_to_greatness/README.md)
+92. - [ ] [Yoga Asanas for Diabetes Management](./yoga_asanas_for_diabetes_management/README.md)
+93. - [ ] [Yoga for Diabetes Management](./yoga_for_diabetes_management/README.md)
 
 ## Directory summaries & categories
 
@@ -719,7 +721,16 @@ These directories currently contain only a `README` file and no additional files
   5. Leadership presence and learning orientation
 
 
-### 60. [the_architecture_of_success_rockefellers_wisdom_for_his_son](./the_architecture_of_success_rockefellers_wisdom_for_his_son/README.md)
+### 60. [the_25_year_framework_a_guide_to_strategic_longevity](./the_25_year_framework_a_guide_to_strategic_longevity/README.md)
+- **About:** Dan Sullivan's 25-year time horizon for strategic longevity: replacing short-term panic with 100 quarterly iterations, desire clarity, and time abundance.
+- **5 categories:**
+  1. Long-horizon strategic planning
+  2. Desire clarity through daily wanting
+  3. Time abundance over deadline panic
+  4. Quarterly iteration and compounding progress
+  5. Moving Future morale and momentum review
+
+### 61. [the_architecture_of_success_rockefellers_wisdom_for_his_son](./the_architecture_of_success_rockefellers_wisdom_for_his_son/README.md)
 - **About:** Character-building lessons around self-reliance, effort, and disciplined stewardship.
 - **5 categories:**
   1. Self-reliance and responsibility
@@ -729,7 +740,7 @@ These directories currently contain only a `README` file and no additional files
   5. Resourcefulness over entitlement
 
 
-### 61. [the_art_of_change_modern_patterns_for_success](./the_art_of_change_modern_patterns_for_success/README.md)
+### 62. [the_art_of_change_modern_patterns_for_success](./the_art_of_change_modern_patterns_for_success/README.md)
 - **About:** Adaptive change philosophy emphasizing pattern recognition, flow, and non-forced action.
 - **5 categories:**
   1. Change navigation under uncertainty
@@ -739,7 +750,7 @@ These directories currently contain only a `README` file and no additional files
   5. Calm decision-making during turbulence
 
 
-### 62. [the_art_of_leadership_purpose_and_integrity](./the_art_of_leadership_purpose_and_integrity/README.md)
+### 63. [the_art_of_leadership_purpose_and_integrity](./the_art_of_leadership_purpose_and_integrity/README.md)
 - **About:** Purpose-led and integrity-centered leadership with emphasis on non-coercive influence.
 - **5 categories:**
   1. Purpose-led leadership clarity
@@ -749,7 +760,7 @@ These directories currently contain only a `README` file and no additional files
   5. Restraint and humility in authority
 
 
-### 63. [the_art_of_learning_a_journey_in_pursuit_of_excellence](./the_art_of_learning_a_journey_in_pursuit_of_excellence/README.md)
+### 64. [the_art_of_learning_a_journey_in_pursuit_of_excellence](./the_art_of_learning_a_journey_in_pursuit_of_excellence/README.md)
 - **About:** Deep learning and mastery principles from deliberate practice, recovery, and adaptive focus.
 - **5 categories:**
   1. Deliberate practice architecture
@@ -759,7 +770,7 @@ These directories currently contain only a `README` file and no additional files
   5. Mentor-guided growth
 
 
-### 64. [the_art_of_strategy_steps_towards_business_agility](./the_art_of_strategy_steps_towards_business_agility/README.md)
+### 65. [the_art_of_strategy_steps_towards_business_agility](./the_art_of_strategy_steps_towards_business_agility/README.md)
 - **About:** Strategic agility frameworks combining orientation, mapping, and iterative decision loops.
 - **5 categories:**
   1. Situational awareness for decisions
@@ -769,7 +780,7 @@ These directories currently contain only a `README` file and no additional files
   5. Asymmetric advantage design
 
 
-### 65. [the_arthashastra_kautilyas_ancient_treatise_on_statecraft](./the_arthashastra_kautilyas_ancient_treatise_on_statecraft/README.md)
+### 66. [the_arthashastra_kautilyas_ancient_treatise_on_statecraft](./the_arthashastra_kautilyas_ancient_treatise_on_statecraft/README.md)
 - **About:** Statecraft and strategy principles applied to governance, incentives, welfare, and power ethics.
 - **5 categories:**
   1. Incentive-aware decision design
@@ -779,7 +790,7 @@ These directories currently contain only a `README` file and no additional files
   5. Long-term risk and stability planning
 
 
-### 66. [the_barefoot_coach](./the_barefoot_coach/README.md)
+### 67. [the_barefoot_coach](./the_barefoot_coach/README.md)
 - **About:** Human-centered coaching and leadership through humility, trust, and strengths amplification.
 - **5 categories:**
   1. Coaching through inquiry and trust
@@ -789,7 +800,7 @@ These directories currently contain only a `README` file and no additional files
   5. Sustainable high-performance habits
 
 
-### 67. [the_champions_mind_how_great_athletes_think_train_and_thrive](./the_champions_mind_how_great_athletes_think_train_and_thrive/README.md)
+### 68. [the_champions_mind_how_great_athletes_think_train_and_thrive](./the_champions_mind_how_great_athletes_think_train_and_thrive/README.md)
 - **About:** Sports psychology methods for confidence, self-talk, arousal control, and daily discipline.
 - **5 categories:**
   1. Productive self-talk calibration
@@ -799,7 +810,7 @@ These directories currently contain only a `README` file and no additional files
   5. Daily consistency rituals
 
 
-### 68. [the_dhoni_touch_unravelling_the_enigma_of_mahi](./the_dhoni_touch_unravelling_the_enigma_of_mahi/README.md)
+### 69. [the_dhoni_touch_unravelling_the_enigma_of_mahi](./the_dhoni_touch_unravelling_the_enigma_of_mahi/README.md)
 - **About:** Tactical calm, selective attention, and leadership timing in elite competition.
 - **5 categories:**
   1. Attention filtering under noise
@@ -809,7 +820,7 @@ These directories currently contain only a `README` file and no additional files
   5. Public pressure handling
 
 
-### 69. [the_four_pillars_of_a_healthy_mind](./the_four_pillars_of_a_healthy_mind/README.md)
+### 70. [the_four_pillars_of_a_healthy_mind](./the_four_pillars_of_a_healthy_mind/README.md)
 - **About:** Davidson's four pillars — Awareness, Connection, Insight, Purpose — well-being as a trainable procedural skill.
 - **5 categories:**
   1. Awareness training practices
@@ -819,7 +830,7 @@ These directories currently contain only a `README` file and no additional files
   5. Procedural vs declarative well-being
 
 
-### 70. [the_grit_factor_leadership_lessons_from_the_vanguard](./the_grit_factor_leadership_lessons_from_the_vanguard/README.md)
+### 71. [the_grit_factor_leadership_lessons_from_the_vanguard](./the_grit_factor_leadership_lessons_from_the_vanguard/README.md)
 - **About:** Grit and mission-driven leadership through purpose, fear engagement, and mentor ecosystems.
 - **5 categories:**
   1. Purpose discovery through adversity
@@ -829,7 +840,7 @@ These directories currently contain only a `README` file and no additional files
   5. Team cohesion under stress
 
 
-### 71. [the_heart_of_the_buddhas_teaching](./the_heart_of_the_buddhas_teaching/README.md)
+### 72. [the_heart_of_the_buddhas_teaching](./the_heart_of_the_buddhas_teaching/README.md)
 - **About:** Mindfulness and compassionate realism for working with suffering and cultivating presence.
 - **5 categories:**
   1. Suffering literacy and acceptance
@@ -839,7 +850,7 @@ These directories currently contain only a `README` file and no additional files
   5. Craving reduction and contentment
 
 
-### 72. [the_new_toughness_training_for_sports](./the_new_toughness_training_for_sports/README.md)
+### 73. [the_new_toughness_training_for_sports](./the_new_toughness_training_for_sports/README.md)
 - **About:** Loehr's toughness as a trainable skill — manufacturing Ideal Performance State on demand through chosen emotional currents.
 - **5 categories:**
   1. Ideal Performance State cultivation
@@ -849,7 +860,7 @@ These directories currently contain only a `README` file and no additional files
   5. Sports-specific mental training
 
 
-### 73. [the_power_5_HIIT_to_improve_metabolic_health_and_target_visceral_fat](./the_power_5_HIIT_to_improve_metabolic_health_and_target_visceral_fat/README.md)
+### 74. [the_power_5_HIIT_to_improve_metabolic_health_and_target_visceral_fat](./the_power_5_HIIT_to_improve_metabolic_health_and_target_visceral_fat/README.md)
 - **About:** A five-minute HIIT protocol (Power 5) targeting visceral fat, mitochondrial health, and insulin sensitivity — intensity over duration, timed as a pre-meal health snack.
 - **5 categories:**
   1. TOFI / visceral fat targeting
@@ -859,7 +870,7 @@ These directories currently contain only a `README` file and no additional files
   5. Simple Sweat adaptation for injuries/limitations
 
 
-### 74. [the_power_of_personal_accountability](./the_power_of_personal_accountability/README.md)
+### 75. [the_power_of_personal_accountability](./the_power_of_personal_accountability/README.md)
 - **About:** Oz Principle — escaping the victim loop (ignore-deny-blame) for the accountability loop with self-correction like Apollo navigation.
 - **5 categories:**
   1. Victim loop recognition and escape
@@ -869,7 +880,7 @@ These directories currently contain only a `README` file and no additional files
   5. Personal responsibility in setbacks
 
 
-### 75. [the_psychology_of_human_misjudgment](./the_psychology_of_human_misjudgment/README.md)
+### 76. [the_psychology_of_human_misjudgment](./the_psychology_of_human_misjudgment/README.md)
 - **About:** Charlie Munger's latticework of misjudgment — behavioral algorithms that misfire by rote; five vital tendencies (incentive superpower, mental egg, contrast-misreaction, deprival-superreaction, Lollapalooza confluence) and systematic antidotes.
 - **5 categories:**
   1. Incentive superpower and cognitive drift
@@ -878,7 +889,7 @@ These directories currently contain only a `README` file and no additional files
   4. Deprival-superreaction and near-miss framing
   5. Lollapalooza confluence — checklists, inversion, Granny's Rule
 
-### 76. [the_psychology_of_success_why_high_performers_are_broken](./the_psychology_of_success_why_high_performers_are_broken/README.md)
+### 77. [the_psychology_of_success_why_high_performers_are_broken](./the_psychology_of_success_why_high_performers_are_broken/README.md)
 - **About:** Psychological drivers behind high achievement, including fear-based striving and self-worth conditioning.
 - **5 categories:**
   1. Healthy ambition calibration
@@ -888,7 +899,7 @@ These directories currently contain only a `README` file and no additional files
   5. Sustainable performance identity
 
 
-### 77. [the_science_of_meditation_and_neural_state_control](./the_science_of_meditation_and_neural_state_control/README.md)
+### 78. [the_science_of_meditation_and_neural_state_control](./the_science_of_meditation_and_neural_state_control/README.md)
 - **About:** Huberman on meditation neuroplasticity — refocusing when attention wanders; training the inverse of default intero/exteroception.
 - **5 categories:**
   1. Refocusing as neuroplasticity mechanism
@@ -898,7 +909,7 @@ These directories currently contain only a `README` file and no additional files
   5. Perceptual balance practice
 
 
-### 78. [the_score_takes_care_of_itself](./the_score_takes_care_of_itself/README.md)
+### 79. [the_score_takes_care_of_itself](./the_score_takes_care_of_itself/README.md)
 - **About:** Process excellence and standards-first leadership where consistent quality drives outcomes.
 - **5 categories:**
   1. Process-over-score discipline
@@ -908,7 +919,7 @@ These directories currently contain only a `README` file and no additional files
   5. Detail orientation under pressure
 
 
-### 79. [the_soleus_secret_3_after_meal_habits_to_control_blood_sugar_spikes](./the_soleus_secret_3_after_meal_habits_to_control_blood_sugar_spikes/README.md)
+### 80. [the_soleus_secret_3_after_meal_habits_to_control_blood_sugar_spikes](./the_soleus_secret_3_after_meal_habits_to_control_blood_sugar_spikes/README.md)
 - **About:** Dr. Sumit Kapadia's post-meal glucose window — activating the soleus and GLUT-4 transporters to blunt spikes without insulin, governed by the 2-out-of-3 rule.
 - **5 categories:**
   1. The 10–15 minute glucose window
@@ -918,7 +929,7 @@ These directories currently contain only a `README` file and no additional files
   5. Discreet desk-friendly post-meal movement
 
 
-### 80. [the_subtle_shades_of_dharma-sita-s_counsel_to_rama](./the_subtle_shades_of_dharma-sita-s_counsel_to_rama/README.md)
+### 81. [the_subtle_shades_of_dharma-sita-s_counsel_to_rama](./the_subtle_shades_of_dharma-sita-s_counsel_to_rama/README.md)
 - **About:** Sita's counsel to Rama on dharma's context-dependence — no single rule; probing violence, promises, and protection of innocents.
 - **5 categories:**
   1. Contextual dharma discernment
@@ -928,7 +939,7 @@ These directories currently contain only a `README` file and no additional files
   5. Righteousness beyond rigid rules
 
 
-### 81. [the_talent_code](./the_talent_code/README.md)
+### 82. [the_talent_code](./the_talent_code/README.md)
 - **About:** Coyle's deep practice — sweet-spot struggle at the edge of ability builds myelin; greatness is grown, not born.
 - **5 categories:**
   1. Deep practice at ability edge
@@ -938,7 +949,7 @@ These directories currently contain only a `README` file and no additional files
   5. Talent as developed, not innate
 
 
-### 82. [thinking_in_systems](./thinking_in_systems/README.md)
+### 83. [thinking_in_systems](./thinking_in_systems/README.md)
 - **About:** Donella Meadows’ primer on seeing the world as stocks, flows, and feedback loops whose behavior is latent in their own structure — a lens for diagnosing recurring "messes," recognizing system traps, and finding the leverage points where small redesigns produce large change.
 - **5 categories:**
   1. Reading reality as stocks, flows, and feedback loops
@@ -948,7 +959,7 @@ These directories currently contain only a `README` file and no additional files
   5. Intervening at high-leverage points (paradigms, goals, rules)
 
 
-### 83. [tbd/thirukkural](./tbd/thirukkural/README.md)
+### 84. [tbd/thirukkural](./tbd/thirukkural/README.md)
 - **About:** Classical Tamil wisdom and virtue aphorisms translated into practical moral and behavioral guidance.
 - **5 categories:**
   1. Ethical clarity for daily decisions
@@ -958,7 +969,7 @@ These directories currently contain only a `README` file and no additional files
   5. Character cultivation through classics
 
 
-### 84. [thoughts_of_power](./thoughts_of_power/README.md)
+### 85. [thoughts_of_power](./thoughts_of_power/README.md)
 - **About:** Vivekananda-centered motivational and contemplative study resources on willpower and thought discipline.
 - **5 categories:**
   1. Willpower strengthening
@@ -968,7 +979,7 @@ These directories currently contain only a `README` file and no additional files
   5. Service-oriented self-development
 
 
-### 85. [turning_pro-the_journey_from_amateur_to_professional](./turning_pro-the_journey_from_amateur_to_professional/README.md)
+### 86. [turning_pro-the_journey_from_amateur_to_professional](./turning_pro-the_journey_from_amateur_to_professional/README.md)
 - **About:** Pressfield's amateur-to-pro shift — defeating Resistance through daily practice detached from outcome validation.
 - **5 categories:**
   1. Resistance identification and naming
@@ -978,7 +989,16 @@ These directories currently contain only a `README` file and no additional files
   5. Professional identity commitment
 
 
-### 86. [values_highly_succcesful_people_mark_manson](./values_highly_succcesful_people_mark_manson/README.md)
+### 87. [ultralearning](./ultralearning/README.md)
+- **About:** Scott Young-style self-directed mastery: direct practice, metalearning maps, ruthless feedback, and high-intensity skill acquisition beyond credential dependence.
+- **5 categories:**
+  1. Direct practice in real performance contexts
+  2. Metalearning before execution
+  3. Feedback loops and correction speed
+  4. Focus and arousal calibration
+  5. Career resilience through rare skills
+
+### 88. [values_highly_succcesful_people_mark_manson](./values_highly_succcesful_people_mark_manson/README.md)
 - **About:** Manson on choosing controllable, reality-based values — smallest action first; motivation follows motion.
 - **5 categories:**
   1. Values selection over wishful caring
@@ -988,7 +1008,7 @@ These directories currently contain only a `README` file and no additional files
   5. Reality-based success criteria
 
 
-### 87. [tbd/viswanathan_anand_mind_master](./tbd/viswanathan_anand_mind_master/README.md)
+### 89. [tbd/viswanathan_anand_mind_master](./tbd/viswanathan_anand_mind_master/README.md)
 - **About:** Curated Anand-related resources on strategic calm, obsession, focus, and pressure management.
 - **5 categories:**
   1. Strategic patience and clarity
@@ -998,7 +1018,7 @@ These directories currently contain only a `README` file and no additional files
   5. Sustainable excellence mindset
 
 
-### 88. [wherever_you_go_there_you_are](./wherever_you_go_there_you_are/README.md)
+### 90. [wherever_you_go_there_you_are](./wherever_you_go_there_you_are/README.md)
 - **About:** Kabat-Zinn's mindfulness — purposeful present-moment attention; you cannot outrun yourself by changing circumstances.
 - **5 categories:**
   1. Present-moment non-judgmental attention
@@ -1008,7 +1028,7 @@ These directories currently contain only a `README` file and no additional files
   5. Purposeful attention training
 
 
-### 89. [winning_the_unforgiving_race_to_greatness](./winning_the_unforgiving_race_to_greatness/README.md)
+### 91. [winning_the_unforgiving_race_to_greatness](./winning_the_unforgiving_race_to_greatness/README.md)
 - **About:** Competitive intensity and disciplined commitment for elite outcomes.
 - **5 categories:**
   1. Commitment-cost awareness
@@ -1018,7 +1038,7 @@ These directories currently contain only a `README` file and no additional files
   5. Execution under extreme pressure
 
 
-### 90. [yoga_asanas_for_diabetes_management](./yoga_asanas_for_diabetes_management/README.md)
+### 92. [yoga_asanas_for_diabetes_management](./yoga_asanas_for_diabetes_management/README.md)
 - **About:** Siddha 48-day Mandala protocol — Triple Medicine (Body, Mind, Soul) combining asana, Chandra Bhedana pranayama, Varma stimulation, and flavor balance for diabetes reversal.
 - **5 categories:**
   1. 48-day cellular reset (Mandala cycle)
@@ -1028,7 +1048,7 @@ These directories currently contain only a `README` file and no additional files
   5. Flavor balance (bitter/astringent over sweet/pungent)
 
 
-### 91. [yoga_for_diabetes_management](./yoga_for_diabetes_management/README.md)
+### 93. [yoga_for_diabetes_management](./yoga_for_diabetes_management/README.md)
 - **About:** Comprehensive yoga briefing for Type 2 diabetes — organ-massage twists, breath-led nervous-system regulation, pranayama, and progressive daily practice for glycemic control.
 - **5 categories:**
   1. Twist-based abdominal organ stimulation

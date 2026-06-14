@@ -10,6 +10,7 @@ EXCLUDED_NAMES = {
     ".github",
     ".venv",
     ".vscode",
+    "The_25_Year_Framework_A_Guide_to_Strategic_Longevity",
     "__pycache__",
     "docs",
     "site",
@@ -48,7 +49,7 @@ def copy_repo_content() -> None:
             shutil.copy2(path, destination)
 
 
-def build_asset_gallery() -> None:
+def build_asset_gallery(target: Path) -> None:
     suffixes = lfs_suffixes()
     files = [
         path.relative_to(ROOT).as_posix()
@@ -108,12 +109,13 @@ def build_asset_gallery() -> None:
             lines.append(f'<li><a href="./{path}">{path}</a></li>')
         lines.extend(["</ul>", ""])
 
-    (DOCS_DIR / "ASSETS.md").write_text("\n".join(lines) + "\n")
+    target.write_text("\n".join(lines) + "\n")
 
 
 def main() -> None:
     copy_repo_content()
-    build_asset_gallery()
+    build_asset_gallery(ROOT / "ASSETS.md")
+    build_asset_gallery(DOCS_DIR / "ASSETS.md")
     print(f"Prepared MkDocs source in {DOCS_DIR.relative_to(ROOT)}")
 
 

@@ -1,0 +1,184 @@
+{
+  "name": "Ultralearning by Scott H. Young",
+  "children": [
+    {
+      "name": "Definition",
+      "children": [
+        {
+          "name": "Strategy for acquiring skills"
+        },
+        {
+          "name": "Self-directed"
+        },
+        {
+          "name": "Intense"
+        }
+      ]
+    },
+    {
+      "name": "Nine Principles",
+      "children": [
+        {
+          "name": "1. Metalearning",
+          "children": [
+            {
+              "name": "Draw a map"
+            },
+            {
+              "name": "Analyze why, what, and how"
+            },
+            {
+              "name": "Expert interview method"
+            }
+          ]
+        },
+        {
+          "name": "2. Focus",
+          "children": [
+            {
+              "name": "Sharpen your knife"
+            },
+            {
+              "name": "Overcome procrastination"
+            },
+            {
+              "name": "Sustain concentration"
+            }
+          ]
+        },
+        {
+          "name": "3. Directness",
+          "children": [
+            {
+              "name": "Go straight ahead"
+            },
+            {
+              "name": "Learn by doing"
+            },
+            {
+              "name": "Avoid the transfer problem"
+            }
+          ]
+        },
+        {
+          "name": "4. Drill",
+          "children": [
+            {
+              "name": "Attack weakest points"
+            },
+            {
+              "name": "Direct-then-drill approach"
+            },
+            {
+              "name": "Time slicing"
+            }
+          ]
+        },
+        {
+          "name": "5. Retrieval",
+          "children": [
+            {
+              "name": "Test to learn"
+            },
+            {
+              "name": "Free recall"
+            },
+            {
+              "name": "Desirable difficulty"
+            }
+          ]
+        },
+        {
+          "name": "6. Feedback",
+          "children": [
+            {
+              "name": "Don't dodge punches"
+            },
+            {
+              "name": "Outcome vs corrective"
+            },
+            {
+              "name": "Signal vs noise"
+            }
+          ]
+        },
+        {
+          "name": "7. Retention",
+          "children": [
+            {
+              "name": "Don't fill leaky buckets"
+            },
+            {
+              "name": "Spaced repetition"
+            },
+            {
+              "name": "Proceduralization"
+            }
+          ]
+        },
+        {
+          "name": "8. Intuition",
+          "children": [
+            {
+              "name": "Dig deep first"
+            },
+            {
+              "name": "Feynman Technique"
+            },
+            {
+              "name": "Concrete examples"
+            }
+          ]
+        },
+        {
+          "name": "9. Experimentation",
+          "children": [
+            {
+              "name": "Explore outside comfort zone"
+            },
+            {
+              "name": "Constant innovation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Case Studies",
+      "children": [
+        {
+          "name": "MIT Challenge (Scott Young)"
+        },
+        {
+          "name": "Language Learning (Benny Lewis)"
+        },
+        {
+          "name": "Jeopardy! Gaming (Roger Craig)"
+        },
+        {
+          "name": "Stardew Valley (Eric Barone)"
+        },
+        {
+          "name": "Public Speaking (Tristan de Montebello)"
+        }
+      ]
+    },
+    {
+      "name": "Why it Matters",
+      "children": [
+        {
+          "name": "Skill polarization in economy"
+        },
+        {
+          "name": "High tuition costs"
+        },
+        {
+          "name": "Technology as a tool"
+        },
+        {
+          "name": "Personal satisfaction"
+        }
+      ]
+    }
+  ]
+}
