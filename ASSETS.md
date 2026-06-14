@@ -3,7 +3,7 @@
 This page exposes the binary assets covered by `.gitattributes` so they are visible in the published MkDocs site. The GitHub Pages workflow checks out Git LFS content before building, which means these links and previews resolve to the actual assets rather than LFS pointer files.
 
 - Images: 255
-- PDFs: 253
+- PDFs: 255
 - Videos: 1
 - Archives: 0
 
@@ -446,6 +446,7 @@ This page exposes the binary assets covered by `.gitattributes` so they are visi
 <li><a href="./the_15_commitments_of_conscious_leadership/slide_deck.pdf">the_15_commitments_of_conscious_leadership/slide_deck.pdf</a></li>
 <li><a href="./the_15_commitments_of_conscious_leadership/source.pdf">the_15_commitments_of_conscious_leadership/source.pdf</a></li>
 <li><a href="./the_25_year_framework_a_guide_to_strategic_longevity/slide_deck.pdf">the_25_year_framework_a_guide_to_strategic_longevity/slide_deck.pdf</a></li>
+<li><a href="./the_25_year_framework_a_guide_to_strategic_longevity/source.pdf">the_25_year_framework_a_guide_to_strategic_longevity/source.pdf</a></li>
 <li><a href="./the_architecture_of_success_rockefellers_wisdom_for_his_son/slide_deck.pdf">the_architecture_of_success_rockefellers_wisdom_for_his_son/slide_deck.pdf</a></li>
 <li><a href="./the_architecture_of_success_rockefellers_wisdom_for_his_son/source.pdf">the_architecture_of_success_rockefellers_wisdom_for_his_son/source.pdf</a></li>
 <li><a href="./the_art_of_change_modern_patterns_for_success/slide_deck.pdf">the_art_of_change_modern_patterns_for_success/slide_deck.pdf</a></li>
@@ -519,6 +520,7 @@ This page exposes the binary assets covered by `.gitattributes` so they are visi
 <li><a href="./turning_pro-the_journey_from_amateur_to_professional/slide_deck.pdf">turning_pro-the_journey_from_amateur_to_professional/slide_deck.pdf</a></li>
 <li><a href="./turning_pro-the_journey_from_amateur_to_professional/source.pdf">turning_pro-the_journey_from_amateur_to_professional/source.pdf</a></li>
 <li><a href="./ultralearning/slide_deck.pdf">ultralearning/slide_deck.pdf</a></li>
+<li><a href="./ultralearning/source.pdf">ultralearning/source.pdf</a></li>
 <li><a href="./values_highly_succcesful_people_mark_manson/slide_deck.pdf">values_highly_succcesful_people_mark_manson/slide_deck.pdf</a></li>
 <li><a href="./wherever_you_go_there_you_are/slide_deck.pdf">wherever_you_go_there_you_are/slide_deck.pdf</a></li>
 <li><a href="./wherever_you_go_there_you_are/source.pdf">wherever_you_go_there_you_are/source.pdf</a></li>

@@ -2,7 +2,7 @@
 
 [![The 25-Year Framework](./infographic.png)](./slide_deck.pdf)
 
-| [Flashcards](./flashcards.html) | [Quiz](./quiz.html) | [Report](./report.md) | [Report 2](./report_2.md) | [Report 3](./report_3.md) | [Mind Map](./mind_map.json) |
+| [Flashcards](./flashcards.html) | [Quiz](./quiz.html) | [Report](./report.md) | [Report 2](./report_2.md) | [Report 3](./report_3.md) | [Mind Map](./mind_map.json) | [Source](./source.pdf) |
 
 ## Key Concepts
 
