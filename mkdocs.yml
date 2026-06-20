@@ -22,6 +22,7 @@ markdown_extensions:
   - admonition
   - attr_list
   - def_list
+  - fenced_code
   - footnotes
   - tables
   - toc:
@@ -29,6 +30,10 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mermaid@10.9.3/dist/mermaid.min.js
+  - javascripts/mermaid-init.js
 
 exclude_docs: |
   .DS_Store
