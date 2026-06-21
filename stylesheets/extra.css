@@ -38,8 +38,89 @@
 .asset-media video {
   max-width: 100%;
 }
-.mermaid {
+.mermaid-panzoom {
   margin: 1.5rem 0;
-  overflow-x: auto;
+  overflow: hidden;
+  border: 1px solid #d8dee4;
+  border-radius: 0.5rem;
+  background: #fff;
+}
+
+.mermaid-panzoom__toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.35rem;
+  padding: 0.45rem 0.55rem;
+  border-bottom: 1px solid #d8dee4;
+  background: #f6f8fa;
+}
+
+.mermaid-panzoom__button {
+  min-width: 2rem;
+  height: 2rem;
+  padding: 0 0.65rem;
+  border: 1px solid #c9d1d9;
+  border-radius: 0.35rem;
+  background: #fff;
+  color: #24292f;
+  font: inherit;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.mermaid-panzoom__button:hover,
+.mermaid-panzoom__button:focus {
+  border-color: #6e7781;
+  background: #f3f4f6;
+}
+
+.mermaid-panzoom__button:focus {
+  outline: 2px solid #0969da;
+  outline-offset: 2px;
+}
+
+.mermaid-panzoom__scale {
+  min-width: 3.25rem;
+  color: #57606a;
+  font-size: 0.85rem;
   text-align: center;
+}
+
+.mermaid-panzoom__viewport {
+  height: clamp(280px, 55vh, 620px);
+  overflow: hidden;
+  cursor: grab;
+  touch-action: none;
+  overscroll-behavior: contain;
+  background:
+    linear-gradient(#f6f8fa 1px, transparent 1px),
+    linear-gradient(90deg, #f6f8fa 1px, transparent 1px);
+  background-color: #fff;
+  background-size: 24px 24px;
+}
+
+.mermaid-panzoom__viewport:focus {
+  outline: 2px solid #0969da;
+  outline-offset: -2px;
+}
+
+.mermaid-panzoom__viewport.is-dragging {
+  cursor: grabbing;
+}
+
+.mermaid-panzoom .mermaid {
+  box-sizing: border-box;
+  width: max-content;
+  min-width: 100%;
+  margin: 0;
+  padding: 1.25rem;
+  transform-origin: 0 0;
+  text-align: center;
+  will-change: transform;
+}
+
+.mermaid-panzoom .mermaid svg {
+  max-width: none;
+  height: auto;
 }
