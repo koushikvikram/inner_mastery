@@ -15,6 +15,7 @@
 ## Systems View of Ultralearning
 
 Ultralearning is a feedback system where
+
 - metalearning creates the plan
 - scheduling creates commitment
 - execution creates skill
@@ -677,15 +678,6 @@ Do not ask: “What resource is available?”
 Ask: “What resource best supports the skill I actually need to perform?”
 ```
 
-For the Duke specialization, Coursera is the main resource, but your supporting resources might be:
-
-```text
-Argument notebook
-Fallacy examples
-Real-world claims from investing, politics, essays, and work communication
-Quizzes as feedback
-```
-
 ---
 
 ### 4. Benchmark successful learners
@@ -737,12 +729,6 @@ find hidden assumptions
 evaluate reasoning
 diagnose fallacies
 repair weak arguments
-```
-
-For logic and critical thinking, direct practice means:
-
-```text
-Every study session should include at least one real argument reconstruction.
 ```
 
 ---

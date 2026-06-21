@@ -1516,6 +1516,7 @@ Source: [Audio Book || Thoughts of Power || Swami Vivekananda || Published by Ad
 ## Systems View of Ultralearning
 
 Ultralearning is a feedback system where
+
 - metalearning creates the plan
 - scheduling creates commitment
 - execution creates skill
@@ -2178,15 +2179,6 @@ Do not ask: “What resource is available?”
 Ask: “What resource best supports the skill I actually need to perform?”
 ```
 
-For the Duke specialization, Coursera is the main resource, but your supporting resources might be:
-
-```text
-Argument notebook
-Fallacy examples
-Real-world claims from investing, politics, essays, and work communication
-Quizzes as feedback
-```
-
 ---
 
 ### 4. Benchmark successful learners
@@ -2238,12 +2230,6 @@ find hidden assumptions
 evaluate reasoning
 diagnose fallacies
 repair weak arguments
-```
-
-For logic and critical thinking, direct practice means:
-
-```text
-Every study session should include at least one real argument reconstruction.
 ```
 
 ---
@@ -2542,7 +2528,8 @@ Do not optimize “studying.”
 Optimize the system that turns effort into skill.
 ```
 
-### Metalearning
+
+## Metalearning
 
 ```mermaid
 flowchart LR
@@ -2617,6 +2604,10 @@ P15 --> M5
 classDef procedure fill:#E8F1FF,stroke:#2F5AA8,stroke-width:1px,color:#111;
 classDef map fill:#FFF3D6,stroke:#B7791F,stroke-width:1px,color:#111;
 classDef spacer fill:#ffffff,stroke:#ffffff,color:#ffffff;
+
+class P1,P2,P3,P4,P5,P6,P7,P8,P9,P10,P11,P12,P13,P14,P15 procedure;
+class M1,M2,M3,M4,M5 map;
+class S1,S2,S3,S4,S5 spacer;
 ```
 
 ---
