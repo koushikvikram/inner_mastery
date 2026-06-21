@@ -94,8 +94,8 @@ Being able to learn hard things quickly and effectively is a powerful skill. One
 
 **It’s usually the first project that requires the most thought and care**.
 
-- A solid, well-researched, well-executed plan can give you the confidence to face harder challenges in the future.
-- A bungled attempt is not a disaster, but it may make you reluctant to pursue future projects of a similar nature.
+A solid, well-researched, well-executed plan can give you the confidence to face harder challenges in the future.  
+A bungled attempt is not a disaster, but it may make you reluctant to pursue future projects of a similar nature.
 
 
 1. [Do Your Research](./project_steps/1_research.md)
