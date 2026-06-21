@@ -97,6 +97,7 @@ Being able to learn hard things quickly and effectively is a powerful skill. One
 - A solid, well-researched, well-executed plan can give you the confidence to face harder challenges in the future.
 - A bungled attempt is not a disaster, but it may make you reluctant to pursue future projects of a similar nature.
 
+
 1. [Do Your Research](./project_steps/1_research.md)
 2. [Schedule Your Time](./project_steps/2_schedule.md)
 3. [Execute Your Plan](./project_steps/3_execute.md)
