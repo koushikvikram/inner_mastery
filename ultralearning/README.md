@@ -84,7 +84,7 @@ Z1 --> G
 Z2 --> G
 
 %% TEXT-ONLY NODE STYLING
-classDef textOnly fill:transparent,stroke:transparent,color:#FFFFFF;
+classDef textOnly fill:transparent,stroke:transparent,color:#CBD5E1;
 classDef reinforcing fill:transparent,stroke:transparent,color:#86EFAC,font-weight:bold;
 classDef balancing fill:transparent,stroke:transparent,color:#93C5FD,font-weight:bold;
 
@@ -188,7 +188,7 @@ D11 --> V["Deeper skill"]
 V --> G
 
 %% STYLING
-classDef normal fill:transparent,stroke:transparent,color:#FFFFFF;
+classDef normal fill:transparent,stroke:transparent,color:#CBD5E1;
 classDef delay fill:transparent,stroke:transparent,color:#FACC15,font-weight:bold;
 
 class A,B,C,D,E,F,G,H,I,J,K,T,U,Q,W,X,Y,S,V normal;
