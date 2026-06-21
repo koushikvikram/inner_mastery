@@ -12,6 +12,237 @@
 - **Focus calibration:** match arousal to task complexity: intense alertness for simple drills and relaxed focus for complex work
 - **Self-directed mastery:** use high-intensity learning to escape credential dependence and build rare, marketable capability
 
+## Mapping: Ultralearning Project Steps × Ultralearning Principles
+
+The **project steps** are the outer workflow: how you run an ultralearning project from beginning to end. The **principles** are the operating rules you apply inside that workflow. Your project notes lay out five project steps: metalearning research, scheduling, execution, review, and choosing maintenance/relearning/mastery afterward. 
+
+---
+
+### 1. High-Level Mapping
+
+| Ultralearning Project Step                                | Main Principles Used                                                      | Purpose                                                                                                                                                                        |
+| --------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Step 1: Do your metalearning research**                 | **Metalearning, Directness, Drill, Feedback, Retention, Experimentation** | Build the map before starting. Decide what to learn, how to practice, what resources to use, where feedback comes from, and what bottlenecks may appear.                       |
+| **Step 2: Schedule your time**                            | **Focus, Retention, Metalearning**                                        | Convert intention into protected time. Design a schedule that supports focus, spacing, and sustainability.                                                                     |
+| **Step 3: Execute your plan**                             | **All 9 principles**                                                      | This is where the actual learning happens. You practice directly, focus deeply, retrieve, drill weak points, seek feedback, retain knowledge, build intuition, and experiment. |
+| **Step 4: Review your results**                           | **Feedback, Metalearning, Experimentation, Retention**                    | Analyze what worked, what failed, what should change, and how to improve future projects.                                                                                      |
+| **Step 5: Choose to maintain or master what you learned** | **Retention, Directness, Experimentation, Drill, Intuition**              | Decide whether to preserve, relearn, or deepen the skill after the project ends.                                                                                               |
+
+---
+
+### 2. Step-by-Step Mapping
+
+#### Step 1: Do Your Metalearning Research
+
+**Main principle:**
+**1. Metalearning — First draw a map**
+
+This step is almost entirely the Metalearning principle. You are answering:
+
+```text
+Why am I learning this?
+What exactly must I learn?
+How will I learn it?
+What resources, methods, environments, and feedback sources will I use?
+```
+
+But Step 1 also quietly uses several other principles.
+
+| Principle           | How it appears in Step 1                                                                                                                                                                          |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Metalearning**    | Define topic, scope, resources, benchmark, concepts, facts, procedures, bottlenecks.                                                                                                              |
+| **Directness**      | Decide how the skill will actually be used and design practice close to that use case.                                                                                                            |
+| **Drill**           | Identify likely weak points and backup drills before starting.                                                                                                                                    |
+| **Feedback**        | Identify where immediate, accurate, useful feedback will come from. Your feedback notes distinguish outcome, informational, and corrective feedback.                                              |
+| **Retention**       | Decide whether the subject needs spacing, proceduralization, overlearning, mnemonics, or maintenance. Your retention notes emphasize that forgetting is the default and must be planned against.  |
+| **Experimentation** | Decide what resources or methods you may test if the first plan does not work.                                                                                                                    |
+
+**In one sentence:**
+
+> Step 1 uses Metalearning to design the project, while borrowing Directness, Drill, Feedback, Retention, and Experimentation to make the design practical.
+
+---
+
+#### Step 2: Schedule Your Time
+
+**Main principle:**
+**2. Focus — Sharpen your knife**
+
+Scheduling is not just logistics. It is an intervention against procrastination, distraction, and inconsistency.
+
+| Principle           | How it appears in Step 2                                                                           |
+| ------------------- | -------------------------------------------------------------------------------------------------- |
+| **Focus**           | Decide when you will learn, protect the session, reduce distractions, and prevent procrastination. |
+| **Retention**       | Use spaced sessions instead of cramming when memory matters.                                       |
+| **Metalearning**    | Use your knowledge of your own capacity, motivation, and schedule to design a realistic plan.      |
+| **Experimentation** | Use a pilot week for longer projects to test whether the schedule works.                           |
+
+Your project notes say it is better to decide in advance how much time you will devote than to hope you find time later, and they recommend a pilot week for long projects. 
+
+**In one sentence:**
+
+> Step 2 turns the learning plan into a repeatable time structure that protects focus and supports retention.
+
+---
+
+#### Step 3: Execute Your Plan
+
+**Main principle:**
+**All 9 principles**
+
+Execution is where every principle becomes active.
+
+Your project notes explicitly list the nine principles as questions to ask during execution: Metalearning, Focus, Directness, Drill, Retrieval, Feedback, Retention, Intuition, and Experimentation. 
+
+| Principle              | Execution question                                                               |
+| ---------------------- | -------------------------------------------------------------------------------- |
+| **1. Metalearning**    | Am I still using the right map, resources, and strategy?                         |
+| **2. Focus**           | Am I actually concentrating, or am I distracted and procrastinating?             |
+| **3. Directness**      | Am I practicing the skill in the way I will actually use it?                     |
+| **4. Drill**           | Am I attacking the weakest subskill or rate-limiting step?                       |
+| **5. Retrieval**       | Am I testing myself from memory, or just rereading?                              |
+| **6. Feedback**        | Am I getting useful information about what is wrong and how to improve?          |
+| **7. Retention**       | Am I spacing, overlearning, proceduralizing, or otherwise preventing forgetting? |
+| **8. Intuition**       | Am I deeply understanding, explaining, proving, and using examples?              |
+| **9. Experimentation** | Am I trying better methods when my current approach stops working?               |
+
+**In one sentence:**
+
+> Step 3 is the battlefield where the nine principles guide moment-to-moment learning behavior.
+
+---
+
+#### Step 4: Review Your Results
+
+**Main principles:**
+**Feedback, Metalearning, Experimentation**
+
+After the project, you ask:
+
+```text
+What went right?
+What went wrong?
+What should I do differently next time?
+```
+
+Your project notes emphasize that even successful projects should be analyzed because they reveal what you want to retain and replicate. 
+
+| Principle           | How it appears in Step 4                                               |
+| ------------------- | ---------------------------------------------------------------------- |
+| **Feedback**        | Treat the entire project as feedback on your learning system.          |
+| **Metalearning**    | Convert project experience into better future learning maps.           |
+| **Experimentation** | Decide which methods worked, which failed, and what to test next time. |
+| **Retention**       | Decide what knowledge is likely to decay and what needs maintenance.   |
+
+**In one sentence:**
+
+> Step 4 turns one learning project into improved learning ability for the next project.
+
+---
+
+#### Step 5: Choose to Maintain or Master What You’ve Learned
+
+**Main principle:**
+**7. Retention — Don’t fill a leaky bucket**
+
+This step exists because learning decays unless you decide what happens after the project.
+
+Your project notes list three post-project options:
+
+```text
+1. Maintenance
+2. Relearning
+3. Mastery
+```
+
+And your retention notes explain that forgetting happens through decay, interference, and forgotten cues, so knowledge needs spacing, proceduralization, overlearning, or other retention mechanisms.  
+
+| Choice          | Main principles involved                      |
+| --------------- | --------------------------------------------- |
+| **Maintenance** | Retention, Directness                         |
+| **Relearning**  | Retention, Retrieval                          |
+| **Mastery**     | Experimentation, Drill, Directness, Intuition |
+
+**In one sentence:**
+
+> Step 5 decides whether the skill will be preserved, reactivated later, or deepened into mastery.
+
+---
+
+### 3. Matrix View
+
+| Principle              | Step 1: Research | Step 2: Schedule | Step 3: Execute | Step 4: Review | Step 5: Maintain/Master |
+| ---------------------- | ---------------: | ---------------: | --------------: | -------------: | ----------------------: |
+| **1. Metalearning**    |          Primary |        Secondary |    Active check |        Primary |               Secondary |
+| **2. Focus**           |        Secondary |          Primary |         Primary |      Secondary |               Secondary |
+| **3. Directness**      |          Primary |        Secondary |         Primary |      Secondary |                 Primary |
+| **4. Drill**           |        Secondary |                — |         Primary |      Secondary |     Primary for mastery |
+| **5. Retrieval**       |        Secondary |        Secondary |         Primary |      Secondary |  Primary for relearning |
+| **6. Feedback**        |          Primary |                — |         Primary |        Primary |               Secondary |
+| **7. Retention**       |          Primary |          Primary |         Primary |      Secondary |                 Primary |
+| **8. Intuition**       |        Secondary |                — |         Primary |      Secondary |     Primary for mastery |
+| **9. Experimentation** |        Secondary |        Secondary |         Primary |        Primary |     Primary for mastery |
+
+Legend:
+
+```text
+Primary = central to this step
+Secondary = useful but not the main focus
+Active check = used to monitor whether the step is still working
+```
+
+---
+
+### 4. The System Logic
+
+The project steps form the **macro-cycle**:
+
+```text
+Research → Schedule → Execute → Review → Maintain / Master
+```
+
+The principles form the **micro-controls** inside the cycle:
+
+```text
+Metalearning tells you where to go.
+Focus gives you usable attention.
+Directness keeps practice tied to reality.
+Drill attacks bottlenecks.
+Retrieval makes memory stronger.
+Feedback corrects errors.
+Retention prevents decay.
+Intuition deepens understanding.
+Experimentation improves the system when old methods stop working.
+```
+
+### Short Version
+
+```text
+Step 1: Research
+→ Metalearning, Directness, Feedback, Drill, Retention
+
+Step 2: Schedule
+→ Focus, Retention, Metalearning
+
+Step 3: Execute
+→ All 9 principles
+
+Step 4: Review
+→ Feedback, Metalearning, Experimentation
+
+Step 5: Maintain or Master
+→ Retention, Retrieval, Directness, Drill, Intuition, Experimentation
+```
+
+The cleanest way to understand it:
+
+```text
+Project steps = the lifecycle of the learning project.
+Principles = the control system that keeps the project effective.
+```
+
+---
+
 ## Systems View of Ultralearning
 
 Ultralearning is a feedback system where
