@@ -1505,6 +1505,63 @@ Source: [Audio Book || Thoughts of Power || Swami Vivekananda || Published by Ad
 
 | [Flashcards](./ultralearning/flashcards.html) | [Quiz](./ultralearning/quiz.html) | [Report](./ultralearning/report.md) | [Report 2](./ultralearning/report_2.md) | [Report 3](./ultralearning/report_3.md) | [Mind Map](./ultralearning/mind_map.json) | [Source](./ultralearning/source.pdf) |
 
+## Introduction
+
+1. Learning
+    - Broadening of the horizons of possibility.
+    - Trying things out for yourself.
+    - Thinking hard about the nature of the learning challenges you face.
+    - Testing solutions to overcome them.
+2. Ultralearning
+    - A **strategy** for acquiring skills and knowledge.
+    - Characteristics
+        - **Self-directed**
+        - **Intense**
+        - **Willingness to prioritize deeply and effectively learning things**
+3. Why Ultralearning Matters
+    - Personal life
+        - Your deepest moments of happiness
+            - Don't come from doing easy things
+            - Come from
+                - Realizing your potential
+                - Overcoming your own limiting beliefs about yourself
+    - Economy
+        - We're increasingly living in a world where the top performers do a lot better than the rest.
+        - Factors
+            - **skill polarization** as a result of computers and robots
+            - **globalization** (medium-skilled jobs are outsourced to developing countries)
+            - **regionalization** (an extension of globalization, with certain high-performing companies and cities making outsized impacts on the economy)
+    - Work and Education
+        - University tuition is
+            - Too expensive
+            - Doesn't teach skills needed to succeed in the new high-skilled jobs.
+        - We're having to learn job skills by ourselves.
+        - Rapidly changing fields mean that professionals need to constanly learn new skills and abilities to stay relevant.
+        - Rapidly learning hard skills can have a greater impact than years of mediocre striving on the job.
+4. How Technology helps accelerate Ultralearning
+    - Top universities offer MOOCs.
+    - Forums and discussion platform let you learn in groups.
+    - Software tools for learning (eg. spaced-repetition software) accelerate the learning process itself.
+5. Qualities of the best Ultralearners
+    - Rarely motivated by professional success.
+    - Driven forward by either
+        - Their compelling vision of what they want to do.
+        - A deep curiosity.
+        - The challenge of ultralearning itself.
+    - Blend the practical reasons for learning a skill with an inspiration that comes from something that excites them.
+    - Have
+        - Obsessive work ethic
+        - Intensity
+        - Initiative
+        - Commitment to effective learning
+6. Why see Ultralearning through Principles?
+    - Every Ultralearning project is unique.
+    - Principles
+        - Allow you to solve problems, even those you may have never encountered before, in a way that a recipe or mechanical procedure cannot.
+        - Make sense of the world, and even if they don't always articulate exactly how you should solve a particular challenge, they can provide immense guidance.
+    - Take Ultralearning principles as flexible guidelines, rather than rigid rules.
+    - Each ultralearning principle, if applied appropriately, will make you a better learner regardless of whether your starting point is dull or brilliant.
+
 ### Key Concepts
 
 - **Directness:** learn in the context where performance will be judged; build, speak, solve, and practice instead of only consuming theory
