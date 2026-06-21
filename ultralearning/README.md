@@ -140,7 +140,7 @@ A **delay** is the time gap between taking an action and seeing its effect.
 
 In this ultralearning system, delays matter because you may be doing the right thing, but the result appears later. That delay can make you falsely think the method is not working.
 
-```mermaid id="o3xj0h"
+```mermaid
 flowchart TD
 
 A["Learning goal / motivation"] --> D1["Delay: caring enough to start"]
