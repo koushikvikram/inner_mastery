@@ -12,6 +12,59 @@
 - **Focus calibration:** match arousal to task complexity: intense alertness for simple drills and relaxed focus for complex work
 - **Self-directed mastery:** use high-intensity learning to escape credential dependence and build rare, marketable capability
 
+## Ultralearning Principles
+
+1. [Metalearning: First draw a map](./principles/1_metalearning.md)
+2. [Focus: Sharpen your knife](./principles/2_focus.md)
+3. [Directness: Go straight ahead](./principles/3_directness.md)
+4. [Drill: Attack your weakest point](./principles/4_drill.md)
+5. [Retrieval: Test to learn](./principles/5_retrieval.md)
+6. [Feedback: Don't dodge the punches](./principles/6_feedback.md)
+7. [Retention: Don't fill a leaky bucket](./principles/7_retention.md)
+8. [Intuition: Dig deep before building up](./principles/8_intuition.md)
+9. [Experimentation: Explore outside your comfort zone](./principles/9_experimentation.md)
+
+## Ultralearning Project Steps
+
+> "The beginning is always today". — Mary Shelley
+> 
+
+The biggest **obstacle to ultralearning** is simply that **most people don’t care enough about their own self-education to get started**.
+
+*Ultralearning projects aren’t easy. They require **planning, time, and effort**. Yet the rewards are worth the effort.*
+
+Being able to learn hard things quickly and effectively is a powerful skill. One successful project tends to lead to others.
+
+**It’s usually the first project that requires the most thought and care**.
+
+- A solid, well-researched, well-executed plan can give you the confidence to face harder challenges in the future.
+- A bungled attempt is not a disaster, but it may make you reluctant to pursue future projects of a similar nature.
+
+1. [Do Your Research](./project_steps/1_research.md)
+2. [Schedule Your Time](./project_steps/2_schedule.md)
+3. [Execute Your Plan](./project_steps/3_execute.md)
+4. [Review Your Results](./project_steps/4_review.md)
+5. [Choose to Maintain or Master What You’ve Learned](./project_steps/5_maintain_or_master.md)
+
+## Alternatives to Ultralearning: Low-Intensity Habits and Formal Instruction
+
+Being an ultralearner doesn’t imply that everything one learns has to be done in the most aggressive and dramatic fashion possible.
+
+Other strategies that can work with ultralearning, in different contexts.
+
+1. Low-Intensity Habits
+2. Formal, Structured Education
+
+## Lifelong Learning
+
+The goal of ultralearning is to
+
+- Expand the opportunities available to you, not narrow them.
+- Create new avenues for learning
+- Push yourself to pursue them aggressively rather than timidly waiting by the sidelines
+
+This is not going to be a method suitable for everyone, but for those who feel inspired to use it, it provides a start.
+
 ## Mapping: Ultralearning Project Steps × Ultralearning Principles
 
 The **project steps** are the outer workflow: how you run an ultralearning project from beginning to end. The **principles** are the operating rules you apply inside that workflow. Your project notes lay out five project steps: metalearning research, scheduling, execution, review, and choosing maintenance/relearning/mastery afterward. 
