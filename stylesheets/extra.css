@@ -38,6 +38,68 @@
 .asset-media video {
   max-width: 100%;
 }
+
+.site-sidebar-toggle {
+  position: fixed;
+  z-index: 400;
+  top: 0.65rem;
+  left: 0.65rem;
+  min-height: 2rem;
+  padding: 0 0.65rem;
+  border: 1px solid #c9d1d9;
+  border-radius: 0.35rem;
+  background: #fff;
+  color: #24292f;
+  font: inherit;
+  font-size: 0.8rem;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(31, 35, 40, 0.16);
+}
+
+.site-sidebar-toggle:hover,
+.site-sidebar-toggle:focus {
+  border-color: #6e7781;
+  background: #f3f4f6;
+}
+
+.site-sidebar-toggle:focus {
+  outline: 2px solid #0969da;
+  outline-offset: 2px;
+}
+
+body.sidebar-toggle-ready .wy-nav-side,
+body.sidebar-toggle-ready .wy-nav-content-wrap {
+  transition:
+    margin-left 180ms ease,
+    transform 180ms ease;
+}
+
+body.sidebar-hidden .wy-nav-side,
+body.sidebar-hidden .wy-nav-side.shift {
+  transform: translateX(-100%);
+}
+
+body.sidebar-hidden .wy-nav-content-wrap {
+  margin-left: 0;
+}
+
+body.sidebar-hidden .wy-nav-content {
+  max-width: none;
+}
+
+@media screen and (max-width: 768px) {
+  .site-sidebar-toggle {
+    top: 0.45rem;
+    right: 0.65rem;
+    left: auto;
+  }
+
+  body.sidebar-hidden .wy-nav-side {
+    display: none;
+  }
+}
+
 .mermaid-panzoom {
   margin: 1.5rem 0;
   overflow: hidden;
